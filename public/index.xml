@@ -2,19 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jalyn Cai</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Jalyn Cai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Aug 2024 14:55:08 +0800</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Aug 2024 17:21:47 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>//localhost:1313/docs/test/</link>
-      <pubDate>Fri, 09 Aug 2024 14:55:08 +0800</pubDate>
+      <title>Learning and blundering in chess and life</title>
+      <link>http://localhost:1313/posts/learning-and-blundering/</link>
+      <pubDate>Fri, 09 Aug 2024 17:21:47 +0800</pubDate>
       
-      <guid>//localhost:1313/docs/test/</guid>
-      <description>sigh.</description>
-      <content:encoded><![CDATA[<p>sigh.</p>
+      <guid>http://localhost:1313/posts/learning-and-blundering/</guid>
+      <description>Looks like this year is an actual year of learning, because I decided to pick chess up on a whim.
+A real whim, or a procrastination technique from doing up my portfolio? You decide.
+I knew how to play the basics of Chinese chess (象棋), which just meant I knew how the pieces moved, so there are some parts that now feel familiar. I mean, am I calling the knight a horse (馬), because that’s what the Chinese piece is and they move in the exact same way in the L shape, except there are more restrictions on a Chinese horse?</description>
+      <content:encoded><![CDATA[<p>Looks like this year is an actual year of learning, because I decided to pick chess up on a whim.</p>
+<p>A real whim, or a procrastination technique from doing up my portfolio? You decide.</p>
+<hr>
+<p>I knew how to play the basics of Chinese chess (象棋), which just meant I knew how the pieces moved, so there are some parts that now feel familiar. I mean, am I calling the knight a horse (馬), because that’s what the Chinese piece is and they move in the exact same way in the L shape, except there are more restrictions on a Chinese horse?</p>
+<p>Obviously.</p>
+<p>Also, no flying King, which is something the General can do, which makes it a little less exciting for 5 year old me who wanted that General to fly every single time.</p>
+<hr>
+<p>I can’t say enough great things about <a href="https://www.learnchesswithdrwolf.com/"
+   
+   
+     target="_blank" rel="noopener"
+   >
+  Learn Chess with Dr. Wolf
+</a>, which is structured enough that I feel like I’m learning something new every time I open the app, but also gamified enough that I <em>want</em> to open the app. Some dialogue made me laugh outright, especially when I blunder — and I am blundering <em>so</em> much.</p>
+<p>One important thing that I’m learning is just how many blind spots I have. There’s that analogy to the decisions I’m making not just in playing a match, but in real life. I’m not someone you can call impulsive, but in games, I can see how my inexperience and lack of focus make my decisions a liability. Sometimes I’m too eager to win pieces, but I end up losing material instead because I failed to see that the piece was protecting another more important one.</p>
+<p>A bigger issue that I’m still working through is not being able to instinctively see when a move leads to a stalemate. I think this is slightly worse than losing pieces, and again, analogously to life, have I doomed myself to a lose/lose situation instead of one that would be beneficial on whichever metric I frame it with?</p>
+<p>I’m excited to learn more, both about chess, and about how it feeds back into my life.</p>
+<hr>
+<p>(Also, yes, I speed-watched Queen’s Gambit because I missed that boat in 2020 and only saw it for the first time last weekend. I love complex competent characters )</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Beginnings</title>
+      <link>http://localhost:1313/posts/new/</link>
+      <pubDate>Sat, 28 Dec 2019 16:55:46 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/new/</guid>
+      <description>I want to start a blog.
+This has been something that has been on my mind for the past ten years, although if I’m being honest with myself (and that’s the goal here!), it has definitely been something I’ve thought of for way longer than the last decade.
+I’ve flirted with Blogger as a teen, painstakingly linking my high school friends’ blogs in the sidebar and refreshing each of them daily, before I discovered RSS (and before it faded away).</description>
+      <content:encoded><![CDATA[<p>I want to start a blog.</p>
+<p>This has been something that has been on my mind for the past ten years, although if I’m being honest with myself (and that’s the goal here!), it has definitely been something I’ve thought of for way longer than the last decade.</p>
+<p>I’ve flirted with Blogger as a teen, painstakingly linking my high school friends’ blogs in the sidebar and refreshing each of them daily, before I discovered RSS (and before it faded away). I had a carefully curated LiveJournal about my favorite TV shows and films and music, and for a few years, it was such a big part of my life online.</p>
+<p>I’d even installed easily a dozen or so WordPress blogs when I started freelancing as a web designer when I was 18, and created endless mental reminders for myself to get the ball rolling on one myself when the blogs I was reading shifted into the mainstream.</p>
+<p>Yet, the daunting expectations of being consistent in writing and putting something out into the world, coupled with the imposter syndrome of feeling like my thoughts aren’t worthy enough of documentation gave me pause in my steps towards doing just that.</p>
+<p>There isn’t really a grand plan or strategy in place for this little corner of the internet I’m parking myself in, though. Plenty of things and conversations I want to have with people, and it would probably reflect the intersections of my life, my values, and things I find interesting.</p>
+<p>More likely than not, it would chronicle my journey in optimizing my life, my path to financial independence, my attempts at intentionality and minimalism, and my lifelong pursuit of fitness (both physical and mental!).</p>
+<p>I want to start a blog, and so, as a new year and decade begins – here I am.</p>
+<p>Hello, world!</p>
 ]]></content:encoded>
     </item>
     
