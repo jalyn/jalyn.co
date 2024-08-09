@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Devices on Jalyn Cai</title>
+    <link>https://jalyn.co/tags/devices/</link>
+    <description>Recent content in Devices on Jalyn Cai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Jun 2024 19:18:16 +0800</lastBuildDate><atom:link href="https://jalyn.co/tags/devices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Argh, Apple [How to get unstuck on the iOS update during setup]</title>
+      <link>https://jalyn.co/ios-unstuck/</link>
+      <pubDate>Sat, 22 Jun 2024 19:18:16 +0800</pubDate>
+      
+      <guid>https://jalyn.co/ios-unstuck/</guid>
+      <description>My dad’s phone was an iPhone 11 that he’s had for several years now, and one day, with no warning, it stopped charging.
+My stop-gap solution was to hand him my wireless charger, which worked for a bit technically, but wasn’t suited for his work flow.
+That’s okay; it was nearly Father’s Day so my sister and I got the iPhone SE for him.
+After a week or so of waiting (which was about 6 days longer than I had anticipated; something to unpack here about my apparent high standards for delivery timelines), it arrived.</description>
+      <content:encoded><![CDATA[<p>My dad’s phone was an iPhone 11 that he’s had for several years now, and one day, with no warning, it stopped charging.</p>
+<p>My stop-gap solution was to hand him my wireless charger, which worked for a bit technically, but wasn’t suited for his work flow.</p>
+<p>That’s okay; it was nearly Father’s Day so my sister and I got the iPhone SE for him.</p>
+<p>After a week or so of waiting (which was about 6 days longer than I had anticipated; something to unpack here about my apparent high standards for delivery timelines), it arrived.</p>
+<h3 id="the-ordeal">The ordeal</h3>
+<p>I thought it would be simple with the data transfer — he doesn’t have too many apps or personal data on his phone, and I only needed to preserve the connection to his work VPN, and chat history on the handful of chat apps he has that aren’t cloud-based.</p>
+<p>(Yeah, looking at you, Whatsapp.)</p>
+<p>I thought it would be simple and that it would only take a few minutes, because that’s how Apple has conditioned us to behave, right?</p>
+<p>Instead, after pairing the phone and hitting ‘next’ on the steps, it got stuck on the iOS download and update screen.</p>
+<p>I thought: this must be a mistake, so I restarted the process, did the pairing again, clicked ‘next’ again.</p>
+<p><em>Sigh.</em></p>
+<p><a href="https://www.google.com/search?q=iphone&#43;new&#43;phone&#43;setup&#43;software&#43;update&#43;2&#43;days&#43;site:discussions.apple.com"
+   
+   
+     target="_blank" rel="noopener"
+   >
+  A cursory search found this issue starting back from at least 2020
+</a>; at one point it told me it would take 5 days for it to finish downloading and transferring.</p>
+<h3 id="the-solution">The solution</h3>
+<ol>
+<li>Set up the phone as if it’s a new phone, and do not choose to import your settings and data from your old phone — no worries, you can do the transfer after these steps</li>
+<li>With the brand new phone, navigate to Settings &gt; General &gt; Software Update</li>
+<li>Wait a reasonable 15 – 20 minutes for the iOS update to be downloaded and updated</li>
+<li>Then, reset this phone to its factory settings, by going to Settings &gt; General, and scrolling all the way down to Transfer or Reset iPhone</li>
+<li>Ignore the confusing taxonomy and select the ‘Erase All Content and Settings’ option</li>
+<li>Voilà. <em>Now</em> you can go through the phone data transfer and not run into the 5-day-wait problem</li>
+</ol>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
