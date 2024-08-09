@@ -6,13 +6,107 @@
     <description>Recent content on Jalyn Cai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Aug 2024 17:21:47 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Aug 2024 22:48:16 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital gardening</title>
+      <link>http://localhost:1313/digital-garden/</link>
+      <pubDate>Fri, 09 Aug 2024 22:48:16 +0800</pubDate>
+      
+      <guid>http://localhost:1313/digital-garden/</guid>
+      <description>I write: on my journal every night, chronicling my frustrations at myself and working through the mess in my head.
+I write: in my notebook that I carry with me, scribbles of snippets from podcasts and books and articles.
+I write: in Notion, in chat messages, in emails, in documentations that I am sure no one reads but it is still good to keep a second brain for the team at work (or so I tell myself for comfort).</description>
+      <content:encoded><![CDATA[<p>I write: on my journal every night, chronicling my frustrations at myself and working through the mess in my head.</p>
+<p>I write: in my notebook that I carry with me, scribbles of snippets from podcasts and books and articles.</p>
+<p>I write: in Notion, in chat messages, in emails, in documentations that I am sure no one reads but it is still good to keep a second brain for the team at work (or so I tell myself for comfort).</p>
+<p>I write: fiction, tucked away in documents not many people have seen.</p>
+<p>And so &ndash; am I a writer?</p>
+<hr>
+<p>I started <a href="/beginnings"
+   
+   >
+  my blog journey at the very tippy end of 2019
+</a>, with some ups and plenty of downs.</p>
+<p>It was a slow start, with the pandemic roaring through without warning. Then, I tried to tackle consistency in 2021 and 2022, writing every single week, no matter the topic or the banality.</p>
+<p>I succeeded, mostly, but writing fell to the wayside when I started preparing for the GMAT in 2023. Writing started to feel like a chore, and so I stopped doing it.</p>
+<p>That is, on hindsight, one of the bigger oops on my personal growth journey.</p>
+<p>Even in the age of AI and the threat of elimination with our core stack of skills, I believe writing still remains something that would differentiate the thinkers from the followers.</p>
+<p>At the very least, the act of writing helps me to synthesize my own thoughts and understanding of myself, the world, and the society we live in.</p>
+<p>(And boy, do we live in a society.)</p>
+<hr>
+<p>For four and a half years, this site lived on Wordpress, bloated with features as they came. I could never get my theme to work the way I wanted; half-baked widgets installed to try things, and hacks in custom css to make it <em>passable</em>.</p>
+<p>So I decided: I wanted to build my own <a href="https://maggieappleton.com/garden-history"
+   
+   
+     target="_blank" rel="noopener"
+   >
+  digital garden
+</a>.</p>
+<p>From the perspective of the concept:</p>
+<ul>
+<li>It should evolve as I do</li>
+<li>I get to learn in public</li>
+<li>Ideas get to pollinate and cross-cultivate (maybe I am taking the garden analogy to far)</li>
+</ul>
+<p>For the tech stack:</p>
+<ul>
+<li>It has to be lightweight</li>
+<li>Updating needs to be easy</li>
+</ul>
+<p>Above all, I want to have fun writing in public again.</p>
+<hr>
+<p>All of that to say: this site is now powered by Hugo, I had a steeper-than-expected learning curve with git, and my html/css skills are rusty but not completely down.</p>
+<p>It also means that I am manually migrating entries over, but this gives me the chance to prune my thinking, and reflect on my past writing.</p>
+<p>So &ndash; please expect breakages in links, and things not working (yet! consider this an MVP) as I figure this out. I&rsquo;m excited to be excited about writing again.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Argh, Apple [How to get unstuck on the iOS update during setup]</title>
+      <link>http://localhost:1313/ios-unstuck/</link>
+      <pubDate>Sat, 22 Jun 2024 19:18:16 +0800</pubDate>
+      
+      <guid>http://localhost:1313/ios-unstuck/</guid>
+      <description>My dad’s phone was an iPhone 11 that he’s had for several years now, and one day, with no warning, it stopped charging.
+My stop-gap solution was to hand him my wireless charger, which worked for a bit technically, but wasn’t suited for his work flow.
+That’s okay; it was nearly Father’s Day so my sister and I got the iPhone SE for him.
+After a week or so of waiting (which was about 6 days longer than I had anticipated; something to unpack here about my apparent high standards for delivery timelines), it arrived.</description>
+      <content:encoded><![CDATA[<p>My dad’s phone was an iPhone 11 that he’s had for several years now, and one day, with no warning, it stopped charging.</p>
+<p>My stop-gap solution was to hand him my wireless charger, which worked for a bit technically, but wasn’t suited for his work flow.</p>
+<p>That’s okay; it was nearly Father’s Day so my sister and I got the iPhone SE for him.</p>
+<p>After a week or so of waiting (which was about 6 days longer than I had anticipated; something to unpack here about my apparent high standards for delivery timelines), it arrived.</p>
+<h3 id="the-ordeal">The ordeal</h3>
+<p>I thought it would be simple with the data transfer — he doesn’t have too many apps or personal data on his phone, and I only needed to preserve the connection to his work VPN, and chat history on the handful of chat apps he has that aren’t cloud-based.</p>
+<p>(Yeah, looking at you, Whatsapp.)</p>
+<p>I thought it would be simple and that it would only take a few minutes, because that’s how Apple has conditioned us to behave, right?</p>
+<p>Instead, after pairing the phone and hitting ‘next’ on the steps, it got stuck on the iOS download and update screen.</p>
+<p>I thought: this must be a mistake, so I restarted the process, did the pairing again, clicked ‘next’ again.</p>
+<p><em>Sigh.</em></p>
+<p><a href="https://www.google.com/search?q=iphone&#43;new&#43;phone&#43;setup&#43;software&#43;update&#43;2&#43;days&#43;site:discussions.apple.com"
+   
+   
+     target="_blank" rel="noopener"
+   >
+  A cursory search found this issue starting back from at least 2020
+</a>; at one point it told me it would take 5 days for it to finish downloading and transferring.</p>
+<h3 id="the-solution">The solution</h3>
+<ol>
+<li>Set up the phone as if it’s a new phone, and do not choose to import your settings and data from your old phone — no worries, you can do the transfer after these steps</li>
+<li>With the brand new phone, navigate to Settings &gt; General &gt; Software Update</li>
+<li>Wait a reasonable 15 – 20 minutes for the iOS update to be downloaded and updated</li>
+<li>Then, reset this phone to its factory settings, by going to Settings &gt; General, and scrolling all the way down to Transfer or Reset iPhone</li>
+<li>Ignore the confusing taxonomy and select the ‘Erase All Content and Settings’ option</li>
+<li>Voilà. <em>Now</em> you can go through the phone data transfer and not run into the 5-day-wait problem</li>
+</ol>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Learning and blundering in chess and life</title>
-      <link>http://localhost:1313/posts/learning-and-blundering/</link>
-      <pubDate>Fri, 09 Aug 2024 17:21:47 +0800</pubDate>
+      <link>http://localhost:1313/blundering/</link>
+      <pubDate>Sun, 07 Apr 2024 17:21:47 +0800</pubDate>
       
-      <guid>http://localhost:1313/posts/learning-and-blundering/</guid>
+      <guid>http://localhost:1313/blundering/</guid>
       <description>Looks like this year is an actual year of learning, because I decided to pick chess up on a whim.
 A real whim, or a procrastination technique from doing up my portfolio? You decide.
 I knew how to play the basics of Chinese chess (象棋), which just meant I knew how the pieces moved, so there are some parts that now feel familiar. I mean, am I calling the knight a horse (馬), because that’s what the Chinese piece is and they move in the exact same way in the L shape, except there are more restrictions on a Chinese horse?</description>
@@ -39,11 +133,421 @@ I knew how to play the basics of Chinese chess (象棋), which just meant I knew
     </item>
     
     <item>
+      <title>On skiing and trying things for the first time</title>
+      <link>http://localhost:1313/skiing/</link>
+      <pubDate>Wed, 31 Jan 2024 19:42:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/skiing/</guid>
+      <description>I’m generally risk-averse, I learned about myself a long time ago. I’m overly cautious, frenetically anxious, and incessantly worry about the unknowns. (Which, yes, is an issue in itself, and something I’m trying to manage, to varying degrees of success.)
+Yet, in the last week, I found myself strapping into boots and skis that made my body cry in agony. I fell no less than half a dozen times on the first day.</description>
+      <content:encoded><![CDATA[<p>I’m generally risk-averse, I learned about myself a long time ago. I’m overly cautious, frenetically anxious, and incessantly worry about the unknowns. (Which, yes, is an issue in itself, and something I’m trying to manage, to varying degrees of success.)</p>
+<p>Yet, in the last week, I found myself strapping into boots and skis that made my body cry in agony. I fell no less than half a dozen times on the first day. And the second, and the third.</p>
+<p>I wished I didn’t have that much churning in my amygdala, as I chanted “oh no, oh no, oh no”, both in my head and aloud as I skidded, stumbled, and skittered across an icy landscape so unfamiliar to me.</p>
+<p>In contrast, my nephews — who turned six today! — took to the sport so naturally, unfazed by falls and bumps. And it wasn’t like they had a lot of practice before this vacation either; just perhaps a combined five days of skiing ever in their lives as of yet.</p>
+<p>I envy the fearlessness, and the ability to embrace learning something new and making themselves better.</p>
+<h2 id="the-fun-scale">The fun scale</h2>
+<p>There is this concept about different kinds of fun, <a href="https://kellycordes.com/2009/11/02/the-fun-scale/"
+   
+   
+     target="_blank" rel="noopener"
+   >
+  defined as
+</a>:</p>
+<ul>
+<li>Type I: Enjoyable while it is happening</li>
+<li>Type II: Enjoyable in retrospect</li>
+<li>Type III: Not enjoyable at all</li>
+</ul>
+<p>I’m a few days removed from burning up under my layers in the freezing weather (a really interesting dichotomy I had never experienced before).</p>
+<p>My wide feet ached, my thick shins hurt (partly because of my rookie mistake of wearing my base layer under my socks), and I reeked of cigarette smoke because my instructor was smoking at a rate of a pack per hour, not helped by the fact that he had to wait patiently for me.</p>
+<h3 id="day-one">Day one</h3>
+<p>Him: You won’t fall.</p>
+<p>Me, with skis shifting under my weight and not being able to do anything about them: I’m SLIDING!</p>
+<p>Him, laughing: Yes, you are on ice.</p>
+<p>Me: <em>falls</em></p>
+<hr>
+<p>Spoiler: I really enjoyed myself.</p>
+<hr>
+<p>If Day 1 was me terrified and obstructed by my mental barriers, Day 2 would be about turning my disbelief into confidence. At the start of the day, I was still scared of everything — sliding on the snow, going onto <a href="https://www.the-ski-guru.com/2019/12/06/different-types-lifts-resortshow-ride-them/"
+   
+   
+     target="_blank" rel="noopener"
+   >
+  the magic carpet
+</a>, hanging on to dear life on a rope tow, and then falling while going up on a surface lift.</p>
+<p>I wouldn’t say something <em>clicked</em>, but I’d even managed to steer myself by imitating the instructor in front of me, who did very leisurely turns very slowly for my benefit. In 6 total hours by the end of the second day, I was much, much more in control, and that definitely built my confidence.</p>
+<p>I’m really proud of myself. I’m proud of embracing the learning of something new, and for not succumbing to my anxiety and managing to push through.</p>
+<p>I hadn’t realized it explicitly before then, but I hadn’t felt like I was trying something new for the first time in a very long time. (I guess <a href="https://jalyn.co/its-me-hi-im-the-problem/"
+   
+   
+     target="_blank" rel="noopener"
+   >
+  the GMAT attempt
+</a> didn’t count in my head!)</p>
+<h2 id="random-observations">random observations</h2>
+<p>(Placeholder image space!)</p>
+<ul>
+<li>The incredible mountain views did some healing on my ruined city psyche. We’ll see how long this high lasts as I slide back, unfortunately not onto the snow, but work instead</li>
+<li>I want to continue to strengthen myself: I know what my limiting factors are (broken back, weak core, and weirdly-shaped feet), so I might start doing specific workouts to focus on movements that would aid in my next skiing experience</li>
+<li>Direction is more important than speed, but to shift, you still need some speed. How’s that for inspiration?</li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>2023: Year in review</title>
+      <link>http://localhost:1313/2023-year-in-review/</link>
+      <pubDate>Mon, 01 Jan 2024 19:53:50 +0800</pubDate>
+      
+      <guid>http://localhost:1313/2023-year-in-review/</guid>
+      <description>Once again, I’m looking back on the year that’s passed. (See: 2020 , 2021 , 2022 )
+It seems a little tougher this year — and I won’t say whether it’s because I haven’t been consistently and habitually writing on this site — but I’m always happy to reflect and introspect on what has gone well and what I could’ve done better with.
+What went well: Learning and growth: Last year, one of my goals was to try and figure out whether to take my MBA aspiration more seriously.</description>
+      <content:encoded><![CDATA[<p>Once again, I’m looking back on the year that’s passed. (See: <a href="https://jalyn.co/2020-year-in-review/"
+   
+   
+     target="_blank" rel="noopener"
+   >
+  2020
+</a>, <a href="https://jalyn.co/2021-year-in-review/"
+   
+   
+     target="_blank" rel="noopener"
+   >
+  2021
+</a>, <a href="https://jalyn.co/2022-year-in-review/"
+   
+   
+     target="_blank" rel="noopener"
+   >
+  2022
+</a>)</p>
+<p>It seems a little tougher this year — and I won’t say whether it’s because I haven’t been consistently and habitually writing on this site — but I’m always happy to reflect and introspect on what has gone well and what I could’ve done better with.</p>
+<h2 id="what-went-well">What went well:</h2>
+<p><strong>Learning and growth:</strong> Last year, one of my goals was to try and figure out whether to take my MBA aspiration more seriously. To that end, one of the hurdles was taking the GMAT. After some on-off studying for half a year, I scored a 645 on the GMAT Focus, which clears that 700 barrier on the classic GMAT.</p>
+<p>It’s a score that I’m pleased with (and proud of, considering I hadn’t taken a standardized test for more than half my life at this point), but it is also a score that I think I <em><strong>can</strong></em> improve on if I studied and grinded for a little longer. I haven’t started doing that, but maybe — let’s see where I’m at with applications in Q1 of this year.</p>
+<p><strong>Reading:</strong> Surprisingly, even with studying taking up all/most of my free time, I still managed to read 25 books in 2023. The last book that I read was <em><strong>The First Fifteen Lives of Harry August</strong></em>, and oh, boy. One of my favorite books is <strong>Replay</strong>, which deals with a Groundhog Day situation but with an entire life (almost), and <strong>Harry August</strong> turned that up a notch. I might re-read it now.</p>
+<p><strong>Traveling:</strong> This was almost a given, given how we’re recovering from the pandemic and figuring out what that looks like with traveling. I’ve not traveled as much as I wanted to as an adult, so I’m happy to get back into this and train this muscle of experiencing other cultures, environments, and weathers.</p>
+<p><strong>New hobbies:</strong> I’m slowly getting into completely new things, like appreciating matcha (and the art of making a cup), and watches (I got a Seiko Presage in Tokyo, and it’s one of my favorite purchases). On the other hand, I’m also… (Author’s note: I forgot where I was going with this, and left this dangling.)</p>
+<h2 id="what-couldve-gone-better">What could’ve gone better:</h2>
+<p><strong>Fitness and health:</strong> Sigh. With the stress of studying, fitness got wildly deprioritized. Even then, I managed 116 workouts in 2023 — nearly 1 in 3 days, which is a complete shock to me as I spent all of December not working out at all. Definitely something to push on in 2024!</p>
+<p>I’ve also spent most of the day in a haze; my asthma coming back the last week of the year.</p>
+<p><strong>Finance:</strong> I only hit a 59% savings rate. I don’t know — can I partially justify that by saying I didn’t get a raise (not even a salary adjustment to inflation) this year? I don’t <strong>regret</strong> making the purchases, though.</p>
+<p><strong>Work:</strong> Ah, something that is a mainstay through the years. It’s a pattern that I don’t like, but it’s not something I can shake easily. In 2023, my corporate life was rocked a little by layoffs and restructuring, and though I kept my job and stepped (the fuck) up to several positions beyond me, it’s been a mostly thankless endeavor and I’ve even got my promotion case denied, so…</p>
+<p>I guess I’m evaluating a lot about what work, and this workplace, means to me. There is some cognitive dissonance here with my pursuit of a potential MBA, given the implication of working hard and elevating myself career-wise. But we’ll see.</p>
+<h2 id="themes-from-my-gratitude-journal">Themes from my gratitude journal:</h2>
+<ul>
+<li>Space for me to try my best</li>
+<li>My nephews being happy</li>
+<li>Being excited about possibilities</li>
+<li>Time away to travel and think</li>
+</ul>
+<h2 id="what-i-want-to-do-in-2024">What I want to do in 2024:</h2>
+<ul>
+<li>Learn to drive and obtain my license</li>
+<li>Apply for and get admitted to an MBA program</li>
+<li>Evolve my style beyond Uniqlo and t-shirts</li>
+<li>Travel even more (this is shaping up quite excitingly with a trip to Germany/Austria in January!)</li>
+<li>Figuring out my skincare routine</li>
+</ul>
+<p>As always, I hope the next 365 days (leap year!) are going to be kind and good to all of us.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>When did I stop having fun?</title>
+      <link>http://localhost:1313/fun/</link>
+      <pubDate>Fri, 03 Feb 2023 20:00:07 +0800</pubDate>
+      
+      <guid>http://localhost:1313/fun/</guid>
+      <description>“只是玩toy toy而已，不要做东西” (or: I just want to play toys, and not do anything).
+Wise words from my 5-year old nephew about his ideal day made me crack up, but also made me wonder: When did I stop having fun?
+—
+Last year, I ruminated a little on having fun , with the full intention of trying out a year of fun. Then, in typical me fashion, this all got pushed to the wayside because of work, and also because of the bigger health concerns I discovered during that same time.</description>
+      <content:encoded><![CDATA[<p>“只是玩toy toy而已，不要做东西” (or: I just want to play toys, and not do anything).</p>
+<p>Wise words from my 5-year old nephew about his ideal day made me crack up, but also made me wonder: When did I stop having fun?</p>
+<p>—</p>
+<p>Last year, I ruminated a little on <a href="https://jalyn.co/how-to-have-fun/"
+   
+   
+     target="_blank" rel="noopener"
+   >
+  having fun
+</a>, with the full intention of trying out a year of fun. Then, in typical me fashion, this all got pushed to the wayside because of work, and also because of the bigger health concerns I discovered during that same time.</p>
+<p>But it’s really plain to see: I have grown really, really bad at producing serotonin. If I’m not doing work, I’m thinking about work or work-adjacent things, like mentoring and productivity and optimizing. If something I’m doing doesn’t build towards learning, I feel guilty.</p>
+<p>Here’s a laundry list of things that I do already do that I think are fun, and also ways I have made them… just a little bit stressful:</p>
+<table>
+<thead>
+<tr>
+<th>Activity</th>
+<th>Stress-inducing approach</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Writing</td>
+<td>Worrying about feedback and engagement</td>
+</tr>
+<tr>
+<td>Reading</td>
+<td>Setting yearly targets that I cram into December</td>
+</tr>
+<tr>
+<td>Playing</td>
+<td>Getting the best times, or perfect scores</td>
+</tr>
+<tr>
+<td>Watching cleaning videos</td>
+<td>Wondering what I’m <em>actually</em> getting out of it</td>
+</tr>
+</tbody>
+</table>
+<p>Then there are the other buckets of activities that require money, and, well. I’m someone who takes about five years to make money decisions.</p>
+<p>So, given this, I’ve asked my friends on Instagram to give me suggestions.</p>
+<h2 id="the-suggestions">The suggestions</h2>
+<p>(Curated, based on physical feasibility)</p>
+<p><strong>Physical activity:</strong> Walking/hiking, skating, dancing, geocaching, bouldering, yoga</p>
+<p><strong>Non-physical</strong> a<strong>ctivities:</strong> Watching nature, Drinking, K-Pop, skincare, shopping, reading</p>
+<p><strong>Games and puzzles:</strong> Legos, chess, video games</p>
+<p><strong>New skills</strong>: Knitting/crocheting, guitar, photography, cooking, painting, baking, drawing, cycling, pottery/carpentry</p>
+<p><strong>Volunteering</strong></p>
+<p>—</p>
+<p>I think it’s a pretty good list to get started.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>2022: Year in Review</title>
+      <link>http://localhost:1313/2022-year-in-review/</link>
+      <pubDate>Sun, 01 Jan 2023 20:11:25 +0800</pubDate>
+      
+      <guid>http://localhost:1313/2022-year-in-review/</guid>
+      <description>It’s become a habit now; a yearly one, to look back on the year that has passed and reflect on what has gone well and what could’ve gone better (see: 2021 , 2020 ). My writing is rusty now, with my non-rigour and letting my habit die off this year.
+2022 has been a mixed bag of blessings and regrets, and of going on auto-pilot and letting things fall on the wayside.</description>
+      <content:encoded><![CDATA[<p>It’s become a habit now; a yearly one, to look back on the year that has passed and reflect on what has gone well and what could’ve gone better (see: <a href="https://jalyn.co/2021-year-in-review/"
+   
+   
+     target="_blank" rel="noopener"
+   >
+  2021
+</a>, <a href="https://jalyn.co/2020-year-in-review/"
+   
+   
+     target="_blank" rel="noopener"
+   >
+  2020
+</a>). My writing is rusty now, with my non-rigour and letting my habit die off this year.</p>
+<p>2022 has been a mixed bag of blessings and regrets, and of going on auto-pilot and letting things fall on the wayside.</p>
+<h2 id="what-went-well">What went well:</h2>
+<p><strong>Fitness:</strong> This is separate from health, for reasons we’ll go into in the <em>what could’ve gone better</em> section</p>
+<p>This year, I got a gym membership in March, and then in July, a personal trainer. I ended up with 75 sessions in total, which comes up to around a session every 3.8 days. My main drive for going to the gym is to get stronger — something that is a little hard to do as I can’t consistently overload because of my <a href="https://jalyn.co/spondy/"
+   
+   
+     target="_blank" rel="noopener"
+   >
+  Back Situation™
+</a>.</p>
+<p>I hit several PRs in the last two sessions of the year — made possible only because I ate at maintenance for these last two weeks; I’m in a deficit otherwise. PRs make me feel like I’m unlocking achievements, but I know it’s a really unpredictable road that I’m on, and I’m still learning how to accept my limitations.</p>
+<p>My weakest exercises definitely have to do with my back and core, which are… important, you know, to the general anatomy.</p>
+<p>But also: I meal prepped for the majority of the year, and was a little more consistent with my meal timings! I’ll take that as a W.</p>
+<p><strong>Finance</strong>: My savings rate dropped to 63% this year, from my target of 70%. Yet — I’m at peace with it, since I’m <a href="https://jalyn.co/on-spending-money-and-being-frugal/"
+   
+   
+     target="_blank" rel="noopener"
+   >
+  trading money for my health and fitness
+</a>. The hugest chunk of money went to aforementioned personal training sessions, as well as physiotherapy sessions which was an unexpected expense, and insurance only covered a minuscule part of it.</p>
+<p>I also finally upgraded my iPhone X to a 14 Pro! Other than that, I didn’t travel this year at all, and kept to my yearly budget in all other categories.</p>
+<p><strong>Relationships and connections</strong>: I got much closer to a few work-buddies-elevated-to-friends, and I’m glad to have forged these friendships as I surround myself with people who inspire me and push me to be better.</p>
+<p><strong>Hair</strong>: <a href="https://jalyn.co/hold-on-os-is-updating/"
+   
+   
+     target="_blank" rel="noopener"
+   >
+  I got it cut!
+</a></p>
+<h2 id="what-couldve-gone-better">What could’ve gone better:</h2>
+<p>Probably everything else.</p>
+<p><strong>Health</strong>: I have had back problems for a few years now, and in April I decided that I wanted to get a referral letter from my general practitioner so that I could go to a physio and go on my merry ways, with a few easy exercises that would fix it once and for all.</p>
+<p>Except that’s not how it went. The visit to the doctor spawned a few radiography sessions, with X-rays and MRIs, and instead of a simple referral to a physio, I was referred to a neurosurgeon. Turns out, the back issue isn’t just bad posture and a lack of working out. Instead, I have spondylolysis and spondylolisthesis, which could have an even more significant decrease in my quality of life at some point.</p>
+<p>Aside from that, in these last two weeks of the year, I got a cold that just wouldn’t go away, with a cough that I couldn’t manage at all. This cough would make my throat spasm uncontrollably, to the point of gagging and throwing up. A visit to the doctor (after two weeks of resisting it — I know, I know) brought up the hypothesis that my asthma is back — the last time was when I was 7, I think — and I’m going to have to monitor it and see how it goes.</p>
+<p>And then, to top it all off — a trip to the dentist confirmed that my implant site (of my left bottom molar) has significant bone loss, and necessitates more visits to the specialist. I foresee this to be the budget killer in 2023.</p>
+<p><strong>Work</strong>: It’s not hyperbole to say that I over-indexed on work this year, and ended up making everybody else’s priorities my worry.</p>
+<p>My work day generally starts around 8:30am, and on some days they end at 11pm. This is, as anyone would know, completely unsustainable. A lot of the late night meetings are because of the leadership program I’m in, and it definitely doesn’t feel like the outputs and outcomes match the amount of effort and time I put into it. I’m still trying to figure out how to properly balance this without me accelerating the burnout that I can see coming.</p>
+<p>I also worked too many weekends, and even started dreaming about doing work — as in, Figma is open and I’m staring at a screen in my dream. The worst thing about this is that I’ll wake up and the work isn’t magically actually done.</p>
+<p>There was also a lot of angst and anger around some things at work, and these are things out of my direct control. I got extremely reactive to things happening, and then that makes me even more annoyed and angry because theoretically I know that I am the only thing I can control, and I’m definitely not doing that.</p>
+<p>Even in this last week of the year, while the office is closed down, I’m still logging hours and having to review work, send out emails, and still generally not being able to fully unplug. This is probably going to be extremely detrimental as I head back in next week, unrested, and I’m not looking forward to it.</p>
+<p><strong>Reading</strong>: Did I reach my reading challenge? Yes. Did I leave it til the last possible weeks to cram half of it in, despite the goal being halved from last year? Also yes.</p>
+<p>I seriously contemplated that I should aim for 90 books in 2023, since I was going to cram with whatever I target.</p>
+<p>My friends do not think it’s funny.</p>
+<p><strong>Writing</strong>: It’s been an abysmal year, both writing on this blog, and also writing fiction in general. Of all the habits and priorities, I have definitely let this slide the most. I’m hopeful that 2023 will allow me the time and grace to pick this back up again in a more consistent fashion.</p>
+<p>I also want to write more long-form content, both around my craft specialties (UX and product design, leadership amongst others), as well as more helpful and actionable content for my non-work interests, like productivity and minimalism.</p>
+<p><strong>Hobbies and skills</strong>: Sadly to say, I didn’t pick up anything new in 2022.</p>
+<p>I did continue my habits of daily meditating and daily journaling, and continued with playing poker, and actually downloading apps for Sudoku and Chinese chess towards the later part of the year.</p>
+<p>Other than that, I abandoned learning/refreshing my Javascript skills pretty early.</p>
+<h2 id="themes-from-my-gratitude-journal">Themes from my gratitude journal:</h2>
+<ul>
+<li>Great food with great friends</li>
+<li>Opportunities to try things</li>
+<li>Having time to rest / weekends / days off</li>
+<li>Agency to do what I want, to some degree</li>
+<li>Ability to do hard work</li>
+<li>My nephews expressing their affections / witnessing my nephews playing with dogs</li>
+<li>Projects ending</li>
+</ul>
+<p>I’ve also neglected this gratitude journal and left it blank more often than not. That’s something I really want to improve on.</p>
+<h2 id="what-i-want-to-do-next-year">What I want to do next year:</h2>
+<p>I’m just going to list things down, and maybe in a year’s time we’ll see how accountable I’ve held myself with these:</p>
+<ul>
+<li>Expand my music listening so I’m not listening to the same 20 songs all year round</li>
+<li>Take learning programming more seriously
+<ul>
+<li>Change my tech stack for my portfolio and blog — they’re running on WordPress now, which is too chunky for what I want it to do. I want to see if I can run it off Notion as a database, but my knowledge and expertise isn’t at a level where I can do that easily</li>
+</ul>
+</li>
+<li>Take my MBA dream more seriously and see if it’s worth it + prepare for it if it is</li>
+<li>Make more mentor relationships</li>
+<li>Learn driving?</li>
+<li>Finally learn guitar for real?</li>
+</ul>
+<hr>
+<p>As always, I hope the next 364 days ahead are safe and happy for everyone.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Being frugal</title>
+      <link>http://localhost:1313/being-frugal/</link>
+      <pubDate>Thu, 04 Aug 2022 20:27:33 +0800</pubDate>
+      
+      <guid>http://localhost:1313/being-frugal/</guid>
+      <description>I’m a pretty frugal person.
+I don’t think I’m cheap (though maybe some people might think otherwise?) but there are some things that I know I don’t want to spend money than necessary on. It’s not about depriving myself, or getting the last cent shaved off, or trying to be a bargain hunter.
+(Here’s an interlude to acknowledge that I’m definitely speaking from a place of privilege, to be even able to have choices to be frugal.</description>
+      <content:encoded><![CDATA[<p>I’m a pretty frugal person.</p>
+<p>I don’t <em>think</em> I’m cheap (though maybe some people might think otherwise?) but there are some things that I know I don’t want to spend money than necessary on. It’s not about depriving myself, or getting the last cent shaved off, or trying to be a bargain hunter.</p>
+<p>(Here’s an interlude to acknowledge that I’m definitely speaking from a place of privilege, to be even able to <em>have</em> choices to be frugal. It’s been a long, long time since I’ve had that kind of financial anxiety that only living paycheck to paycheck can gather, and now I can spend money without worrying too much.)</p>
+<p>There are a few reasons why my spending habits are this way:</p>
+<ol>
+<li>I like being intentional with what I’m spending my money on, since there are other things I would rather spend my money on</li>
+<li>Having options with my money — bulking up my emergency savings, putting aside money for bigger ticket purchases like a new device or a vacation, or even just taking advantage of a bear market — brings me a sense of security</li>
+<li>I have a percentage in mind when it comes to my savings rate (and yes, this comes into the whole Financial Independence (and maybe Retire Early) thing, but the jury is still out on the latter)</li>
+</ol>
+<p>And yet, in the past month, I found myself with a huge money decision to make: whether or not to sign up with a personal trainer so that I can really dial my fitness levels in. This is on top of the physiotherapy sessions I go to, because of my back betraying my body in general.</p>
+<p>It’s not an insignificant sum of money: personal training would take up a huge percentage of my monthly expenses, and would set me back a bit of my target “retirement” age. It’s also a pretty huge cost upfront.</p>
+<p>I’m doing it, though. As I’ve so rapidly found in the past couple of years, my health is worth more than the money I can afford to throw at it.</p>
+<p>Believe me, it took a couple of days for me to come to this decision and reframe my position on it.</p>
+<p>My initial thoughts: no way, I can just go to my cheap gym on my own, this is way too much, this is going to affect my spending by a whole lot.</p>
+<p>Eventually, the combination of knowing exactly what my body fat percentage is right now (hint: way, way worse than I had always estimated) as well as wanting a professional to spot my form and fixing it where it’s hurting me won out.</p>
+<p>Now, excuse me while I buy some gym shoes, because my Metcon 5s are literally breaking apart at the seams.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Reframe</title>
+      <link>http://localhost:1313/reframe/</link>
+      <pubDate>Fri, 22 Jul 2022 20:28:59 +0800</pubDate>
+      
+      <guid>http://localhost:1313/reframe/</guid>
+      <description>(Inspired by Brianna Wiest’s 101 Essays That Will Change The Way You Think)
+You’re still functional — physically, at least. You can walk and you can sit, and you can shrug off the pain when it gets a little too much. You hold on to your values, even when it’s easier to just go with the path of least resistance. You can be proud of who you are. Work is tough, and some days it’s annoying, but so many people would love to be doing what you do.</description>
+      <content:encoded><![CDATA[<p>(Inspired by Brianna Wiest’s 101 Essays That Will Change The Way You Think)</p>
+<ol>
+<li>You’re still functional — physically, at least. You can walk and you can sit, and you can shrug off the pain when it gets a little too much.</li>
+<li>You hold on to your values, even when it’s easier to just go with the path of least resistance. You can be proud of who you are.</li>
+<li>Work is tough, and some days it’s annoying, but so many people would love to be doing what you do.</li>
+<li>You earn enough to live comfortably, to go where you want and eat what you desire; enough to live on your own terms.</li>
+<li>You’re allowed to think and ponder about what <em>living on your own terms</em> mean, and know that even though life isn’t ideal or where you’d thought it would be, it’s still a journey to get to where you envision it to be.</li>
+<li>You have the weekend to decompress, even if decompressing means losing track of time as you doom-scroll through Reddit.</li>
+<li>You just spent a good hour preparing for your lunches in the week ahead, and that is going to help with keeping track of actually eating lunch, which is something that has been a miss for so much of the last two years.</li>
+<li>You have comfort shows and movies that you can dive back into; an embrace into a familiarity that makes your brain feel happy.</li>
+<li>You have amazing friends. Quality &gt; quantity, especially in this case.</li>
+<li>You think about all the different ways to get better, and to be better. You might fail and stumble along the way, but you’re still trying. You’re figuring it out. You’re still here.</li>
+</ol>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Timezone shifting</title>
+      <link>http://localhost:1313/timezones/</link>
+      <pubDate>Mon, 04 Jul 2022 20:29:47 +0800</pubDate>
+      
+      <guid>http://localhost:1313/timezones/</guid>
+      <description>Look at me, a whole month ago, breaking down and analyzing my “new” routine at work, without realizing that all of that was going to get slightly upended when I got staffed on a project based out of the UK.
+Needless to say, I did not do very well with the whole work-life balance or integration part of things. Working with the team that is 7 hours behind me meant that theoretically, I should be starting my day way later, but I was consistently pulling 14+ hours during the past month, and readers… It was no fun.</description>
+      <content:encoded><![CDATA[<p>Look at me, a whole month ago, breaking down and analyzing my “new” routine at work, without realizing that all of that was going to get slightly upended when I got staffed on a project based out of the UK.</p>
+<p>Needless to say, I did not do very well with the whole work-life balance <em>or</em> integration part of things. Working with the team that is 7 hours behind me meant that theoretically, I should be starting my day way later, but I was consistently pulling 14+ hours during the past month, and readers… It was no fun.</p>
+<p>Sometimes I feel like a fraud when I find myself reminding other people on my team to take breaks, push back, and say no to things. I know I haven’t yet mastered (or even grasped, honestly) that yet for myself, and it’s definitely something I have to work on.</p>
+<p>Anyway, now that the hell month is over, I should re-prioritize my life again. I know that writing this weekly makes me happy, but I’m also (constantly) fretting about what the Purpose™ and value of this all is.</p>
+<p>I want to talk about productivity and habits and personal finance and minimalism and, and, <em>and</em>, but it is a field that is super saturated — though I do have my own personal spin on things, but fundamentals remain that. I want to be better at focusing on the craft of writing, and on long-form essays, and that is a muscle that I’m not always using. I want to start thinking about writing original fiction again, and doing that. I want to dabble in creating for other mediums (podcast? video? social media?), and becoming more of an expert in those things.</p>
+<p>Lots of wants in my life, and not so much time or energy to be doing those!</p>
+<p>(P.S. On Sunday I fell flat on my face, nearly, and hurt my elbow trying to do an ab wheel exercise that my physio is making me do, so that’s a nice little bow to the end of the work week.)</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Becoming less of a work bot</title>
+      <link>http://localhost:1313/work-bot/</link>
+      <pubDate>Sat, 11 Jun 2022 20:13:41 +0800</pubDate>
+      
+      <guid>http://localhost:1313/work-bot/</guid>
+      <description>If you looked up the definition of sheepish, you’ll probably find my face right there. Mostly due to the fact that I have been neglecting this journaling habit, which was something I held quite proudly of for last year.
+2021: never missing a week!
+2022: does ‘a week’ mean anything, actually? what is this archaic concept of time we hold ourselves to? why have we shackled ourselves—-
+Etc, etc.
+This entire second half of the year has been a test that I have been consistently failing, I think.</description>
+      <content:encoded><![CDATA[<p>If you looked up the definition of <em>sheepish</em>, you’ll probably find my face right there. Mostly due to the fact that I have been neglecting this journaling habit, which was something I held quite proudly of for last year.</p>
+<blockquote>
+<p>2021: never missing a week!</p>
+<p>2022: does ‘a week’ mean anything, actually? what is this archaic concept of time we hold ourselves to? why have we shackled ourselves—-</p>
+</blockquote>
+<p>Etc, etc.</p>
+<hr>
+<p>This entire second half of the year has been a test that I have been consistently failing, I think.</p>
+<p>I find myself buried with work, and burying myself with more of it.</p>
+<p>My free thoughts are fleeting, consumed by <em>the things for work I’m wasting time not doing right now</em> and <em>the things I should be doing, but I don’t have the mind space to sit down for them right now</em>. It’s pretty dire, and in no way strategic.</p>
+<p>Or any good for my mental health, that I know for sure.</p>
+<hr>
+<p>I talk about putting guard rails a lot, but I also kick them down on my own volition. There are things I know:</p>
+<p>Better at saying no.</p>
+<p>Better at managing my expectations.</p>
+<p>Better at putting myself first.</p>
+<p>Better, for my own body and mind.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Settling (plunging) into my new routine</title>
+      <link>http://localhost:1313/new-routine/</link>
+      <pubDate>Wed, 08 Jun 2022 20:30:27 +0800</pubDate>
+      
+      <guid>http://localhost:1313/new-routine/</guid>
+      <description>It’s been a couple of weeks since we’ve been told we need to work from the office on Mondays and Wednesdays. Personally, my productivity plunges underground, and because I have evening calls after those office hours, I’m finding myself pulling 14 hour days.
+It’s very sustainable!
+Worse still is how un-ergonomic the office setup is (non-adjustable table; chairs with minimal back support; no proper foot rest; monitors from the 2010s if other people get to the three HDR monitors we have in the office), and that is fucking my back right up.</description>
+      <content:encoded><![CDATA[<p>It’s been a couple of weeks since we’ve been told we need to work from the office on Mondays and Wednesdays. Personally, my productivity plunges underground, and because I have evening calls after those office hours, I’m finding myself pulling 14 hour days.</p>
+<p>It’s <em>very</em> sustainable!</p>
+<p>Worse still is how un-ergonomic the office setup is (non-adjustable table; chairs with minimal back support; no proper foot rest; monitors from the 2010s if other people get to the three HDR monitors we have in the office), and that is fucking my back right up.</p>
+<p>It takes a whole day to actually recover from that, sometimes more, and it’s affecting the quality of the rest of my life. I’m actually finding myself leaning on medication to keep the pain at bay, instead of being able to go to my bed and do some stretches if I were at home.</p>
+<p>This has also been messing up a lot of my habits — a lot of them presumes one that can be predicted, or that I actually have the time to do it. These are some things I have to figure out how to best fit it into the new schedule:</p>
+<ul>
+<li><strong>Meal prep</strong>: Because our office days are Monday and Wednesday, and I’m inclined to buy a salad for lunch, I’m not sure if I should be batch-cooking on Sunday. I have the aforementioned evening calls that sometimes end at 11pm, and I’m not sure if I would have the time to spend the hour cooking on Tuesday evening/night to make sure I have food for the later part of the week.</li>
+<li><strong>Money</strong>: This is mostly just an adjustment and a mindset shift, because of the added costs of coffee, food, transport, and general I-see-a-thing-and-I-get-reminded-that-I-want-it.</li>
+<li><strong>Writing</strong>: <em>This very hobby</em>. How very meta, right? It’s not just the time that I use to write these out too, but actually finding the willpower to want to, after work ends (at 11pm sometimes). I’ve never missed more than 2 weeks of posting, until… this one, I guess, since this has been in my Notion drafts for that long.</li>
+<li><strong>Gym</strong>: In the same vein of writing, it takes Monday and Wednesday out of the rotation for potential gym days — I go in the mornings because it’s less crowded, but I also don’t want to sacrifice too much sleep time (which is also a problem if I’m commuting 2 hours a day)</li>
+<li><strong>Physio exercises:</strong> These are somewhat separated from actual gym time, because they’re more localized ab exercises compared to the equipment I need at the gym. I can try doing them at night, but sometimes I get too tired and lazy, and just… don’t.</li>
+<li><strong>Snacking:</strong> This is entirely on me, but we have a snack area and I find myself gravitating towards the dried mangos and Twisties because why not? (Why yes? @ myself)</li>
+</ul>
+<p>Anyway, this feels a lot like complaining and very little of solutions, and I’m frustrated. Hopefully I’d have worked something out, found my groove, and working on being just that little bit more productive with my new routine. And without a 2+ weeks break for writing!</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
       <title>Beginnings</title>
-      <link>http://localhost:1313/posts/new/</link>
+      <link>http://localhost:1313/beginnings/</link>
       <pubDate>Sat, 28 Dec 2019 16:55:46 +0800</pubDate>
       
-      <guid>http://localhost:1313/posts/new/</guid>
+      <guid>http://localhost:1313/beginnings/</guid>
       <description>I want to start a blog.
 This has been something that has been on my mind for the past ten years, although if I’m being honest with myself (and that’s the goal here!), it has definitely been something I’ve thought of for way longer than the last decade.
 I’ve flirted with Blogger as a teen, painstakingly linking my high school friends’ blogs in the sidebar and refreshing each of them daily, before I discovered RSS (and before it faded away).</description>

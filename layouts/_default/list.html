@@ -1,24 +1,49 @@
 {{- define "main" }}
-{{- if (and site.Params.profileMode.enabled .IsHome) }}
-  {{- partial "index_profile.html" . }}
-{{- else }} {{/* if not profileMode */}}
-  {{- if not .IsHome | and .Title }}
-    <header class="page-header">
-      {{- partial "breadcrumbs.html" . }}
-      <h1>
-        {{- if eq .Kind "term" -}}{{- .Data.Singular }}: {{ end -}}
-        {{ .Title -}}
-      </h1>
-      {{- partial "inline_links.html" . -}}
-    </header>
-  {{- end }}
-  {{- if .Content }}
-    <div class="post-content">
-      {{- if not (.Param "disableAnchoredHeadings") }}
-        {{- partial "anchored_headings.html" .Content -}}
-      {{- else }}{{ .Content }}{{ end }}
-    </div>
-  {{- end }}
+  {{ if .IsHome }}
+    {{- if (and site.Params.profileMode.enabled .IsHome) }}
+      {{- partial "index_profile.html" . }}
+    {{- else }} {{/* if not profileMode */}}
+      {{- if not .IsHome | and .Title }}
+        <div class="page-header">
+          {{- partial "breadcrumbs.html" . }}
+          <h1>
+            {{/* see: https://gohugo.io/variables/taxonomy/#taxonomy-terms-page-variables */}}
+            {{- if eq .Kind "term" -}}{{- .Data.Singular }}: {{ end -}}
+            {{ .Title -}}
+          </h1>
+          {{- if .Description }}
+            <div class="post-description">
+              {{ .Description | markdownify }}
+            </div>
+          {{- end }}
+          {{- partial "inline_links.html" . -}}
+        </div>
+      {{- end }}
+      
+      {{- if .Content }}
+        <div class="post-content">
+          {{- if not (.Param "disableAnchoredHeadings") }}
+            {{- partial "anchored_headings.html" .Content -}}
+          {{- else }}{{ .Content }}{{ end }}
+        </div>
+      {{- end }}
+      
+      {{ $featured := where .Site.RegularPages "Params.featured" true }}
+      {{ if $featured }}
+        {{/* [Writing]{.eyebrow} */}}
+        <div class="featured-entry">
+          {{ $featuredPosts := where .Site.RegularPages "Params.featured" true }}
+          {{ $postToShow := cond (gt (len $featuredPosts) 0) (index $featuredPosts 0) (index (where .Site.RegularPages "Type" "posts") 0) }}
+          <span class="entry-date">{{- $postToShow.Date.Format "2006-01-02" }}</span>
+          <h2><a href="{{ $postToShow.Permalink }}">{{ $postToShow.Title }}</a></h2>
+          <div class="entry-content">
+            {{ $postToShow.Summary }}
+          </div>
+          <a href="{{ $postToShow.Permalink }}" class="read-more">Read more →</a>
+        </div>
+      {{ end }}
+    {{- end }}
+  {{ end }}
   
   {{- $pages := .Pages }}
   {{- if .IsHome }}
@@ -26,35 +51,12 @@
     {{- $pages = where site.RegularPages "Section" "in" site.Params.mainSections }}
   {{- end }}
   {{- $pages = where $pages "Params.hidden" "!=" true }}
-  
-  {{/* Get the latest post */}}
-  {{- $latestPost := index $pages 0 }}
-  
-  {{/* Display the latest post as featured */}}
-  {{- if $latestPost }}
-    <article class="featured-post">
-      {{/* <span class="eyebrow">Writing</span> */}}
-      <header class="featured-entry">
-        <span class="entry-date">{{- .Date.Format "2006-01-02" }}</span>
-        <h2>
-          <a href="{{ $latestPost.Permalink }}">{{ $latestPost.Title }}</a>
-        </h2>
-        
-        <div class="entry-content">
-          {{ $latestPost.Summary }}
-        </div>
-        <a href="{{ $latestPost.Permalink }}" class="read-more">Read more →</a>
-      </header>
-    </article>
-  {{- end }}
-
-
-  {{/* Paginate the remaining posts */}}
+  {{/* related issue: https://github.com/gohugoio/hugo/issues/9003 */}}
   {{ $paginator := "" }}
   {{ if (.Param "paginate") }}
-    {{- $paginator = .Paginate (after 1 $pages) (.Param "paginate") }}
+    {{- $paginator = .Paginate $pages (.Param "paginate") }}
   {{ else }}
-    {{- $paginator = .Paginate (after 1 $pages) }}
+    {{- $paginator = .Paginate $pages }}
   {{ end }}
   
   {{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
@@ -70,17 +72,14 @@
     {{- else if $term }}
       {{- $class = "post-entry tag-entry" }}
     {{- end }}
-    <article class="{{ $class }}">
-      <header class="entry-header">
-        
-        <div class="entry-info">
-          <span class="entry-date">{{- .Date.Format "2006-01-02" }}</span>
-          <h2 class="entry-title">
-            <a href="{{ .Permalink }}"><span class="title-text">{{ .Title }}</span></a>
-          </h2>
-        </div>
-      </header>
-    </article>
+    <div class="entry-header">
+      <div class="entry-info">
+        <span class="entry-date">{{- .Date.Format "2006-01-02" }}</span>
+        <h2 id="title" class="entry-title">
+          <a href="{{ .Permalink }}"><span class="title-text">{{ .Title }}</span></a>
+        </h2>
+      </div>
+    </div>
   {{- end }}
   
   {{- if gt $paginator.TotalPages 1 }}
@@ -95,7 +94,4 @@
       </nav>
     </footer>
   {{- end }}
-  
- {{- end }}{{/* end profileMode */}}
- 
-{{- end }}{{- /* end main */ -}}
+{{- end }}{{/* end main */}}

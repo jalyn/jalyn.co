@@ -1,7 +1,7 @@
 ---
 title: 'Learning and blundering in chess and life'
-url: 
-date: 2024-08-09T17:21:47+08:00
+url: /blundering
+date: 2024-04-07T17:21:47+08:00
 # weight: 1
 tags: ["chess", "hobbies"]
 author: "Me"

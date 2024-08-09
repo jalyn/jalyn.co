@@ -1,6 +1,6 @@
 ---
 title: 'Beginnings'
-url: 
+url: /beginnings
 date: 2019-12-28T16:55:46+08:00
 # weight: 1
 tags: ["meta"]
