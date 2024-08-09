@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jalyn.github.io/jalyn.co/docs/</loc>
+    <loc>https://jalyn.co/docs/</loc>
     <lastmod>2024-08-09T14:55:08+08:00</lastmod>
   </url><url>
-    <loc>https://jalyn.github.io/jalyn.co/</loc>
+    <loc>https://jalyn.co/</loc>
     <lastmod>2024-08-09T14:55:08+08:00</lastmod>
   </url><url>
-    <loc>https://jalyn.github.io/jalyn.co/docs/test/</loc>
+    <loc>https://jalyn.co/docs/test/</loc>
     <lastmod>2024-08-09T14:55:08+08:00</lastmod>
   </url><url>
-    <loc>https://jalyn.github.io/jalyn.co/categories/</loc>
+    <loc>https://jalyn.co/categories/</loc>
   </url><url>
-    <loc>https://jalyn.github.io/jalyn.co/tags/</loc>
+    <loc>https://jalyn.co/tags/</loc>
   </url>
 </urlset>
