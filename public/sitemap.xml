@@ -2,23 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/digital-garden/</loc>
+    <lastmod>2024-08-09T22:48:16+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-08-09T22:48:16+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-08-09T22:48:16+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/pruning/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-08-09T22:48:16+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ios-unstuck/</loc>
-    <lastmod>2024-06-22T19:18:16+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/devices/</loc>
-    <lastmod>2024-06-22T19:18:16+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-06-22T19:18:16+08:00</lastmod>
+    <loc>http://localhost:1313/tags/writing/</loc>
+    <lastmod>2024-08-09T22:48:16+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/chess/</loc>
     <lastmod>2024-04-07T17:21:47+08:00</lastmod>
@@ -27,6 +24,9 @@
     <lastmod>2024-04-07T17:21:47+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blundering/</loc>
+    <lastmod>2024-04-07T17:21:47+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/learnings/</loc>
     <lastmod>2024-04-07T17:21:47+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/skiing/</loc>
@@ -59,25 +59,139 @@
     <loc>http://localhost:1313/reframe/</loc>
     <lastmod>2022-07-22T20:28:59+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/timezones/</loc>
-    <lastmod>2022-07-04T20:29:47+08:00</lastmod>
+    <loc>http://localhost:1313/little-mix/</loc>
+    <lastmod>2022-05-16T14:43:15+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/work/</loc>
-    <lastmod>2022-07-04T20:29:47+08:00</lastmod>
+    <loc>http://localhost:1313/tags/meditating/</loc>
+    <lastmod>2022-05-16T14:43:15+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/work-bot/</loc>
-    <lastmod>2022-06-11T20:13:41+08:00</lastmod>
+    <loc>http://localhost:1313/meditating/</loc>
+    <lastmod>2022-05-16T14:43:15+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/routines/</loc>
-    <lastmod>2022-06-08T20:30:27+08:00</lastmod>
+    <loc>http://localhost:1313/tags/music/</loc>
+    <lastmod>2022-05-16T14:43:15+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/new-routine/</loc>
-    <lastmod>2022-06-08T20:30:27+08:00</lastmod>
+    <loc>http://localhost:1313/tags/health/</loc>
+    <lastmod>2022-05-10T14:44:56+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/beginnings/</loc>
-    <lastmod>2019-12-28T16:55:46+08:00</lastmod>
+    <loc>http://localhost:1313/spondy/</loc>
+    <lastmod>2022-05-10T14:44:56+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/how-to-fun/</loc>
+    <lastmod>2022-04-24T14:48:04+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/iamremarkable/</loc>
+    <lastmod>2022-03-22T14:49:09+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2021-year-in-review/</loc>
+    <lastmod>2022-01-01T15:57:49+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/corporate-life/</loc>
+    <lastmod>2021-10-23T15:59:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/control/</loc>
+    <lastmod>2021-10-23T15:59:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/stoicism/</loc>
+    <lastmod>2021-10-23T15:59:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/poker/</loc>
+    <lastmod>2021-09-26T16:04:11+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/poker/</loc>
+    <lastmod>2021-09-26T16:04:11+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authentic-life/</loc>
+    <lastmod>2021-09-18T16:05:39+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/values/</loc>
+    <lastmod>2021-09-18T16:05:39+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/speech/</loc>
+    <lastmod>2021-09-05T16:10:09+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/productivity/</loc>
+    <lastmod>2021-08-29T16:11:11+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/time-tracking/</loc>
+    <lastmod>2021-08-29T16:11:11+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tracking-time/</loc>
+    <lastmod>2021-08-29T16:11:11+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/meta/</loc>
+    <lastmod>2021-08-22T16:12:18+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gluttony/</loc>
+    <lastmod>2021-08-22T16:12:18+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/www/</loc>
+    <lastmod>2021-08-08T16:13:50+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/less-more/</loc>
+    <lastmod>2021-07-25T16:16:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/minimalism/</loc>
+    <lastmod>2021-07-25T16:16:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/design/</loc>
+    <lastmod>2021-06-20T16:19:26+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/design-commoditization/</loc>
+    <lastmod>2021-06-20T16:19:26+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/antiracism-singapore/</loc>
+    <lastmod>2021-06-12T16:20:30+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/society/</loc>
+    <lastmod>2021-06-12T16:20:30+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/lapse/</loc>
+    <lastmod>2021-06-06T16:21:28+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/waking/</loc>
+    <lastmod>2021-05-16T16:23:41+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/shoes/</loc>
+    <lastmod>2021-04-11T16:24:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/habits/</loc>
+    <lastmod>2021-04-11T16:24:46+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing-stuff-playlist/</loc>
+    <lastmod>2021-03-07T16:26:33+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/stoic/</loc>
+    <lastmod>2021-02-07T16:27:43+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/workplace-goals/</loc>
+    <lastmod>2021-01-24T16:29:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/reading-distraction/</loc>
+    <lastmod>2021-01-17T16:30:59+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/reading/</loc>
+    <lastmod>2021-01-17T16:30:59+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ios-unstuck/</loc>
+    <lastmod>2021-01-07T19:18:16+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/devices/</loc>
+    <lastmod>2021-01-07T19:18:16+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2020-year-in-review/</loc>
+    <lastmod>2020-12-31T19:21:16+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fitbit-charge-4/</loc>
+    <lastmod>2020-12-23T19:23:39+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/photo-storage/</loc>
+    <lastmod>2020-11-22T19:24:50+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/software/</loc>
+    <lastmod>2020-11-22T19:24:50+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/beginnings/</loc>
     <lastmod>2019-12-28T16:55:46+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>

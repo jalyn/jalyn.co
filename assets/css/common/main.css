@@ -97,6 +97,7 @@ mark {
     box-shadow: var(--link-underline-shadow);
     transition: var(--link-transition);
 }
+
 .inline-links a:hover {
     color: var(--link-hover-color);
     box-shadow: var(--link-hover-underline-shadow);
@@ -271,3 +272,6 @@ figure > img {
 }
 
 
+.entry-container {
+    line-height: 2.5em;
+}

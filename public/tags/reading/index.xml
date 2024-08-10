@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Reading on Jalyn Cai</title>
+    <link>http://localhost:1313/tags/reading/</link>
+    <description>Recent content in Reading on Jalyn Cai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 17 Jan 2021 16:30:59 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/reading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to stop being distracted when reading on iOS</title>
+      <link>http://localhost:1313/reading-distraction/</link>
+      <pubDate>Sun, 17 Jan 2021 16:30:59 +0800</pubDate>
+      
+      <guid>http://localhost:1313/reading-distraction/</guid>
+      <description>Over the course of the last three months, I realized I’ve seriously slipped in my ability to focus deeply.
+I’m constantly distracted by everything – messages on Telegram from friends, pings and calls on Teams, social media notifications, emails, refreshing Reddit… the list goes on.
+I’d even break my own momentum by sliding the notification screen on my phone down, and noting that I don’t have any.
+So, this is a problem.</description>
+      <content:encoded><![CDATA[<p>Over the course of the last three months, I realized I’ve seriously slipped in my ability to focus deeply.</p>
+<p>I’m constantly distracted by everything – messages on Telegram from friends, pings and calls on Teams, social media notifications, emails, refreshing Reddit… the list goes on.</p>
+<p>I’d even break my own momentum by sliding the notification screen on my phone down, and noting that I don’t have any.</p>
+<p>So, this is a problem.</p>
+<p>One quick fix I’ve been using to focus is to force myself to stay on one app, using Guided Access.</p>
+<hr>
+<p>(Sorry, it&rsquo;s 2024 and I need to update images!)</p>
+<h2 id="handy-dandy-instructions">Handy dandy instructions</h2>
+<ol>
+<li>Go to Settings &gt; Accessibility &gt; General (you’ll have to scroll to the bottom of the screen)</li>
+<li>Click into Guided Access</li>
+<li>Turn the toggle on</li>
+<li>Go to Passcode Settings on this screen, and use Set Guide Access Passcode – I don’t use the Face ID option so that it gives me an additional barrier</li>
+<li>???</li>
+<li>Profit!</li>
+</ol>
+<p>Kidding aside – when you go to your reading app of choice, just click on your side button three times to lock usage to that app. It’ll mute notifications, prevent swipe ups/downs, and removes your ability to navigate to other apps as well.</p>
+<p>Have fun!</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

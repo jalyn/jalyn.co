@@ -73,9 +73,9 @@
 
 /* /static/css/custom.css */
 
+
 a[target="_blank"]::after {
     content: ' ↗️ ';
     font-size:0.8em;
     vertical-align:top;
   }
-  

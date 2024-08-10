@@ -3,12 +3,12 @@ title: 'Timezone shifting'
 url: /timezones
 date: 2022-07-04T20:29:47+08:00
 # weight: 1
-tags: ["work"]
+tags: ["corporate-life"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
 # description: "Desc Text."

@@ -72,7 +72,7 @@
     {{- else if $term }}
       {{- $class = "post-entry tag-entry" }}
     {{- end }}
-    <div class="entry-header">
+    <div class="entry-container"><div class="entry-header">
       <div class="entry-info">
         <span class="entry-date">{{- .Date.Format "2006-01-02" }}</span>
         <h2 id="title" class="entry-title">
@@ -80,6 +80,7 @@
         </h2>
       </div>
     </div>
+  </div>
   {{- end }}
   
   {{- if gt $paginator.TotalPages 1 }}

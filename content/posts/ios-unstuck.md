@@ -1,7 +1,7 @@
 ---
-title: 'Argh, Apple [How to get unstuck on the iOS update during setup]'
+title: 'Argh, Apple (and how to get unstuck on the iOS update during setup)'
 url: /ios-unstuck
-date: 2024-06-22T19:18:16+08:00
+date: 2024-06-15T19:18:16+08:00
 # weight: 1
 tags: ["devices"]
 author: "Me"
@@ -33,7 +33,7 @@ That’s okay; it was nearly Father’s Day so my sister and I got the iPhone SE
 
 After a week or so of waiting (which was about 6 days longer than I had anticipated; something to unpack here about my apparent high standards for delivery timelines), it arrived.
 
-### The ordeal
+## The ordeal
 
 I thought it would be simple with the data transfer — he doesn’t have too many apps or personal data on his phone, and I only needed to preserve the connection to his work VPN, and chat history on the handful of chat apps he has that aren’t cloud-based.
 
@@ -49,7 +49,7 @@ I thought: this must be a mistake, so I restarted the process, did the pairing a
 
 [A cursory search found this issue starting back from at least 2020](https://www.google.com/search?q=iphone+new+phone+setup+software+update+2+days+site:discussions.apple.com); at one point it told me it would take 5 days for it to finish downloading and transferring.
 
-### The solution
+## The solution
 
 1. Set up the phone as if it’s a new phone, and do not choose to import your settings and data from your old phone — no worries, you can do the transfer after these steps
 2. With the brand new phone, navigate to Settings > General > Software Update

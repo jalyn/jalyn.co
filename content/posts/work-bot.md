@@ -3,12 +3,12 @@ title: 'Becoming less of a work bot'
 url: /work-bot
 date: 2022-06-11T20:13:41+08:00
 # weight: 1
-tags: ["work"]
+tags: ["corporate-life"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
 # description: "Desc Text."

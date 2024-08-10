@@ -3,7 +3,7 @@ title: 'Learning and blundering in chess and life'
 url: /blundering
 date: 2024-04-07T17:21:47+08:00
 # weight: 1
-tags: ["chess", "hobbies"]
+tags: ["chess", "hobbies", "learnings"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false

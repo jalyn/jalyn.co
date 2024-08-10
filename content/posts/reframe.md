@@ -1,5 +1,5 @@
 ---
-title: 'Reframe'
+title: 'Reframe, rethink'
 url: /reframe
 date: 2022-07-22T20:28:59+08:00
 # weight: 1
