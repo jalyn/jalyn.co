@@ -73,4 +73,4 @@ In all, though, I still think this was one of my best purchases of 2020.
 
 Which isn’t *a lot*, because I didn’t buy too many things.
 
-Being able to track sleep and getting that consistency to hit my steps are huge deals though! We’ll see if I will upgrade to a Sense or Versa in a few years, but I can say that I’ll continue to wear this for as long as it lasts.
+Being able to track sleep and getting that consistency to hit my steps are huge deals though! We’ll see if I will upgrade to a Sense or Versa in a few years, but I can say that I’ll continue to wear this for as long as it lasts. 
