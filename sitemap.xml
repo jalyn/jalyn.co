@@ -2,22 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jalyn.co/tags/corporate-life/</loc>
-    <lastmod>2024-08-10T20:11:51+08:00</lastmod>
+    <loc>https://jalyn.co/digital-garden/</loc>
+    <lastmod>2024-08-09T22:48:16+08:00</lastmod>
   </url><url>
     <loc>https://jalyn.co/</loc>
-    <lastmod>2024-08-10T20:11:51+08:00</lastmod>
+    <lastmod>2024-08-09T22:48:16+08:00</lastmod>
   </url><url>
     <loc>https://jalyn.co/posts/</loc>
-    <lastmod>2024-08-10T20:11:51+08:00</lastmod>
+    <lastmod>2024-08-09T22:48:16+08:00</lastmod>
   </url><url>
     <loc>https://jalyn.co/tags/</loc>
-    <lastmod>2024-08-10T20:11:51+08:00</lastmod>
-  </url><url>
-    <loc>https://jalyn.co/new-job/</loc>
-    <lastmod>2024-08-10T20:11:51+08:00</lastmod>
-  </url><url>
-    <loc>https://jalyn.co/digital-garden/</loc>
     <lastmod>2024-08-09T22:48:16+08:00</lastmod>
   </url><url>
     <loc>https://jalyn.co/tags/writing/</loc>
@@ -98,6 +92,9 @@
     <loc>https://jalyn.co/2021-year-in-review/</loc>
     <lastmod>2022-01-01T15:57:49+08:00</lastmod>
   </url><url>
+    <loc>https://jalyn.co/tags/corporate-life/</loc>
+    <lastmod>2021-10-23T15:59:46+08:00</lastmod>
+  </url><url>
     <loc>https://jalyn.co/control/</loc>
     <lastmod>2021-10-23T15:59:46+08:00</lastmod>
   </url><url>
@@ -117,6 +114,9 @@
     <lastmod>2021-09-18T16:05:39+08:00</lastmod>
   </url><url>
     <loc>https://jalyn.co/speech/</loc>
+    <lastmod>2021-09-05T16:10:09+08:00</lastmod>
+  </url><url>
+    <loc>https://jalyn.co/tags/speaking/</loc>
     <lastmod>2021-09-05T16:10:09+08:00</lastmod>
   </url><url>
     <loc>https://jalyn.co/tags/productivity/</loc>
@@ -191,7 +191,7 @@
     <loc>https://jalyn.co/photo-storage/</loc>
     <lastmod>2020-11-22T19:24:50+08:00</lastmod>
   </url><url>
-    <loc>https://jalyn.co/tags/software/</loc>
+    <loc>https://jalyn.co/tags/storage/</loc>
     <lastmod>2020-11-22T19:24:50+08:00</lastmod>
   </url><url>
     <loc>https://jalyn.co/tags/sleep/</loc>
@@ -202,6 +202,9 @@
   </url><url>
     <loc>https://jalyn.co/upgrade/</loc>
     <lastmod>2020-10-20T16:11:11+08:00</lastmod>
+  </url><url>
+    <loc>https://jalyn.co/new-job/</loc>
+    <lastmod>2020-02-08T20:11:51+08:00</lastmod>
   </url><url>
     <loc>https://jalyn.co/hoarding/</loc>
     <lastmod>2020-01-11T20:12:36+08:00</lastmod>

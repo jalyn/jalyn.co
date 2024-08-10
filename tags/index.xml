@@ -6,17 +6,7 @@
     <description>Recent content in Tags on Jalyn Cai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Aug 2024 20:11:51 +0800</lastBuildDate><atom:link href="https://jalyn.co/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Corporate Life</title>
-      <link>https://jalyn.co/tags/corporate-life/</link>
-      <pubDate>Sat, 10 Aug 2024 20:11:51 +0800</pubDate>
-      
-      <guid>https://jalyn.co/tags/corporate-life/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
+    <lastBuildDate>Fri, 09 Aug 2024 22:48:16 +0800</lastBuildDate><atom:link href="https://jalyn.co/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writing</title>
       <link>https://jalyn.co/tags/writing/</link>
@@ -138,6 +128,16 @@
     </item>
     
     <item>
+      <title>Corporate Life</title>
+      <link>https://jalyn.co/tags/corporate-life/</link>
+      <pubDate>Sat, 23 Oct 2021 15:59:46 +0800</pubDate>
+      
+      <guid>https://jalyn.co/tags/corporate-life/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
       <title>Stoicism</title>
       <link>https://jalyn.co/tags/stoicism/</link>
       <pubDate>Sat, 23 Oct 2021 15:59:46 +0800</pubDate>
@@ -163,6 +163,16 @@
       <pubDate>Sat, 18 Sep 2021 16:05:39 +0800</pubDate>
       
       <guid>https://jalyn.co/tags/values/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Speaking</title>
+      <link>https://jalyn.co/tags/speaking/</link>
+      <pubDate>Sun, 05 Sep 2021 16:10:09 +0800</pubDate>
+      
+      <guid>https://jalyn.co/tags/speaking/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
@@ -248,11 +258,11 @@
     </item>
     
     <item>
-      <title>Software</title>
-      <link>https://jalyn.co/tags/software/</link>
+      <title>Storage</title>
+      <link>https://jalyn.co/tags/storage/</link>
       <pubDate>Sun, 22 Nov 2020 19:24:50 +0800</pubDate>
       
-      <guid>https://jalyn.co/tags/software/</guid>
+      <guid>https://jalyn.co/tags/storage/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>

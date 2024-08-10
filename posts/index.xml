@@ -6,39 +6,7 @@
     <description>Recent content in Posts on Jalyn Cai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Aug 2024 20:11:51 +0800</lastBuildDate><atom:link href="https://jalyn.co/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Non-Definitive Guide To Starting A New Job</title>
-      <link>https://jalyn.co/new-job/</link>
-      <pubDate>Sat, 10 Aug 2024 20:11:51 +0800</pubDate>
-      
-      <guid>https://jalyn.co/new-job/</guid>
-      <description>I’ve switched jobs — not counting freelance and contract work — twice in my career.
-Three times, now, once I start my new job on Monday. My last day at my previous employee was Friday, so you can say that I love cutting things close.
-Now, clearly this is an occupational hazard, but a UXer’s gotta UX, you know? So I’ve cobbled together some objectives I want to test out for my new job.</description>
-      <content:encoded><![CDATA[<p>I’ve switched jobs — not counting freelance and contract work — twice in my career.</p>
-<p>Three times, now, once I start my new job on Monday. My last day at my previous employee was Friday, so you can say that I love cutting things close.</p>
-<p>Now, clearly this is an occupational hazard, but a UXer’s gotta UX, you know? So I’ve cobbled together some objectives I want to test out for my new job.</p>
-<h2 id="schedule-regular-one-on-one-catch-ups-with-the-manager">Schedule regular one-on-one catch-ups with the manager</h2>
-<p>This should probably be self-explanatory.</p>
-<p>Earlier in my career, I was more than happy to shy away from these, believing that my work would speak for itself.</p>
-<p>Obviously, that’s a naive belief.</p>
-<p>I’ve also had managers who were too busy, and these sessions usually got pushed and postponed and eventually, canceled. I’ll have to figure out what to do if this situation happens again, but fingers crossed it wouldn’t!</p>
-<p><strong>The plan:</strong> Schedule weekly check-ins (at least for the first month), set expectations, and check in often to see if I’m missing the mark.</p>
-<p>We go around recommending the notion of launching fast and failing fast, so why not translate that for my own development?</p>
-<h2 id="get-to-proactively-know-my-new-colleagues">Get to proactively know my new colleagues</h2>
-<p>I’m a textbook introvert, and some days, I’d rather be at my desk, hunkering down on the actual work. Not to the point of being anti-social, but I’m definitely more charming on a one-on-one basis than a group of more than 30 people, staring expectantly at me.</p>
-<p><strong>The plan:</strong> Have lunch/coffee with at least one new person every week, unless I’m away in a project/agile team. And even then! The team will be new to me and vice versa, so it will be helpful for everyone.</p>
-<p>The 2019-nCoV might hinder this plan if things keep escalating. We’ll see, though! I’ll still try my best.</p>
-<p>This leads in nicely to…</p>
-<h2 id="find-mentors">Find mentors</h2>
-<p>One glaring thing that I’ve definitely lacked in my previous jobs was diversifying the mentorship I was getting.</p>
-<p>I haven’t really branched out beyond direct management, even though I’ve always meant to find mentors outside of my team.</p>
-<p><strong>The plan:</strong> Identify at least three mentors within the organization, and see how I can help them with their own goals and metrics.</p>
-<p>So, there’s that to cover for the first quarter. There will be plenty to learn as I try to hit the ground running, but it’ll be a fun adventure nonetheless.</p>
-]]></content:encoded>
-    </item>
-    
+    <lastBuildDate>Fri, 09 Aug 2024 22:48:16 +0800</lastBuildDate><atom:link href="https://jalyn.co/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digital gardening</title>
       <link>https://jalyn.co/digital-garden/</link>
@@ -195,7 +163,7 @@ Yet, in the last week, I found myself strapping into boots and skis that made my
       <description>Once again, I’m looking back on the year that’s passed. (See: 2020, 2021, 2022)
 It seems a little tougher this year — and I won’t say whether it’s because I haven’t been consistently and habitually writing on this site — but I’m always happy to reflect and introspect on what has gone well and what I could’ve done better with.
 What went well: Learning and growth: Last year, one of my goals was to try and figure out whether to take my MBA aspiration more seriously.</description>
-      <content:encoded><![CDATA[<p>Once again, I’m looking back on the year that’s passed. (See: <a href="https://jalyn.co/2020-year-in-review/"   target="_blank" rel="noopener" >2020</a>, <a href="https://jalyn.co/2021-year-in-review/"   target="_blank" rel="noopener" >2021</a>, <a href="https://jalyn.co/2022-year-in-review/"   target="_blank" rel="noopener" >2022</a>)</p>
+      <content:encoded><![CDATA[<p>Once again, I’m looking back on the year that’s passed. (See: <a href="/2020-year-in-review"  >2020</a>, <a href="/2021-year-in-review"  >2021</a>, <a href="/2022-year-in-review"  >2022</a>)</p>
 <p>It seems a little tougher this year — and I won’t say whether it’s because I haven’t been consistently and habitually writing on this site — but I’m always happy to reflect and introspect on what has gone well and what I could’ve done better with.</p>
 <h2 id="what-went-well">What went well:</h2>
 <p><strong>Learning and growth:</strong> Last year, one of my goals was to try and figure out whether to take my MBA aspiration more seriously. To that end, one of the hurdles was taking the GMAT. After some on-off studying for half a year, I scored a 645 on the GMAT Focus, which clears that 700 barrier on the classic GMAT.</p>
@@ -241,7 +209,7 @@ Last year, I ruminated a little on having fun, with the full intention of trying
       <content:encoded><![CDATA[<p>“只是玩toy toy而已，不要做东西” (or: I just want to play toys, and not do anything).</p>
 <p>Wise words from my 5-year old nephew about his ideal day made me crack up, but also made me wonder: When did I stop having fun?</p>
 <p>—</p>
-<p>Last year, I ruminated a little on <a href="https://jalyn.co/how-to-have-fun/"   target="_blank" rel="noopener" >having fun</a>, with the full intention of trying out a year of fun. Then, in typical me fashion, this all got pushed to the wayside because of work, and also because of the bigger health concerns I discovered during that same time.</p>
+<p>Last year, I <a href="/how-to-fun"  >ruminated a little on having fun</a>, with the full intention of trying out a year of fun. Then, in typical me fashion, this all got pushed to the wayside because of work, and also because of the bigger health concerns I discovered during that same time.</p>
 <p>But it’s really plain to see: I have grown really, really bad at producing serotonin. If I’m not doing work, I’m thinking about work or work-adjacent things, like mentoring and productivity and optimizing. If something I’m doing doesn’t build towards learning, I feel guilty.</p>
 <p>Here’s a laundry list of things that I do already do that I think are fun, and also ways I have made them… just a little bit stressful:</p>
 <table>
@@ -292,18 +260,18 @@ Last year, I ruminated a little on having fun, with the full intention of trying
       <guid>https://jalyn.co/2022-year-in-review/</guid>
       <description>It’s become a habit now; a yearly one, to look back on the year that has passed and reflect on what has gone well and what could’ve gone better (see: 2021, 2020). My writing is rusty now, with my non-rigour and letting my habit die off this year.
 2022 has been a mixed bag of blessings and regrets, and of going on auto-pilot and letting things fall on the wayside.</description>
-      <content:encoded><![CDATA[<p>It’s become a habit now; a yearly one, to look back on the year that has passed and reflect on what has gone well and what could’ve gone better (see: <a href="https://jalyn.co/2021-year-in-review/"   target="_blank" rel="noopener" >2021</a>, <a href="https://jalyn.co/2020-year-in-review/"   target="_blank" rel="noopener" >2020</a>). My writing is rusty now, with my non-rigour and letting my habit die off this year.</p>
+      <content:encoded><![CDATA[<p>It’s become a habit now; a yearly one, to look back on the year that has passed and reflect on what has gone well and what could’ve gone better (see: <a href="/2021-year-in-review"  >2021</a>, <a href="/2020-year-in-review"  >2020</a>). My writing is rusty now, with my non-rigour and letting my habit die off this year.</p>
 <p>2022 has been a mixed bag of blessings and regrets, and of going on auto-pilot and letting things fall on the wayside.</p>
 <h2 id="what-went-well">What went well:</h2>
 <p><strong>Fitness:</strong> This is separate from health, for reasons we’ll go into in the <em>what could’ve gone better</em> section</p>
-<p>This year, I got a gym membership in March, and then in July, a personal trainer. I ended up with 75 sessions in total, which comes up to around a session every 3.8 days. My main drive for going to the gym is to get stronger — something that is a little hard to do as I can’t consistently overload because of my <a href="https://jalyn.co/spondy/"   target="_blank" rel="noopener" >Back Situation™</a>.</p>
+<p>This year, I got a gym membership in March, and then in July, a personal trainer. I ended up with 75 sessions in total, which comes up to around a session every 3.8 days. My main drive for going to the gym is to get stronger — something that is a little hard to do as I can’t consistently overload because of my <a href="/spondy"  >Back Situation™</a>.</p>
 <p>I hit several PRs in the last two sessions of the year — made possible only because I ate at maintenance for these last two weeks; I’m in a deficit otherwise. PRs make me feel like I’m unlocking achievements, but I know it’s a really unpredictable road that I’m on, and I’m still learning how to accept my limitations.</p>
 <p>My weakest exercises definitely have to do with my back and core, which are… important, you know, to the general anatomy.</p>
 <p>But also: I meal prepped for the majority of the year, and was a little more consistent with my meal timings! I’ll take that as a W.</p>
-<p><strong>Finance</strong>: My savings rate dropped to 63% this year, from my target of 70%. Yet — I’m at peace with it, since I’m <a href="https://jalyn.co/on-spending-money-and-being-frugal/"   target="_blank" rel="noopener" >trading money for my health and fitness</a>. The hugest chunk of money went to aforementioned personal training sessions, as well as physiotherapy sessions which was an unexpected expense, and insurance only covered a minuscule part of it.</p>
+<p><strong>Finance</strong>: My savings rate dropped to 63% this year, from my target of 70%. Yet — I’m at peace with it, since I’m <a href="/frugal"  >trading money for my health and fitness</a>. The hugest chunk of money went to aforementioned personal training sessions, as well as physiotherapy sessions which was an unexpected expense, and insurance only covered a minuscule part of it.</p>
 <p>I also finally upgraded my iPhone X to a 14 Pro! Other than that, I didn’t travel this year at all, and kept to my yearly budget in all other categories.</p>
 <p><strong>Relationships and connections</strong>: I got much closer to a few work-buddies-elevated-to-friends, and I’m glad to have forged these friendships as I surround myself with people who inspire me and push me to be better.</p>
-<p><strong>Hair</strong>: <a href="https://jalyn.co/hold-on-os-is-updating/"   target="_blank" rel="noopener" >I got it cut!</a></p>
+<p><strong>Hair</strong>: <a href="https://www.instagram.com/p/CZ_9fkCvOUx/"   target="_blank" rel="noopener" >I got it cut!</a></p>
 <h2 id="what-couldve-gone-better">What could’ve gone better:</h2>
 <p>Probably everything else.</p>
 <p><strong>Health</strong>: I have had back problems for a few years now, and in April I decided that I wanted to get a referral letter from my general practitioner so that I could go to a physio and go on my merry ways, with a few easy exercises that would fix it once and for all.</p>
@@ -577,7 +545,7 @@ Why I attended this More than just for personal growth though, I definitely want
 <li>#IAmRemarkable, because I always want to do better and <em>be</em> better</li>
 <li>#IAmRemarkable, because I am resilient through life changes and revelations</li>
 <li>#IAmRemarkable, because I pay attention to the small details</li>
-<li>#IAmRemarkable, because I try to live through my <a href="https://jalyn.co/how-i-live-an-authentic-life/"   target="_blank" rel="noopener" >core values</a> and using them to guide my decisions</li>
+<li>#IAmRemarkable, because I try to live through my <a href="/authentic-life"  >core values</a> and using them to guide my decisions</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -595,7 +563,7 @@ Why I attended this More than just for personal growth though, I definitely want
 <h2 id="what-went-well">What went well:</h2>
 <ul>
 <li><strong>Money:</strong> Before the laptop fiasco, I was locking in an 70% savings rate. This is going to be my third full year of pursuing FIRE (or at least the FI part of things), and I’m well on track, so that makes me happy. With the repair costs hastily calculated in, I’m down a couple of percents, but all in all it’s still below my budgeted expenses of the year.</li>
-<li><strong>Work</strong>: I had so much to talk about during my impact discussion, which was further bolstered by my colleagues’ really kind feedback and words for my improvement. There was also the matter of getting into the Next Generation Leadership Team (<a href="https://www.instagram.com/p/CXi6VawgxuO/"   target="_blank" rel="noopener" >second slide in this post!</a>) when <a href="https://jalyn.co/on-nerves-and-time/"   target="_blank" rel="noopener" >I didn’t think I would</a>.</li>
+<li><strong>Work</strong>: I had so much to talk about during my impact discussion, which was further bolstered by my colleagues’ really kind feedback and words for my improvement. There was also the matter of getting into the Next Generation Leadership Team (<a href="https://www.instagram.com/p/CXi6VawgxuO/"   target="_blank" rel="noopener" >second slide in this post!</a>) when I didn’t think I would.</li>
 <li><strong>Writing:</strong> This is threefold — I wrote a post here every week for a year (minus the weird month last month that I paused), wrote 2 journal entries every day (one for a more regular recap, and another with Day One’s daily prompts), and also wrote a few pieces of fic which I’m proud of, because I’d never done that for my ride-or-die fandom despite being in it for nearly a decade now.</li>
 </ul>
 <h2 id="what-couldve-gone-better">What could’ve gone better:</h2>
@@ -608,14 +576,14 @@ Why I attended this More than just for personal growth though, I definitely want
 </ul>
 </li>
 <li><strong>Reading</strong>: <a href="https://www.goodreads.com/user_challenges/24940419"   target="_blank" rel="noopener" >I did it.</a> I did 60 books. I’m not proud of it, because I speed-read the fuck out of those last 15 books and let’s just say I do <em>not</em> want to do it again, so this year? This year I’m going to slow down, and read just “enough”.</li>
-<li><strong>Skills:</strong> <a href="https://jalyn.co/learning-and-new-skills/"   target="_blank" rel="noopener" >Did not learn a new language. Or calligraphy.</a> Picked up a couple of Thai swear words though, does that count?</li>
+<li><strong>Skills:</strong> Did not learn a new language. Or calligraphy. Picked up a couple of Thai swear words though, does that count?</li>
 <li><strong>Mentality</strong>: I heard it over and over again from my colleagues and friends — stop being so hard on yourself.</li>
 <li><strong>Money:</strong> Even though I’d talked about all the good stuff with money in the previous section, one thing did make me feel slightly embarrassed: in-app purchases for chips in my poker games. It’s illegal in Singapore to gamble online, so I was just frivolously spending real money in exchange for fake money.Luckily (and this is a huge luckily), the support team accidentally unlinked my account and I can’t access that anymore, which made my refund requests to Apple legitimate when I did it after 2 weeks of no response from said support team.</li>
 </ul>
 <h2 id="other-stuff">Other stuff:</h2>
 <ul>
 <li>I met some pretty cool people this year, and I’m thankful to have crossed paths with them and looking forward to forging even tighter friendships going forward!</li>
-<li>2021’s major learning-in-a-structured-manner was the <a href="https://jalyn.co/on-learning-and-learning-harder-better-faster-stronger/"   target="_blank" rel="noopener" >d.MBA</a>, and I’m itching to apply that knowledge to actual work.</li>
+<li>2021’s major learning-in-a-structured-manner was the <a href="/learning-harder"  >d.MBA</a>, and I’m itching to apply that knowledge to actual work.</li>
 <li>2021 was also my second year of meditating every morning</li>
 <li>Got extremely into poker near the end of October — thanks to Maria Konnikova’s <a href="https://www.goodreads.com/book/show/49814228-the-biggest-bluff"   target="_blank" rel="noopener" ><em>The Biggest Bluff</em></a> — and while I’ve just been playing it online (with fake stakes), I think I might consider taking a vacation somewhere and playing some super low stakes games in person.</li>
 <li>Getting to be <a href="https://adplist.org/mentors/jalyn-cai"   target="_blank" rel="noopener" >a mentor on ADPList</a> had been really fulfilling, though really time-consuming! Alas, I think I’m no longer getting any traffic from the actual directory, and haven’t been getting any new bookings since… I wanna say November? So there’s that.</li>
@@ -644,7 +612,7 @@ I’ve touched on this topic before, while talking about stoicism and what we ca
 Things happen, and the only thing we can control is how we respond to them.</description>
       <content:encoded><![CDATA[<p>My mentor asked me a simple question when I was catching up with her: What’s in your control, and what’s not?</p>
 <p>—</p>
-<p>I’ve touched on this topic before, while talking about <a href="https://jalyn.co/stoicism-and-what-we-can-control/"   target="_blank" rel="noopener" >stoicism and what we can control</a>. That was February of this year, which seems both like a short time and a lifetime ago. I had a pretty pithy line to summarize then:</p>
+<p>I’ve touched on this topic before, while talking about <a href="/control"  >stoicism and what we can control</a>. That was February of this year, which seems both like a short time and a lifetime ago. I had a pretty pithy line to summarize then:</p>
 <blockquote>
 <p>Things happen, and the only thing we can control is how we respond to them.</p>
 </blockquote>
@@ -664,7 +632,7 @@ Things happen, and the only thing we can control is how we respond to them.</des
 <li>How much action I take, or do not take</li>
 <li>The mindfulness I take towards my actions</li>
 </ul>
-<p>I vaguely alluded to <a href="/content/posts/nerves.md"  >a big shocking announcement at work last week</a>; cue me googling ‘what to do when manager is laid off’ — <a href="/content/posts/work-ethics.md"  >the same manager that was understanding of my morals at work</a> — and still trying to process it, about a week and a half after.</p>
+<p>I vaguely alluded to a big shocking announcement at work last week; cue me googling ‘what to do when manager is laid off’ — <a href="/work-ethics"  >the same manager that was understanding of my morals at work</a> — and still trying to process it, about a week and a half after.</p>
 <p>I’m still trying to figure out what it means for me (my own job security, my next step forward, building my promotion case) but it’s definitely given me a lot to think about, when I’m not being busy with actual work and calls, and dealing with bad timing (on my part) to try and get a CSR initiative off the ground.</p>
 <p>I’m still on that adjusted working week — from Sunday to Thursday — for at least two more weeks, and I don’t think I’m ever going to get used to that, as long as the rest of my team is on Monday to Friday.</p>
 ]]></content:encoded>
@@ -760,7 +728,7 @@ Kidding aside, I’m not putting “real” money on it, so the only thing I’m
     </item>
     
     <item>
-      <title>Tracking Time</title>
+      <title>Why and how I track every minute of my life</title>
       <link>https://jalyn.co/tracking-time/</link>
       <pubDate>Sun, 29 Aug 2021 16:11:11 +0800</pubDate>
       
@@ -842,7 +810,7 @@ I research for a presentation all about dolphins, complete with videos and .wav 
 <p>I win third place at a website building competition.</p>
 <p>My secret to the reason why I learned to code? Neopets.</p>
 <h3 id="age-14">Age 14</h3>
-<p>I discover so many things that are just starting to get its footing: <a href="https://jalyn.co/beginnings/"   target="_blank" rel="noopener" >Blogger, LiveJournal, hosting on someone’s cool-sounding domain as a subdomain</a>; fandom forums; Yahoo Groups; Friendster, e-greetings; Napster and then later, LimeWire; Geocities…</p>
+<p>I discover so many things that are just starting to get its footing: <a href="/beginnings/"  >Blogger, LiveJournal, hosting on someone’s cool-sounding domain as a subdomain</a>; fandom forums; Yahoo Groups; Friendster, e-greetings; Napster and then later, LimeWire; Geocities…</p>
 <p>I don’t know that it’ll be referred to in the future as the dot com bust, but here we are.</p>
 <h3 id="age-16">Age 16</h3>
 <p>I switch between appearing offline and online on MSN Messenger, hoping for specific someones to notice me and strike up a conversation.</p>
@@ -1077,9 +1045,9 @@ I bought it in July 2019 — actually the last thing I bought on ASOS, now that 
       <pubDate>Sun, 07 Mar 2021 16:26:33 +0800</pubDate>
       
       <guid>https://jalyn.co/writing-stuff-playlist/</guid>
-      <description>This is a music post, because I’m still taking life slow. I call this my ‘writing stuff’ playlist, in which I do everything but.
+      <description>I call this my ‘writing stuff’ playlist, in which I do everything but.
 Run – Daughter Tip of my Tongue – The Civil Wars Set the Fire to the Third Bar – Snow Patrol ft. Martha Wainwright When I Go – Slow Club Blood Bank – Bon Iver Off I Go – Greg Laswell Alaska – Maggie Rogers Thunder Clatter – Wild Cub Challengers – The New Pornographers My Backwards Walk – Frightened Rabbit There’s another version of this playlist that’s basically just all of Little Mix’s discography, Broadway recordings, and The Barden Bellas, so there’s that.</description>
-      <content:encoded><![CDATA[<p>This is a music post, because I’m still <a href="https://jalyn.co/slowing-down/"   target="_blank" rel="noopener" >taking life slow</a>. I call this my ‘writing stuff’ playlist, in which I do everything but.</p>
+      <content:encoded><![CDATA[<p>I call this my ‘writing stuff’ playlist, in which I do everything but.</p>
 <ol>
 <li>Run – Daughter</li>
 <li>Tip of my Tongue – The Civil Wars</li>
@@ -1092,7 +1060,7 @@ Run – Daughter Tip of my Tongue – The Civil Wars Set the Fire to the Third B
 <li>Challengers – The New Pornographers</li>
 <li>My Backwards Walk – Frightened Rabbit</li>
 </ol>
-<p>There’s another version of this playlist that’s basically just all of <a href="/content/posts/little-mix.md"  >Little Mix’s discography</a>, Broadway recordings, and The Barden Bellas, so there’s that.</p>
+<p>There’s another version of this playlist that’s basically just all of <a href="/little-mix"  >Little Mix’s discography</a>, Broadway recordings, and The Barden Bellas, so there’s that.</p>
 ]]></content:encoded>
     </item>
     
@@ -1132,12 +1100,13 @@ That’s when I discovered stoicism.</description>
       
       <guid>https://jalyn.co/workplace-goals/</guid>
       <description>I’m in the process of setting my 2021 OKRs for work right now. As a starting point, my mentor had requested for me to think about my strengths and how to tie it all together.
-Me: Okay, I’m going to need some time to think about my strengths.
-Also me: Do you want weaknesses too? I can give them to you right now, if you want.
+Me: Okay, I’m going to need some time to think about my strengths. Also me: Do you want weaknesses too? I can give them to you right now, if you want.
 An experiment in gathering feedback I used to squirm at the idea of talking about myself.</description>
       <content:encoded><![CDATA[<p>I’m in the process of setting my 2021 OKRs for work right now. As a starting point, my mentor had requested for me to think about my strengths and how to tie it all together.</p>
-<p><strong>Me:</strong> Okay, I’m going to need some time to think about my strengths.</p>
-<p><strong>Also me:</strong> Do you want weaknesses too? I can give them to you right now, if you want.</p>
+<blockquote>
+<p><strong>Me:</strong> Okay, I’m going to need some time to think about my strengths.
+<strong>Also me:</strong> Do you want weaknesses too? I can give them to you right now, if you want.</p>
+</blockquote>
 <h2 id="an-experiment-in-gathering-feedback">An experiment in gathering feedback</h2>
 <p>I used to squirm at the idea of talking about myself. Actually, that’s a lie – I still squirm at the idea, but now I (begrudgingly) recognize its value in allowing people to consider both the quality of my work, and the sum of my character.</p>
 <p>I’m always trying to make things easier for myself though, and to that end, I’ve been experimenting.</p>
@@ -1210,7 +1179,7 @@ So, I’m happy to see 2020 behind us.</description>
 <p>Besides vague gestures in 2020’s general direction, I can break it down to two general buckets: physical autonomy, and mental fortitude.</p>
 <p><strong>Physical autonomy</strong></p>
 <p>In 2018, I injured my back, and it has never been the same ever since. I’ve gone to physical therapists and chiropractors, had scans done, and dutifully did my core exercises. Yet, nothing has helped that constant and consistent ache.</p>
-<p>To exacerbate the problem, when I started working from home, I didn’t have a setup in place. I was using a kitchen chair, and sometimes when the pain of sitting up got to be too much, I would just lay down on my stomach. It worked – but at the expense of my neck (which cracks every time I turn it). Thankfully, <a href="https://www.ohlookiecookie.com/"   target="_blank" rel="noopener" >my</a> <a href="https://www.siew.online/"   target="_blank" rel="noopener" >lovely</a> <a href="https://www.instagram.com/facesofrow/"   target="_blank" rel="noopener" >friends</a><a href="javascript:void%280%29"  >1</a> got me an office chair for my birthday, which definitely helped.</p>
+<p>To exacerbate the problem, when I started working from home, I didn’t have a setup in place. I was using a kitchen chair, and sometimes when the pain of sitting up got to be too much, I would just lay down on my stomach. It worked – but at the expense of my neck (which cracks every time I turn it). Thankfully, <a href="https://www.ohlookiecookie.com/"   target="_blank" rel="noopener" >my</a>  <a href="https://www.siew.online/"   target="_blank" rel="noopener" >lovely</a>  <a href="https://www.instagram.com/facesofrow/"   target="_blank" rel="noopener" >friends</a> got me an office chair for my birthday, which definitely helped.</p>
 <p>My strength training has plummeted too: I used to be able to squat 50kg and deadlift 65kg at the gym with barbells and plates; now 20kg dumbbells are making me doubt myself. Every twinge makes me paranoid that my body will soon crumple onto the floor.</p>
 <p>It wasn’t a squat or a deadlift that caused an injury in my hip (an area that had never really hurt before) at the end of November, but an innocent sounding one-arm row. I felt something on the left of my lower body shift in a way that it shouldn’t, and immediately I literally said out loud: <em>oh fuck</em>, before I shuffled awkwardly to my bed and laid down to assess the damage done.</p>
 <p>So yeah, long story short: my core strength is currently close to non-existent, and it’s giving me a real backache on top of a hypothetical headache.</p>
@@ -1228,7 +1197,7 @@ So, I’m happy to see 2020 behind us.</description>
 <p><strong>Work out twice a week</strong></p>
 <p>This was like a see-saw, and on weeks when I felt well enough to, I managed to do at least two workouts a week. Right now for the past 8 weeks, I’ve been doing it six times a week, just to get myself in that routine.</p>
 <p><strong>Read 52 books</strong> (58!)</p>
-<p>I think I’ve talked about <a href="https://jalyn.co/catching-up-on-my-2020-reading-challenge-how-it-caught-up-with-me-or-how-i-plan-to-read-a-book-every-three-days/"   target="_blank" rel="noopener" >this</a> <a href="https://jalyn.co/books-to-last-me-til-the-end-of-the-year/"   target="_blank" rel="noopener" >enough</a>. The bulk of it happened in the last quarter of the year, but from a pure numerical standpoint, I think it’s fair to say that I hit this goal!</p>
+<p>The bulk of it happened in the last quarter of the year, but from a pure numerical standpoint, I think it’s fair to say that I hit this goal!</p>
 <p><strong>5,000 steps/day</strong></p>
 <p>January and February went well, with an average of 5,000 steps… and then, of course, the rest of the year happened. I didn’t pick this up until October, going for a walk in the evening. Then, when I got the Fitbit, I’ve consistently done that daily.</p>
 <p><strong>Start and sustain a blog</strong></p>
@@ -1242,7 +1211,7 @@ So, I’m happy to see 2020 behind us.</description>
 <p><strong>Playing the ukulele</strong></p>
 <p><a href="https://www.instagram.com/psychhabitat/"   target="_blank" rel="noopener" >My friend Tanisha</a> gifted me one during the circuit breaker period, because I was trying to play my old guitar with steel strings that are really uncomfortable for my fingers. It’s gone well, and I’ve made it a habit to play at least one song every day.</p>
 <p><strong>Waking up earlier</strong></p>
-<p>This was a spur-of-a-moment thing, when I decided I wanted to <a href="https://jalyn.co/on-sleeping-or-i-am-really-bad-at-sleep/"   target="_blank" rel="noopener" >track my sleep</a>. So far, I’ve shifted my wake-up time from 8 AM to between 6:30 AM and 7 AM, which gives me ample time to work out, jog, and read!</p>
+<p>This was a spur-of-a-moment thing, when I decided I wanted to <a href="/sleep"  >track my sleep</a>. So far, I’ve shifted my wake-up time from 8 AM to between 6:30 AM and 7 AM, which gives me ample time to work out, jog, and read!</p>
 <p><strong>Drinking 2.5l of water</strong></p>
 <p>I’ve been terrible with staying hydrated because I have a thing against public washrooms, but now that I’ve been at home for the majority of the year, I have no excuse. I usually front load my water intake to the first half of the day too.</p>
 <h2 id="highlights-from-my-gratitude-journal">Highlights from my gratitude journal</h2>
@@ -1280,7 +1249,7 @@ So, I’m happy to see 2020 behind us.</description>
       <guid>https://jalyn.co/fitbit-charge-4/</guid>
       <description>Two months ago, I talked about my terrible sleep habits, and how using an app on the phone to track my sleep wasn’t the best solution for me at the time.
 Since then, I’ve gotten my FitBit Charge 4, and have been using it for a little over a month. I got the Storm Blue Classic Band — to be more accurate, my friend Siew who placed the order for me got me that variant (I told her to surprise me) — but any of the other choices would have fit my dark and neutral wardrobe anyway.</description>
-      <content:encoded><![CDATA[<p>Two months ago, I talked about <a href="https://jalyn.co/on-sleeping-or-i-am-really-bad-at-sleep/"   target="_blank" rel="noopener" >my terrible sleep habits</a>, and how using an app on the phone to track my sleep wasn’t the best solution for me at the time.</p>
+      <content:encoded><![CDATA[<p>Two months ago, I talked about <a href="/sleep"  >my terrible sleep habits</a>, and how using an app on the phone to track my sleep wasn’t the best solution for me at the time.</p>
 <p>Since then, I’ve gotten my <a href="https://www.fitbit.com/sg/charge4"   target="_blank" rel="noopener" >FitBit Charge 4</a>, and have been using it for a little over a month. I got the Storm Blue Classic Band — to be more accurate, my friend <a href="https://www.siew.online/"   target="_blank" rel="noopener" >Siew</a> who placed the order for me got me that variant (I told her to surprise me) — but any of the other choices would have fit my dark and neutral wardrobe anyway.</p>
 <p>This would be my first smart wearable, besides the one week I tried with a company-owned Apple Watch a few years ago. As far as wearing watches go, I’d consistently worn one until I was 17. Then, as phones got more ubiquitous, I ditched my watch.</p>
 <p>By that count, that was almost half a lifetime ago.</p>
@@ -1317,7 +1286,7 @@ Since then, I’ve gotten my FitBit Charge 4, and have been using it for a littl
       <description>“Noooooo,” I typed dramatically to my chats after taking a screenshot of this storage change from Google. To recap: From June 2021, high quality photos uploaded to Google Photos will count towards the storage limit, instead of the current unlimited uploading.
 I’ve talked a little before my digital clutter in general, and glossed over how my cloud storage is set up. I’ve had Dropbox for years before I let it lapse this year, and was planning on getting a Google One subscription.</description>
       <content:encoded><![CDATA[<p>“Noooooo,” I typed dramatically to my chats after taking a screenshot of this <a href="https://blog.google/products/photos/storage-changes/"   target="_blank" rel="noopener" >storage change from Google</a>. To recap: From June 2021, high quality photos uploaded to Google Photos will count towards the storage limit, instead of the current unlimited uploading.</p>
-<p>I’ve talked a little before <a href="https://jalyn.co/digital-hoarding/"   target="_blank" rel="noopener" >my digital clutter</a> in general, and glossed over how my cloud storage is set up. I’ve had Dropbox for years before I let it lapse this year, and was planning on getting a Google One subscription. That is, until I realized that photo storage was going to be a non-issue with Google Photos, and held off getting a plan.</p>
+<p>I’ve talked a little before <a href="/digital-hoarding"  >my digital clutter</a> in general, and glossed over how my cloud storage is set up. I’ve had Dropbox for years before I let it lapse this year, and was planning on getting a Google One subscription. That is, until I realized that photo storage was going to be a non-issue with Google Photos, and held off getting a plan.</p>
 <p>Until now.</p>
 <p>Honestly, that pause for effect is a little unwarranted — it’s $28/year for me, and a manageable amount for the value it would bring.</p>
 <p>Of my digital assets, photos and videos storage remain the thing that is the most cluttered for me. I don’t take the time to go through each photo and only keep things that matter. Screenshots make up a not-insignificant percentage of my images.</p>
@@ -1385,7 +1354,7 @@ I’ve started tracking my sleep these past few weeks. The results, like all cli
       <description>I love gadgets, and I’ll be the first to admit that I love Apple and its products. I have: an iPhone X; the AirPods with a wireless charging case, and I’m typing this from a MacBook Pro. For a while, I was contemplating buying an iPad, or an Apple Watch.
 I got neither. Instead, as with a lot of things, I took too long to decide and lost interest in getting them.</description>
       <content:encoded><![CDATA[<p>I love gadgets, and I’ll be the first to admit that I love Apple and its products. I have: an iPhone X; the AirPods with a wireless charging case, and I’m typing this from a MacBook Pro. For a while, I was contemplating buying an iPad, or an Apple Watch.</p>
-<p>I got neither. Instead, as with a lot of things, I took too long to decide and lost interest in getting them. <a href="javascript:void%280%29"  >1</a></p>
+<p>I got neither. Instead, as with a lot of things, I took too long to decide and lost interest in getting them.</p>
 <blockquote>
 <p>Fun little side story: In 2006, when I was but an impressionable freshman, I came up with a pitch in 15 minutes for an ‘MacPhone’. This is pre-iPhone, and you can see a speech outline I drafted. Everything about it, from the features to the price point, makes me laugh now.</p>
 </blockquote>
@@ -1398,7 +1367,8 @@ I got neither. Instead, as with a lot of things, I took too long to decide and l
 <li>Are there workarounds to pull the device back from the brink?</li>
 <li>Is there is a feature on the upgrade I absolutely can’t not have?</li>
 </ul>
-<p>In March 2017, when my iPhone 6 fell with me into the water while I was kayaking and died an instant death, I used a loaner Android unit until the iPhone X got released. And even then! I waited a whole month and a half to actually get the device, if my receipt trails are to be believed, since I only got it on December 21 of that same year. <a href="javascript:void%280%29"  >2</a></p>
+<p>In March 2017, when my iPhone 6 fell with me into the water while I was kayaking and died an instant death, I used a loaner Android unit until the iPhone X got released.</p>
+<p>And even then! I waited a whole month and a half to actually get the device, if my receipt trails are to be believed, since I only got it on December 21 of that same year.</p>
 <h2 id="why-im-thinking-of-upgrading">Why I’m thinking of upgrading</h2>
 <p>Recently, my iPhone X has been giving me plenty of usage problems — It goes from 100% to 10% in about 20 minutes when all I’m doing is listening to a podcast, or have the Libby app open. It also overheats, sometimes for no reason at all.</p>
 <p>The most worrying incident happened about two weeks ago, when it died almost instantly as I unplugged it from its cable. When I eventually – harrowingly – got it to switch on again, a service notice tells me that the phone “experienced an unexpected shutdown because the battery was unable to deliver the necessary peak power”.</p>
@@ -1421,6 +1391,38 @@ I got neither. Instead, as with a lot of things, I took too long to decide and l
 <p>Yeah. I guess I’ll hold on for a few more cycles.</p>
 <hr>
 <p>(There’s also a metaphor here, about my own mental battery and my own surge capacity being so messed up. Can someone replace <em>my</em> battery? Anyone?)</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>The Non-Definitive Guide To Starting A New Job</title>
+      <link>https://jalyn.co/new-job/</link>
+      <pubDate>Sat, 08 Feb 2020 20:11:51 +0800</pubDate>
+      
+      <guid>https://jalyn.co/new-job/</guid>
+      <description>I’ve switched jobs — not counting freelance and contract work — twice in my career.
+Three times, now, once I start my new job on Monday. My last day at my previous employee was Friday, so you can say that I love cutting things close.
+Now, clearly this is an occupational hazard, but a UXer’s gotta UX, you know? So I’ve cobbled together some objectives I want to test out for my new job.</description>
+      <content:encoded><![CDATA[<p>I’ve switched jobs — not counting freelance and contract work — twice in my career.</p>
+<p>Three times, now, once I start my new job on Monday. My last day at my previous employee was Friday, so you can say that I love cutting things close.</p>
+<p>Now, clearly this is an occupational hazard, but a UXer’s gotta UX, you know? So I’ve cobbled together some objectives I want to test out for my new job.</p>
+<h2 id="schedule-regular-one-on-one-catch-ups-with-the-manager">Schedule regular one-on-one catch-ups with the manager</h2>
+<p>This should probably be self-explanatory.</p>
+<p>Earlier in my career, I was more than happy to shy away from these, believing that my work would speak for itself.</p>
+<p>Obviously, that’s a naive belief.</p>
+<p>I’ve also had managers who were too busy, and these sessions usually got pushed and postponed and eventually, canceled. I’ll have to figure out what to do if this situation happens again, but fingers crossed it wouldn’t!</p>
+<p><strong>The plan:</strong> Schedule weekly check-ins (at least for the first month), set expectations, and check in often to see if I’m missing the mark.</p>
+<p>We go around recommending the notion of launching fast and failing fast, so why not translate that for my own development?</p>
+<h2 id="get-to-proactively-know-my-new-colleagues">Get to proactively know my new colleagues</h2>
+<p>I’m a textbook introvert, and some days, I’d rather be at my desk, hunkering down on the actual work. Not to the point of being anti-social, but I’m definitely more charming on a one-on-one basis than a group of more than 30 people, staring expectantly at me.</p>
+<p><strong>The plan:</strong> Have lunch/coffee with at least one new person every week, unless I’m away in a project/agile team. And even then! The team will be new to me and vice versa, so it will be helpful for everyone.</p>
+<p>The 2019-nCoV might hinder this plan if things keep escalating. We’ll see, though! I’ll still try my best.</p>
+<p>This leads in nicely to…</p>
+<h2 id="find-mentors">Find mentors</h2>
+<p>One glaring thing that I’ve definitely lacked in my previous jobs was diversifying the mentorship I was getting.</p>
+<p>I haven’t really branched out beyond direct management, even though I’ve always meant to find mentors outside of my team.</p>
+<p><strong>The plan:</strong> Identify at least three mentors within the organization, and see how I can help them with their own goals and metrics.</p>
+<p>So, there’s that to cover for the first quarter. There will be plenty to learn as I try to hit the ground running, but it’ll be a fun adventure nonetheless.</p>
 ]]></content:encoded>
     </item>
     
