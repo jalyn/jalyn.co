@@ -55,7 +55,7 @@ A month ago, I started off waking up at 8 AM, with the alarm window between 7:30
 
 ## And some things I wish could be improved:
 
-**Sleep monitoring could use more stats:** In addition to the sleep alarm, the device and app also come with [sleep monitoring stats](https://jalyn.co/wp-content/uploads/fitbit-sleep.png). I get to see how long I slept, how much time I spent in each category of REM, Light and Deep sleep (with a 30-day average, and a benchmark against women my age), a sleep score (I’m only getting 10% Goods, and Fairs the rest of the time), estimated oxygen variation which is supposed to detect breathing issues, and… that’s it.
+**Sleep monitoring could use more stats:** In addition to the sleep alarm, the device and app also come with sleep monitoring stats. I get to see how long I slept, how much time I spent in each category of REM, Light and Deep sleep (with a 30-day average, and a benchmark against women my age), a sleep score (I’m only getting 10% Goods, and Fairs the rest of the time), estimated oxygen variation which is supposed to detect breathing issues, and… that’s it.
 
 Fitbit Premium is needed to unlock two more stats: my sleeping heart rate, and a restlessness score. I’m not sure that is worth ten bucks a month, to be honest. I’d also like to see other meaningful stats, like time taken to fall asleep.
 
