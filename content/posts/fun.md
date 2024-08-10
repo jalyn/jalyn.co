@@ -30,7 +30,7 @@ Wise words from my 5-year old nephew about his ideal day made me crack up, but a
 
 —
 
-Last year, I ruminated a little on [having fun](https://jalyn.co/how-to-have-fun/), with the full intention of trying out a year of fun. Then, in typical me fashion, this all got pushed to the wayside because of work, and also because of the bigger health concerns I discovered during that same time.
+Last year, I [ruminated a little on having fun](/how-to-fun), with the full intention of trying out a year of fun. Then, in typical me fashion, this all got pushed to the wayside because of work, and also because of the bigger health concerns I discovered during that same time.
 
 But it’s really plain to see: I have grown really, really bad at producing serotonin. If I’m not doing work, I’m thinking about work or work-adjacent things, like mentoring and productivity and optimizing. If something I’m doing doesn’t build towards learning, I feel guilty.
 

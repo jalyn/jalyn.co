@@ -52,6 +52,40 @@ I write: in Notion, in chat messages, in emails, in documentations that I am sur
     </item>
     
     <item>
+      <title>Argh, Apple (and how to get unstuck on the iOS update during setup)</title>
+      <link>http://localhost:1313/ios-unstuck/</link>
+      <pubDate>Sat, 15 Jun 2024 19:18:16 +0800</pubDate>
+      
+      <guid>http://localhost:1313/ios-unstuck/</guid>
+      <description>My dad’s phone was an iPhone 11 that he’s had for several years now, and one day, with no warning, it stopped charging.
+My stop-gap solution was to hand him my wireless charger, which worked for a bit technically, but wasn’t suited for his work flow.
+That’s okay; it was nearly Father’s Day so my sister and I got the iPhone SE for him.
+After a week or so of waiting (which was about 6 days longer than I had anticipated; something to unpack here about my apparent high standards for delivery timelines), it arrived.</description>
+      <content:encoded><![CDATA[<p>My dad’s phone was an iPhone 11 that he’s had for several years now, and one day, with no warning, it stopped charging.</p>
+<p>My stop-gap solution was to hand him my wireless charger, which worked for a bit technically, but wasn’t suited for his work flow.</p>
+<p>That’s okay; it was nearly Father’s Day so my sister and I got the iPhone SE for him.</p>
+<p>After a week or so of waiting (which was about 6 days longer than I had anticipated; something to unpack here about my apparent high standards for delivery timelines), it arrived.</p>
+<h2 id="the-ordeal">The ordeal</h2>
+<p>I thought it would be simple with the data transfer — he doesn’t have too many apps or personal data on his phone, and I only needed to preserve the connection to his work VPN, and chat history on the handful of chat apps he has that aren’t cloud-based.</p>
+<p>(Yeah, looking at you, Whatsapp.)</p>
+<p>I thought it would be simple and that it would only take a few minutes, because that’s how Apple has conditioned us to behave, right?</p>
+<p>Instead, after pairing the phone and hitting ‘next’ on the steps, it got stuck on the iOS download and update screen.</p>
+<p>I thought: this must be a mistake, so I restarted the process, did the pairing again, clicked ‘next’ again.</p>
+<p><em>Sigh.</em></p>
+<p><a href="https://www.google.com/search?q=iphone&#43;new&#43;phone&#43;setup&#43;software&#43;update&#43;2&#43;days&#43;site:discussions.apple.com"   target="_blank" rel="noopener" >A cursory search found this issue starting back from at least 2020</a>; at one point it told me it would take 5 days for it to finish downloading and transferring.</p>
+<h2 id="the-solution">The solution</h2>
+<ol>
+<li>Set up the phone as if it’s a new phone, and do not choose to import your settings and data from your old phone — no worries, you can do the transfer after these steps</li>
+<li>With the brand new phone, navigate to Settings &gt; General &gt; Software Update</li>
+<li>Wait a reasonable 15 – 20 minutes for the iOS update to be downloaded and updated</li>
+<li>Then, reset this phone to its factory settings, by going to Settings &gt; General, and scrolling all the way down to Transfer or Reset iPhone</li>
+<li>Ignore the confusing taxonomy and select the ‘Erase All Content and Settings’ option</li>
+<li>Voilà. <em>Now</em> you can go through the phone data transfer and not run into the 5-day-wait problem</li>
+</ol>
+]]></content:encoded>
+    </item>
+    
+    <item>
       <title>Learning and blundering in chess and life</title>
       <link>http://localhost:1313/blundering/</link>
       <pubDate>Sun, 07 Apr 2024 17:21:47 +0800</pubDate>
@@ -129,7 +163,7 @@ Yet, in the last week, I found myself strapping into boots and skis that made my
       <description>Once again, I’m looking back on the year that’s passed. (See: 2020, 2021, 2022)
 It seems a little tougher this year — and I won’t say whether it’s because I haven’t been consistently and habitually writing on this site — but I’m always happy to reflect and introspect on what has gone well and what I could’ve done better with.
 What went well: Learning and growth: Last year, one of my goals was to try and figure out whether to take my MBA aspiration more seriously.</description>
-      <content:encoded><![CDATA[<p>Once again, I’m looking back on the year that’s passed. (See: <a href="https://jalyn.co/2020-year-in-review/"   target="_blank" rel="noopener" >2020</a>, <a href="https://jalyn.co/2021-year-in-review/"   target="_blank" rel="noopener" >2021</a>, <a href="https://jalyn.co/2022-year-in-review/"   target="_blank" rel="noopener" >2022</a>)</p>
+      <content:encoded><![CDATA[<p>Once again, I’m looking back on the year that’s passed. (See: <a href="2020-year-in-review"  >2020</a>, <a href="2021-year-in-review"  >2021</a>, <a href="2022-year-in-review"  >2022</a>)</p>
 <p>It seems a little tougher this year — and I won’t say whether it’s because I haven’t been consistently and habitually writing on this site — but I’m always happy to reflect and introspect on what has gone well and what I could’ve done better with.</p>
 <h2 id="what-went-well">What went well:</h2>
 <p><strong>Learning and growth:</strong> Last year, one of my goals was to try and figure out whether to take my MBA aspiration more seriously. To that end, one of the hurdles was taking the GMAT. After some on-off studying for half a year, I scored a 645 on the GMAT Focus, which clears that 700 barrier on the classic GMAT.</p>
@@ -175,7 +209,7 @@ Last year, I ruminated a little on having fun, with the full intention of trying
       <content:encoded><![CDATA[<p>“只是玩toy toy而已，不要做东西” (or: I just want to play toys, and not do anything).</p>
 <p>Wise words from my 5-year old nephew about his ideal day made me crack up, but also made me wonder: When did I stop having fun?</p>
 <p>—</p>
-<p>Last year, I ruminated a little on <a href="https://jalyn.co/how-to-have-fun/"   target="_blank" rel="noopener" >having fun</a>, with the full intention of trying out a year of fun. Then, in typical me fashion, this all got pushed to the wayside because of work, and also because of the bigger health concerns I discovered during that same time.</p>
+<p>Last year, I <a href="/content/posts/how-to-fun.md"  >ruminated a little on having fun</a>, with the full intention of trying out a year of fun. Then, in typical me fashion, this all got pushed to the wayside because of work, and also because of the bigger health concerns I discovered during that same time.</p>
 <p>But it’s really plain to see: I have grown really, really bad at producing serotonin. If I’m not doing work, I’m thinking about work or work-adjacent things, like mentoring and productivity and optimizing. If something I’m doing doesn’t build towards learning, I feel guilty.</p>
 <p>Here’s a laundry list of things that I do already do that I think are fun, and also ways I have made them… just a little bit stressful:</p>
 <table>
@@ -226,18 +260,18 @@ Last year, I ruminated a little on having fun, with the full intention of trying
       <guid>http://localhost:1313/2022-year-in-review/</guid>
       <description>It’s become a habit now; a yearly one, to look back on the year that has passed and reflect on what has gone well and what could’ve gone better (see: 2021, 2020). My writing is rusty now, with my non-rigour and letting my habit die off this year.
 2022 has been a mixed bag of blessings and regrets, and of going on auto-pilot and letting things fall on the wayside.</description>
-      <content:encoded><![CDATA[<p>It’s become a habit now; a yearly one, to look back on the year that has passed and reflect on what has gone well and what could’ve gone better (see: <a href="https://jalyn.co/2021-year-in-review/"   target="_blank" rel="noopener" >2021</a>, <a href="https://jalyn.co/2020-year-in-review/"   target="_blank" rel="noopener" >2020</a>). My writing is rusty now, with my non-rigour and letting my habit die off this year.</p>
+      <content:encoded><![CDATA[<p>It’s become a habit now; a yearly one, to look back on the year that has passed and reflect on what has gone well and what could’ve gone better (see: <a href="2021-year-in-review"  >2021</a>, <a href="2020-year-in-review"  >2020</a>). My writing is rusty now, with my non-rigour and letting my habit die off this year.</p>
 <p>2022 has been a mixed bag of blessings and regrets, and of going on auto-pilot and letting things fall on the wayside.</p>
 <h2 id="what-went-well">What went well:</h2>
 <p><strong>Fitness:</strong> This is separate from health, for reasons we’ll go into in the <em>what could’ve gone better</em> section</p>
-<p>This year, I got a gym membership in March, and then in July, a personal trainer. I ended up with 75 sessions in total, which comes up to around a session every 3.8 days. My main drive for going to the gym is to get stronger — something that is a little hard to do as I can’t consistently overload because of my <a href="https://jalyn.co/spondy/"   target="_blank" rel="noopener" >Back Situation™</a>.</p>
+<p>This year, I got a gym membership in March, and then in July, a personal trainer. I ended up with 75 sessions in total, which comes up to around a session every 3.8 days. My main drive for going to the gym is to get stronger — something that is a little hard to do as I can’t consistently overload because of my <a href="spondy"  >Back Situation™</a>.</p>
 <p>I hit several PRs in the last two sessions of the year — made possible only because I ate at maintenance for these last two weeks; I’m in a deficit otherwise. PRs make me feel like I’m unlocking achievements, but I know it’s a really unpredictable road that I’m on, and I’m still learning how to accept my limitations.</p>
 <p>My weakest exercises definitely have to do with my back and core, which are… important, you know, to the general anatomy.</p>
 <p>But also: I meal prepped for the majority of the year, and was a little more consistent with my meal timings! I’ll take that as a W.</p>
-<p><strong>Finance</strong>: My savings rate dropped to 63% this year, from my target of 70%. Yet — I’m at peace with it, since I’m <a href="https://jalyn.co/on-spending-money-and-being-frugal/"   target="_blank" rel="noopener" >trading money for my health and fitness</a>. The hugest chunk of money went to aforementioned personal training sessions, as well as physiotherapy sessions which was an unexpected expense, and insurance only covered a minuscule part of it.</p>
+<p><strong>Finance</strong>: My savings rate dropped to 63% this year, from my target of 70%. Yet — I’m at peace with it, since I’m <a href="frugal"  >trading money for my health and fitness</a>. The hugest chunk of money went to aforementioned personal training sessions, as well as physiotherapy sessions which was an unexpected expense, and insurance only covered a minuscule part of it.</p>
 <p>I also finally upgraded my iPhone X to a 14 Pro! Other than that, I didn’t travel this year at all, and kept to my yearly budget in all other categories.</p>
 <p><strong>Relationships and connections</strong>: I got much closer to a few work-buddies-elevated-to-friends, and I’m glad to have forged these friendships as I surround myself with people who inspire me and push me to be better.</p>
-<p><strong>Hair</strong>: <a href="https://jalyn.co/hold-on-os-is-updating/"   target="_blank" rel="noopener" >I got it cut!</a></p>
+<p><strong>Hair</strong>: <a href="https://www.instagram.com/p/CZ_9fkCvOUx/"   target="_blank" rel="noopener" >I got it cut!</a></p>
 <h2 id="what-couldve-gone-better">What could’ve gone better:</h2>
 <p>Probably everything else.</p>
 <p><strong>Health</strong>: I have had back problems for a few years now, and in April I decided that I wanted to get a referral letter from my general practitioner so that I could go to a physio and go on my merry ways, with a few easy exercises that would fix it once and for all.</p>
@@ -511,7 +545,7 @@ Why I attended this More than just for personal growth though, I definitely want
 <li>#IAmRemarkable, because I always want to do better and <em>be</em> better</li>
 <li>#IAmRemarkable, because I am resilient through life changes and revelations</li>
 <li>#IAmRemarkable, because I pay attention to the small details</li>
-<li>#IAmRemarkable, because I try to live through my <a href="https://jalyn.co/how-i-live-an-authentic-life/"   target="_blank" rel="noopener" >core values</a> and using them to guide my decisions</li>
+<li>#IAmRemarkable, because I try to live through my <a href="/content/posts/authentic-life.md"  >core values</a> and using them to guide my decisions</li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -529,7 +563,7 @@ Why I attended this More than just for personal growth though, I definitely want
 <h2 id="what-went-well">What went well:</h2>
 <ul>
 <li><strong>Money:</strong> Before the laptop fiasco, I was locking in an 70% savings rate. This is going to be my third full year of pursuing FIRE (or at least the FI part of things), and I’m well on track, so that makes me happy. With the repair costs hastily calculated in, I’m down a couple of percents, but all in all it’s still below my budgeted expenses of the year.</li>
-<li><strong>Work</strong>: I had so much to talk about during my impact discussion, which was further bolstered by my colleagues’ really kind feedback and words for my improvement. There was also the matter of getting into the Next Generation Leadership Team (<a href="https://www.instagram.com/p/CXi6VawgxuO/"   target="_blank" rel="noopener" >second slide in this post!</a>) when <a href="https://jalyn.co/on-nerves-and-time/"   target="_blank" rel="noopener" >I didn’t think I would</a>.</li>
+<li><strong>Work</strong>: I had so much to talk about during my impact discussion, which was further bolstered by my colleagues’ really kind feedback and words for my improvement. There was also the matter of getting into the Next Generation Leadership Team (<a href="https://www.instagram.com/p/CXi6VawgxuO/"   target="_blank" rel="noopener" >second slide in this post!</a>) when I didn’t think I would.</li>
 <li><strong>Writing:</strong> This is threefold — I wrote a post here every week for a year (minus the weird month last month that I paused), wrote 2 journal entries every day (one for a more regular recap, and another with Day One’s daily prompts), and also wrote a few pieces of fic which I’m proud of, because I’d never done that for my ride-or-die fandom despite being in it for nearly a decade now.</li>
 </ul>
 <h2 id="what-couldve-gone-better">What could’ve gone better:</h2>
@@ -542,14 +576,14 @@ Why I attended this More than just for personal growth though, I definitely want
 </ul>
 </li>
 <li><strong>Reading</strong>: <a href="https://www.goodreads.com/user_challenges/24940419"   target="_blank" rel="noopener" >I did it.</a> I did 60 books. I’m not proud of it, because I speed-read the fuck out of those last 15 books and let’s just say I do <em>not</em> want to do it again, so this year? This year I’m going to slow down, and read just “enough”.</li>
-<li><strong>Skills:</strong> <a href="https://jalyn.co/learning-and-new-skills/"   target="_blank" rel="noopener" >Did not learn a new language. Or calligraphy.</a> Picked up a couple of Thai swear words though, does that count?</li>
+<li><strong>Skills:</strong> Did not learn a new language. Or calligraphy. Picked up a couple of Thai swear words though, does that count?</li>
 <li><strong>Mentality</strong>: I heard it over and over again from my colleagues and friends — stop being so hard on yourself.</li>
 <li><strong>Money:</strong> Even though I’d talked about all the good stuff with money in the previous section, one thing did make me feel slightly embarrassed: in-app purchases for chips in my poker games. It’s illegal in Singapore to gamble online, so I was just frivolously spending real money in exchange for fake money.Luckily (and this is a huge luckily), the support team accidentally unlinked my account and I can’t access that anymore, which made my refund requests to Apple legitimate when I did it after 2 weeks of no response from said support team.</li>
 </ul>
 <h2 id="other-stuff">Other stuff:</h2>
 <ul>
 <li>I met some pretty cool people this year, and I’m thankful to have crossed paths with them and looking forward to forging even tighter friendships going forward!</li>
-<li>2021’s major learning-in-a-structured-manner was the <a href="https://jalyn.co/on-learning-and-learning-harder-better-faster-stronger/"   target="_blank" rel="noopener" >d.MBA</a>, and I’m itching to apply that knowledge to actual work.</li>
+<li>2021’s major learning-in-a-structured-manner was the <a href="/learning-harder"  >d.MBA</a>, and I’m itching to apply that knowledge to actual work.</li>
 <li>2021 was also my second year of meditating every morning</li>
 <li>Got extremely into poker near the end of October — thanks to Maria Konnikova’s <a href="https://www.goodreads.com/book/show/49814228-the-biggest-bluff"   target="_blank" rel="noopener" ><em>The Biggest Bluff</em></a> — and while I’ve just been playing it online (with fake stakes), I think I might consider taking a vacation somewhere and playing some super low stakes games in person.</li>
 <li>Getting to be <a href="https://adplist.org/mentors/jalyn-cai"   target="_blank" rel="noopener" >a mentor on ADPList</a> had been really fulfilling, though really time-consuming! Alas, I think I’m no longer getting any traffic from the actual directory, and haven’t been getting any new bookings since… I wanna say November? So there’s that.</li>
@@ -578,7 +612,7 @@ I’ve touched on this topic before, while talking about stoicism and what we ca
 Things happen, and the only thing we can control is how we respond to them.</description>
       <content:encoded><![CDATA[<p>My mentor asked me a simple question when I was catching up with her: What’s in your control, and what’s not?</p>
 <p>—</p>
-<p>I’ve touched on this topic before, while talking about <a href="https://jalyn.co/stoicism-and-what-we-can-control/"   target="_blank" rel="noopener" >stoicism and what we can control</a>. That was February of this year, which seems both like a short time and a lifetime ago. I had a pretty pithy line to summarize then:</p>
+<p>I’ve touched on this topic before, while talking about <a href="/control"  >stoicism and what we can control</a>. That was February of this year, which seems both like a short time and a lifetime ago. I had a pretty pithy line to summarize then:</p>
 <blockquote>
 <p>Things happen, and the only thing we can control is how we respond to them.</p>
 </blockquote>
@@ -598,7 +632,7 @@ Things happen, and the only thing we can control is how we respond to them.</des
 <li>How much action I take, or do not take</li>
 <li>The mindfulness I take towards my actions</li>
 </ul>
-<p>I vaguely alluded to <a href="/content/posts/nerves.md"  >a big shocking announcement at work last week</a>; cue me googling ‘what to do when manager is laid off’ — <a href="/content/posts/work-ethics.md"  >the same manager that was understanding of my morals at work</a> — and still trying to process it, about a week and a half after.</p>
+<p>I vaguely alluded to a big shocking announcement at work last week; cue me googling ‘what to do when manager is laid off’ — <a href="work-ethics"  >the same manager that was understanding of my morals at work</a> — and still trying to process it, about a week and a half after.</p>
 <p>I’m still trying to figure out what it means for me (my own job security, my next step forward, building my promotion case) but it’s definitely given me a lot to think about, when I’m not being busy with actual work and calls, and dealing with bad timing (on my part) to try and get a CSR initiative off the ground.</p>
 <p>I’m still on that adjusted working week — from Sunday to Thursday — for at least two more weeks, and I don’t think I’m ever going to get used to that, as long as the rest of my team is on Monday to Friday.</p>
 ]]></content:encoded>
@@ -1129,40 +1163,6 @@ So, this is a problem.</description>
     </item>
     
     <item>
-      <title>Argh, Apple (and how to get unstuck on the iOS update during setup)</title>
-      <link>http://localhost:1313/ios-unstuck/</link>
-      <pubDate>Thu, 07 Jan 2021 19:18:16 +0800</pubDate>
-      
-      <guid>http://localhost:1313/ios-unstuck/</guid>
-      <description>My dad’s phone was an iPhone 11 that he’s had for several years now, and one day, with no warning, it stopped charging.
-My stop-gap solution was to hand him my wireless charger, which worked for a bit technically, but wasn’t suited for his work flow.
-That’s okay; it was nearly Father’s Day so my sister and I got the iPhone SE for him.
-After a week or so of waiting (which was about 6 days longer than I had anticipated; something to unpack here about my apparent high standards for delivery timelines), it arrived.</description>
-      <content:encoded><![CDATA[<p>My dad’s phone was an iPhone 11 that he’s had for several years now, and one day, with no warning, it stopped charging.</p>
-<p>My stop-gap solution was to hand him my wireless charger, which worked for a bit technically, but wasn’t suited for his work flow.</p>
-<p>That’s okay; it was nearly Father’s Day so my sister and I got the iPhone SE for him.</p>
-<p>After a week or so of waiting (which was about 6 days longer than I had anticipated; something to unpack here about my apparent high standards for delivery timelines), it arrived.</p>
-<h2 id="the-ordeal">The ordeal</h2>
-<p>I thought it would be simple with the data transfer — he doesn’t have too many apps or personal data on his phone, and I only needed to preserve the connection to his work VPN, and chat history on the handful of chat apps he has that aren’t cloud-based.</p>
-<p>(Yeah, looking at you, Whatsapp.)</p>
-<p>I thought it would be simple and that it would only take a few minutes, because that’s how Apple has conditioned us to behave, right?</p>
-<p>Instead, after pairing the phone and hitting ‘next’ on the steps, it got stuck on the iOS download and update screen.</p>
-<p>I thought: this must be a mistake, so I restarted the process, did the pairing again, clicked ‘next’ again.</p>
-<p><em>Sigh.</em></p>
-<p><a href="https://www.google.com/search?q=iphone&#43;new&#43;phone&#43;setup&#43;software&#43;update&#43;2&#43;days&#43;site:discussions.apple.com"   target="_blank" rel="noopener" >A cursory search found this issue starting back from at least 2020</a>; at one point it told me it would take 5 days for it to finish downloading and transferring.</p>
-<h2 id="the-solution">The solution</h2>
-<ol>
-<li>Set up the phone as if it’s a new phone, and do not choose to import your settings and data from your old phone — no worries, you can do the transfer after these steps</li>
-<li>With the brand new phone, navigate to Settings &gt; General &gt; Software Update</li>
-<li>Wait a reasonable 15 – 20 minutes for the iOS update to be downloaded and updated</li>
-<li>Then, reset this phone to its factory settings, by going to Settings &gt; General, and scrolling all the way down to Transfer or Reset iPhone</li>
-<li>Ignore the confusing taxonomy and select the ‘Erase All Content and Settings’ option</li>
-<li>Voilà. <em>Now</em> you can go through the phone data transfer and not run into the 5-day-wait problem</li>
-</ol>
-]]></content:encoded>
-    </item>
-    
-    <item>
       <title>2020: Year in Review</title>
       <link>http://localhost:1313/2020-year-in-review/</link>
       <pubDate>Thu, 31 Dec 2020 19:21:16 +0800</pubDate>
@@ -1277,7 +1277,7 @@ Since then, I’ve gotten my FitBit Charge 4, and have been using it for a littl
     </item>
     
     <item>
-      <title>huh</title>
+      <title>On Photo Storage &amp; Google&#39;s Take-Backsies</title>
       <link>http://localhost:1313/photo-storage/</link>
       <pubDate>Sun, 22 Nov 2020 19:24:50 +0800</pubDate>
       
@@ -1302,6 +1302,178 @@ I’ve talked a little before my digital clutter in general, and glossed over ho
 </li>
 </ul>
 <p>Now, off I go to delete some photos.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Sleep, or how I&#39;m pretty bad at it</title>
+      <link>http://localhost:1313/sleep/</link>
+      <pubDate>Thu, 29 Oct 2020 16:10:09 +0800</pubDate>
+      
+      <guid>http://localhost:1313/sleep/</guid>
+      <description>My nephews do this thing where they resist sleep for at least half an hour each time they’re laid down in their beds. It’s a whole production of denying, bargaining, and finally acceptance.
+It turns out I’m not that different with these two-and-a-half-year-olds.
+I’ve started tracking my sleep these past few weeks. The results, like all click-bait titles promise, are unbelievable, astonishing… which is to say, completely not at all.</description>
+      <content:encoded><![CDATA[<p>My nephews do this thing where they resist sleep for at least half an hour each time they’re laid down in their beds. It’s a whole production of denying, bargaining, and finally acceptance.</p>
+<p>It turns out I’m not that different with these two-and-a-half-year-olds.</p>
+<p>I’ve started tracking my sleep these past few weeks. The results, like all click-bait titles promise, are unbelievable, astonishing… which is to say, completely not at all.</p>
+<h2 id="how-my-night-routine-has-been-pretty-much-my-whole-life">How my night routine has been, pretty much my whole life</h2>
+<ul>
+<li>Late dinners, because of my habit of having late lunches (anytime before 2:30 PM is early for me)</li>
+<li>Coffees and cokes all through the day, baby!</li>
+<li>Screens (laptop), screens (phone), screens (both) all the way before bed</li>
+<li>“Just one more thing” before I switch the lights off</li>
+<li>Inconsistent sleeping hours; 12:30 AM is pretty early, kinda</li>
+<li>Lying stomach-down on my bed with my laptop in front of me, and falling asleep with the lights still on before startling myself awake sometime in the middle of the night, around 3 AM</li>
+<li>Using my phone in bed after lights out, on the occasions when I <em>do</em> switch the lights off</li>
+<li>Using my phone as an alarm, and hitting that snooze button but totally engineering it by setting an alarm that is earlier than I mean to wake up</li>
+<li>I’m fortunate that even while doing all of these things like a real asshole, my body clock is still functional and I usually wake up around the same time, and sometimes before the alarm</li>
+<li>…And then I hit the snooze button for just a few more minutes.</li>
+</ul>
+<p>There are some things that are unavoidable, like looking at screens before bed. It’s 9:57 PM and I’m drafting this out on my phone right now (my external monitor fizzled out earlier this week – moment of silence please).</p>
+<p>I’m still not sure how to fit in all the things I want to accomplish within the hours of the day after work has taken up a whole chunk of it (read, write, watch stuff, play the ukulele, walk… the list goes on), and still be able to get to bed at a decent time.</p>
+<p>Still, there’s at least some correlation that good sleep quality will perpetuate the healthy parts of our lives (even though this <a href="https://guzey.com/books/why-we-sleep/"   target="_blank" rel="noopener" >debunking and ongoing drama of Why We Sleep</a> cracked me up), which is why I’ve been trying to make my sleep environment and circumstances better.</p>
+<h2 id="changes-ive-been-making">Changes I’ve been making</h2>
+<p>What gets measured gets managed, and in hindsight, I’m actually surprised at myself that I wasn’t already tracking my sleep, given that I track every other aspect of my life.</p>
+<p>For now, I’m using SleepScore and have been for the past three weeks, but there are a couple of issues. One of them is that I have to keep it by my bedside, which definitely keeps me in the habit of scrolling forever before I decide to drift off too.</p>
+<p>The other bigger issue is its inaccuracy on some nights, where there will be long periods of no detection. This skews the tracking and obviously defeats the point. So, to that end, I have bought a FitBit Charge that should be getting to me soon!</p>
+<p>Outside of that, I have also been trying to sleep before midnight. It’s a weird thing, because I feel like I’m losing precious time going to sleep at an earlier hour, even though I know that the effects of sleeping early will compound in ways that trying to keep myself awake would.</p>
+<p>Especially when I’m trying to keep awake trying to read one last thing, or watch one last thing, or continue conversations.</p>
+<p>Exactly like my two-and-a-half-years-old nephews.</p>
+<p>(Check back on this experiment in a bit; I’ll probably write an update to track my progress!)</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>When is it time to upgrade a device?</title>
+      <link>http://localhost:1313/upgrade/</link>
+      <pubDate>Tue, 20 Oct 2020 16:11:11 +0800</pubDate>
+      
+      <guid>http://localhost:1313/upgrade/</guid>
+      <description>I love gadgets, and I’ll be the first to admit that I love Apple and its products. I have: an iPhone X; the AirPods with a wireless charging case, and I’m typing this from a MacBook Pro. For a while, I was contemplating buying an iPad, or an Apple Watch.
+I got neither. Instead, as with a lot of things, I took too long to decide and lost interest in getting them.</description>
+      <content:encoded><![CDATA[<p>I love gadgets, and I’ll be the first to admit that I love Apple and its products. I have: an iPhone X; the AirPods with a wireless charging case, and I’m typing this from a MacBook Pro. For a while, I was contemplating buying an iPad, or an Apple Watch.</p>
+<p>I got neither. Instead, as with a lot of things, I took too long to decide and lost interest in getting them. <a href="javascript:void%280%29"  >1</a></p>
+<blockquote>
+<p>Fun little side story: In 2006, when I was but an impressionable freshman, I came up with a pitch in 15 minutes for an ‘MacPhone’. This is pre-iPhone, and you can see a speech outline I drafted. Everything about it, from the features to the price point, makes me laugh now.</p>
+</blockquote>
+<p>More than being an Apple fan, though, I also generally love technology and the gadgets it demands. Considering that my day job almost entirely relies on my skills and expertise in designing apps and experiences on these devices, keeping up ahead of the curve is almost mandatory.</p>
+<h2 id="the-upgrading-dilemma">The upgrading dilemma</h2>
+<p>Then there is the minimalist and fiscally-conscious part of me.</p>
+<p>To that end, I have a framework for when I upgrade my devices:</p>
+<ul>
+<li>Is the device is on the verge of death?</li>
+<li>Are there workarounds to pull the device back from the brink?</li>
+<li>Is there is a feature on the upgrade I absolutely can’t not have?</li>
+</ul>
+<p>In March 2017, when my iPhone 6 fell with me into the water while I was kayaking and died an instant death, I used a loaner Android unit until the iPhone X got released. And even then! I waited a whole month and a half to actually get the device, if my receipt trails are to be believed, since I only got it on December 21 of that same year. <a href="javascript:void%280%29"  >2</a></p>
+<h2 id="why-im-thinking-of-upgrading">Why I’m thinking of upgrading</h2>
+<p>Recently, my iPhone X has been giving me plenty of usage problems — It goes from 100% to 10% in about 20 minutes when all I’m doing is listening to a podcast, or have the Libby app open. It also overheats, sometimes for no reason at all.</p>
+<p>The most worrying incident happened about two weeks ago, when it died almost instantly as I unplugged it from its cable. When I eventually – harrowingly – got it to switch on again, a service notice tells me that the phone “experienced an unexpected shutdown because the battery was unable to deliver the necessary peak power”.</p>
+<p>I’m not sure what it meant technically, but it also assured me it would not happen again.</p>
+<p>So, my interest was piqued when Apple announced the new lineup of the phones.</p>
+<blockquote>
+<p>Another story! When the iPhone 8 and iPhone X was released, I was part of the team at work who had to be in the office at 3 in the morning to receive the specs and images from Apple, when we then updated our page – typically the page with the most traffic all year round. Fun times.</p>
+</blockquote>
+<p>But here’s the brief rundown: My initial reaction was one of overwhelm, at the similar sounding model names.</p>
+<p>Then I’m just underwhelmed.</p>
+<h2 id="and-thats-why-im-not-upgrading">And… that’s why I’m not upgrading</h2>
+<p>To make things easier for myself, let’s go back to my framework of upgrading my device.</p>
+<p><strong>Is the device is on the verge of death?</strong></p>
+<p>Yes, very much so. I can’t keep relying on my external power bank, especially if I’m just going out for a quick grocery run or an actual walk, so this is mission critical for me.</p>
+<p><strong>Are there workarounds to pull the device back from the brink?</strong></p>
+<p>Two, actually: I can get a new battery replacement for $99, or I can get a smart battery case for $199. Compared to $1,299 for the base iPhone 12 model, those seem like a steal.</p>
+<p><strong>Is there is a feature on the upgrade I absolutely can’t not have?</strong></p>
+<p>Some of the biggest updates on the new iPhones are a little exciting, I won’t pretend they aren’t — Higher quality photos and videos are always appreciated; I like the sound of 5G speeds, but I’m hooked up to my wifi anyway while working from home; and more efficient charging so I can find new ways to fuck up my new battery, probably. (I kid.)</p>
+<p>At the end of the day, though, my iPhone X still serves all my needs. I’m content with the speed that I can use my apps to read, listen to music and podcasts, and play my games. I’m still largely a content consumer than a content creator, much less one who needs the latest and greatest photo and video taking abilities — and even then, I would assume I’ll need more specific tools for those at a more advanced stage, and that the iPhone X still has the capacity for that at my basic entry level!</p>
+<p>Yeah. I guess I’ll hold on for a few more cycles.</p>
+<hr>
+<p>(There’s also a metaphor here, about my own mental battery and my own surge capacity being so messed up. Can someone replace <em>my</em> battery? Anyone?)</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>The Non-Definitive Guide To Starting A New Job</title>
+      <link>http://localhost:1313/new-job/</link>
+      <pubDate>Sat, 08 Feb 2020 20:11:51 +0800</pubDate>
+      
+      <guid>http://localhost:1313/new-job/</guid>
+      <description>I’ve switched jobs — not counting freelance and contract work — twice in my career.
+Three times, now, once I start my new job on Monday. My last day at my previous employee was Friday, so you can say that I love cutting things close.
+Now, clearly this is an occupational hazard, but a UXer’s gotta UX, you know? So I’ve cobbled together some objectives I want to test out for my new job.</description>
+      <content:encoded><![CDATA[<p>I’ve switched jobs — not counting freelance and contract work — twice in my career.</p>
+<p>Three times, now, once I start my new job on Monday. My last day at my previous employee was Friday, so you can say that I love cutting things close.</p>
+<p>Now, clearly this is an occupational hazard, but a UXer’s gotta UX, you know? So I’ve cobbled together some objectives I want to test out for my new job.</p>
+<h2 id="schedule-regular-one-on-one-catch-ups-with-the-manager">Schedule regular one-on-one catch-ups with the manager</h2>
+<p>This should probably be self-explanatory.</p>
+<p>Earlier in my career, I was more than happy to shy away from these, believing that my work would speak for itself.</p>
+<p>Obviously, that’s a naive belief.</p>
+<p>I’ve also had managers who were too busy, and these sessions usually got pushed and postponed and eventually, canceled. I’ll have to figure out what to do if this situation happens again, but fingers crossed it wouldn’t!</p>
+<p><strong>The plan:</strong> Schedule weekly check-ins (at least for the first month), set expectations, and check in often to see if I’m missing the mark.</p>
+<p>We go around recommending the notion of launching fast and failing fast, so why not translate that for my own development?</p>
+<h2 id="get-to-proactively-know-my-new-colleagues">Get to proactively know my new colleagues</h2>
+<p>I’m a textbook introvert, and some days, I’d rather be at my desk, hunkering down on the actual work. Not to the point of being anti-social, but I’m definitely more charming on a one-on-one basis than a group of more than 30 people, staring expectantly at me.</p>
+<p><strong>The plan:</strong> Have lunch/coffee with at least one new person every week, unless I’m away in a project/agile team. And even then! The team will be new to me and vice versa, so it will be helpful for everyone.</p>
+<p>The 2019-nCoV might hinder this plan if things keep escalating. We’ll see, though! I’ll still try my best.</p>
+<p>This leads in nicely to…</p>
+<h2 id="find-mentors">Find mentors</h2>
+<p>One glaring thing that I’ve definitely lacked in my previous jobs was diversifying the mentorship I was getting.</p>
+<p>I haven’t really branched out beyond direct management, even though I’ve always meant to find mentors outside of my team.</p>
+<p><strong>The plan:</strong> Identify at least three mentors within the organization, and see how I can help them with their own goals and metrics.</p>
+<p>So, there’s that to cover for the first quarter. There will be plenty to learn as I try to hit the ground running, but it’ll be a fun adventure nonetheless.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>On digital clutter and hoarding</title>
+      <link>http://localhost:1313/hoarding/</link>
+      <pubDate>Sat, 11 Jan 2020 20:12:36 +0800</pubDate>
+      
+      <guid>http://localhost:1313/hoarding/</guid>
+      <description>I once told a friend that I would love to just own 50 items. Because, of course, my self-worth is tied up in the number of things I possess. I kid, but it’s true that I don’t have a lot of things.
+What I do have, though, is digital clutter.
+Oh, so many photos and videos and documents accumulated over the last 13 years as a Mac user. These are files that are dutifully backed up both over the cloud (Dropbox, for now) and on a hard drive (although it tells me it has been 183 days since I’ve last hooked that up ); these are configurations that have been Migration Assisted through the machines that have gone through the years with me.</description>
+      <content:encoded><![CDATA[<p>I once told a friend that I would love to just own 50 items. Because, of course, my self-worth is tied up in the number of things I possess. I kid, but it’s true that I don’t have a lot of things.</p>
+<p>What I do have, though, is digital clutter.</p>
+<p>Oh, so many photos and videos and documents accumulated over the last 13 years as a Mac user. These are files that are dutifully backed up both over the cloud (Dropbox, for now) and on a hard drive (although it tells me it has been 183 days since I’ve last hooked that up ); these are configurations that have been Migration Assisted through the machines that have gone through the years with me.</p>
+<p>I run a tighter ship on my email: There’s one email in my inbox, and that’s for a gift card that I haven’t yet used. Except, click on ‘All Mail’ and you’ll see that’s one email out of 18,391.</p>
+<p>Switch to the Photos app, and you can see where things get a little out of control, with multiple shots of the same things.</p>
+<p>Am I a digital hoarder? I wondered aloud, looking at screenshots from the year 2009, still neatly sitting in a folder.</p>
+<p>Hoarding, of course, is a behavioral pattern that manifests in the unwillingness to discard objects, and the ensuing distress if someone is made to do so. It needs no introduction; we’ve all seen clips of <em>Hoarders</em> and Marie Kondo trying her best to help the people featured on her show.</p>
+<p>My older sister is ruthless in throwing things away, while I have the tendency to be too sentimental. My mom, on the other hand, keeps CDs and books and magazines from the ’90s and ’00s, and my father, keeps annual reports from decades ago, “just in case”.</p>
+<p>Yet, judging from our shared Google Photos folder of <a href="https://www.instagram.com/jie.ce"   target="_blank" rel="noopener" >my nephews</a>, my sister has plenty of photos and videos of the two little munchkins. In a complete turn of events, I have helped my mom deleted every single text she has ever received on her phone. My dad also has terrible luck with devices, and has had to completely reinstall iOS at least twice, without backups.</p>
+<p>So, it would seem that they are both fine with not having backups of their digital assets, or even having any at all.</p>
+<p>Honestly? Much to think about and reflect on why I think I would have a mini anxiety attack if the content on my phone and all my backups were lost.</p>
+<h3 id="i-pictures--videos">i. Pictures &amp; videos</h3>
+<p>In 2017, I fell in the river kayaking, taking my iPhone 6 down with me. For 9 months, I used a loaned Android, with a camera that was bad, even by 2017 standards. Case in point: <a href="https://jalyn.co/wp-content/uploads/so-pale-i-should-be-translucent-scaled-e1578733184710.jpg"   target="_blank" rel="noopener" >Here is a photo of me, taken on that phone, post-kayaking.</a> (I know, I know.)</p>
+<p>With the quality of photos and videos, paired with an abundance of storage space on your device, it can be easy to forget about just how many photos we’ve accumulated over the years.</p>
+<p>By the time I had deleted pictures that were no longer relevant – this included screenshots, random shots of dogs being walked on the street, and merchandise with pandas on them — I had 8 pictures left. To compare, I ended 2016 with 75 pictures.</p>
+<p>Does that mean I had a less exciting year in 2017 than 2016? I had chicken pox in 2016 and I fell into a river in 2017, so I think you can say that they were both on par.</p>
+<p>Still, the top reason I can even put time stamps on the two incidents is because of the photos I had taken, perfectly archived in a handy app on the phone. But photos aren’t memories, as much as they are a great way to create a digital time capsule; I’m trying to be mindful of that these days.</p>
+<h3 id="ii-emails">ii. Emails</h3>
+<p>I remember when Gmail launched, with so many people thinking it was an April Fool’s joke because of the 1 GB mailbox limit. Back in the day (I’m old enough to use that as a phrase, apparently), my trusted Hotmail limit was a whooping 2 MB limit. A quick check on Google (irony!) also leads me to <a href="http://www.dslreports.com/shownews/Yahoo-Raises-Mailbox-Limits-45865"   target="_blank" rel="noopener" >this article, where Yahoo! boasted a 100 MB inbox</a>.</p>
+<p>I’ve been using Unroll.Me since 2017; the service quietly and (mostly) efficiently filtering out all the sales pitches and newsletters and general emailers into a folder where I don’t get notified of their regal presence. Since starting on the journey to digital minimalism, I’ve been trying to mass delete emails (thank you, Gmail’s filtering mechanism) and unsubscribe from as many things as I can.</p>
+<p>This is definitely a work in progress, though! I’ve managed to cut the 18k+ emails to nearly 4,300 emails right now. These emails take up 1.29 GB, according to Google, and I would like to see that go down more.</p>
+<p>It’s not bad, though, considering that’s more than 10 years’ worth of emails!</p>
+<h3 id="iii-cloud-storage">iii. Cloud storage</h3>
+<p>To be perfectly honest, this is the reason why I even started thinking about digital minimalism in the first place. I have a Dropbox Plus (2 TB) subscription that is running out early next month. I first subscribed to that in 2015, when it was known as Dropbox Pro with a 1 TB limit.</p>
+<p>At that time, it felt reasonable to shell out around $135 (US$99) for that space — I have plenty of source files since I’d started freelancing in 2008, and over the decade this repository has grown to a pretty enormous size.</p>
+<p>Fast forward to now, with my smooth transition from a pure visual/brand designer to an experience designer — I no longer deal with Photoshop files upwards of 500 MB each, when everything I work on is either lightweight enough, or already in the cloud.</p>
+<p>I have a folder called Portfolio, which — and you might be surprised to hear — contained branch folders labeled by the years I’ve explored job opportunities. It goes:</p>
+<ul>
+<li>2010 (3.3 GB)</li>
+<li>2011 (2.4 GB)</li>
+<li>2012 (3.22 GB)</li>
+<li>2014 (147.1 MB)</li>
+<li>2016 (97.3 MB)</li>
+<li>2018 (665.4 MB)</li>
+</ul>
+<p>I really wish my 2018 folder could’ve followed the narrative, but alas, it contains super high-res images and photos. So that skewed my hypothesis a little, but my point remains about the type of files I handle.</p>
+<p>The rest of the files in Dropbox utilizing that initial 1 TB storage were backups of photos and videos thanks to the nifty Camera Uploads folder that automatically does that for you, media (books, movies, TV shows… things I probably shouldn’t be admitting to that here ), and additional backups from previous work places.</p>
+<p>I’ve since cleared most of it, in anticipation of switching over to Google One. Originally I’d thought that a purchase of the 100 GB plan (~$28, or ~US$20) was necessary, with after deleting more than 60,000 files, I’m clocking in at around 14 GB in total. I have a 19 GB limit in my Google Drive, so we shall see. Maybe I’ll continue to pare down and hold out on purchasing a bigger storage space.</p>
+<p>As Parkinson’s Law states, “work expands so as to fill the time available for its completion.” Maybe it works tangentially for clutter as well — “stuff increases so as to fill the space available for its storage.”</p>
+<h3 id="iv-bookmarks">iv. Bookmarks</h3>
+<p>I gave up on this and shoved everything into a “Pre-2020” folder.</p>
 ]]></content:encoded>
     </item>
     

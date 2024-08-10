@@ -29,7 +29,7 @@ My mentor asked me a simple question when I was catching up with her: What’s i
 
 —
 
-I’ve touched on this topic before, while talking about [stoicism and what we can control](https://jalyn.co/stoicism-and-what-we-can-control/). That was February of this year, which seems both like a short time and a lifetime ago. I had a pretty pithy line to summarize then:
+I’ve touched on this topic before, while talking about [stoicism and what we can control](/control). That was February of this year, which seems both like a short time and a lifetime ago. I had a pretty pithy line to summarize then:
 
 > Things happen, and the only thing we can control is how we respond to them.
 > 
@@ -52,7 +52,7 @@ With work, what is it that I can control? What is it that I struggle with accept
 - How much action I take, or do not take
 - The mindfulness I take towards my actions
 
-I vaguely alluded to [a big shocking announcement at work last week](/content/posts/nerves.md); cue me googling ‘what to do when manager is laid off’ — [the same manager that was understanding of my morals at work](/content/posts/work-ethics.md) — and still trying to process it, about a week and a half after.
+I vaguely alluded to a big shocking announcement at work last week; cue me googling ‘what to do when manager is laid off’ — [the same manager that was understanding of my morals at work](/work-ethics) — and still trying to process it, about a week and a half after.
 
 I’m still trying to figure out what it means for me (my own job security, my next step forward, building my promotion case) but it’s definitely given me a lot to think about, when I’m not being busy with actual work and calls, and dealing with bad timing (on my part) to try and get a CSR initiative off the ground.
 

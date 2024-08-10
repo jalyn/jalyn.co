@@ -43,7 +43,7 @@ My secret to the reason why I learned to code? Neopets.
 
 ### Age 14
 
-I discover so many things that are just starting to get its footing: [Blogger, LiveJournal, hosting on someone’s cool-sounding domain as a subdomain](https://jalyn.co/beginnings/); fandom forums; Yahoo Groups; Friendster, e-greetings; Napster and then later, LimeWire; Geocities…
+I discover so many things that are just starting to get its footing: [Blogger, LiveJournal, hosting on someone’s cool-sounding domain as a subdomain](/beginnings/); fandom forums; Yahoo Groups; Friendster, e-greetings; Napster and then later, LimeWire; Geocities…
 
 I don’t know that it’ll be referred to in the future as the dot com bust, but here we are.
 

@@ -40,7 +40,7 @@ Besides vague gestures in 2020’s general direction, I can break it down to two
 
 In 2018, I injured my back, and it has never been the same ever since. I’ve gone to physical therapists and chiropractors, had scans done, and dutifully did my core exercises. Yet, nothing has helped that constant and consistent ache.
 
-To exacerbate the problem, when I started working from home, I didn’t have a setup in place. I was using a kitchen chair, and sometimes when the pain of sitting up got to be too much, I would just lay down on my stomach. It worked – but at the expense of my neck (which cracks every time I turn it). Thankfully, [my](https://www.ohlookiecookie.com/) [lovely](https://www.siew.online/) [friends](https://www.instagram.com/facesofrow/)[1](javascript:void(0)) got me an office chair for my birthday, which definitely helped.
+To exacerbate the problem, when I started working from home, I didn’t have a setup in place. I was using a kitchen chair, and sometimes when the pain of sitting up got to be too much, I would just lay down on my stomach. It worked – but at the expense of my neck (which cracks every time I turn it). Thankfully, [my](https://www.ohlookiecookie.com/)  [lovely](https://www.siew.online/)  [friends](https://www.instagram.com/facesofrow/) got me an office chair for my birthday, which definitely helped.
 
 My strength training has plummeted too: I used to be able to squat 50kg and deadlift 65kg at the gym with barbells and plates; now 20kg dumbbells are making me doubt myself. Every twinge makes me paranoid that my body will soon crumple onto the floor.
 
@@ -76,7 +76,7 @@ This was like a see-saw, and on weeks when I felt well enough to, I managed to d
 
 **Read 52 books** (58!)
 
-I think I’ve talked about [this](https://jalyn.co/catching-up-on-my-2020-reading-challenge-how-it-caught-up-with-me-or-how-i-plan-to-read-a-book-every-three-days/) [enough](https://jalyn.co/books-to-last-me-til-the-end-of-the-year/). The bulk of it happened in the last quarter of the year, but from a pure numerical standpoint, I think it’s fair to say that I hit this goal!
+The bulk of it happened in the last quarter of the year, but from a pure numerical standpoint, I think it’s fair to say that I hit this goal!
 
 **5,000 steps/day**
 
@@ -99,7 +99,7 @@ Then there are the things that happened as the year went by:
 
 **Waking up earlier**
 
-This was a spur-of-a-moment thing, when I decided I wanted to [track my sleep](https://jalyn.co/on-sleeping-or-i-am-really-bad-at-sleep/). So far, I’ve shifted my wake-up time from 8 AM to between 6:30 AM and 7 AM, which gives me ample time to work out, jog, and read!
+This was a spur-of-a-moment thing, when I decided I wanted to [track my sleep](/sleep). So far, I’ve shifted my wake-up time from 8 AM to between 6:30 AM and 7 AM, which gives me ample time to work out, jog, and read!
 
 **Drinking 2.5l of water**
 

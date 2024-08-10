@@ -24,7 +24,7 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 ---
 
-Once again, I’m looking back on the year that’s passed. (See: [2020](https://jalyn.co/2020-year-in-review/), [2021](https://jalyn.co/2021-year-in-review/), [2022](https://jalyn.co/2022-year-in-review/))
+Once again, I’m looking back on the year that’s passed. (See: [2020](/2020-year-in-review), [2021](/2021-year-in-review), [2022](/2022-year-in-review))
 
 It seems a little tougher this year — and I won’t say whether it’s because I haven’t been consistently and habitually writing on this site — but I’m always happy to reflect and introspect on what has gone well and what I could’ve done better with.
 

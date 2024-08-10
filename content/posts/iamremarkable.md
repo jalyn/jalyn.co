@@ -3,7 +3,7 @@ title: '#IAmRemarkable'
 url: /iamremarkable
 date: 2022-03-22T14:49:09+08:00
 # weight: 1
-tags: [""]
+tags: ["mindset"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false
@@ -55,4 +55,4 @@ I’m not gonna lie, I had to google for some inspiration because I needed a sta
 - #IAmRemarkable, because I always want to do better and *be* better
 - #IAmRemarkable, because I am resilient through life changes and revelations
 - #IAmRemarkable, because I pay attention to the small details
-- #IAmRemarkable, because I try to live through my [core values](https://jalyn.co/how-i-live-an-authentic-life/) and using them to guide my decisions
+- #IAmRemarkable, because I try to live through my [core values](/authentic-life) and using them to guide my decisions

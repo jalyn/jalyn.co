@@ -17,6 +17,12 @@
     <loc>http://localhost:1313/tags/writing/</loc>
     <lastmod>2024-08-09T22:48:16+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/ios-unstuck/</loc>
+    <lastmod>2024-06-15T19:18:16+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/devices/</loc>
+    <lastmod>2024-06-15T19:18:16+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/chess/</loc>
     <lastmod>2024-04-07T17:21:47+08:00</lastmod>
   </url><url>
@@ -173,12 +179,6 @@
     <loc>http://localhost:1313/tags/reading/</loc>
     <lastmod>2021-01-17T16:30:59+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ios-unstuck/</loc>
-    <lastmod>2021-01-07T19:18:16+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/devices/</loc>
-    <lastmod>2021-01-07T19:18:16+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/2020-year-in-review/</loc>
     <lastmod>2020-12-31T19:21:16+08:00</lastmod>
   </url><url>
@@ -190,6 +190,21 @@
   </url><url>
     <loc>http://localhost:1313/tags/software/</loc>
     <lastmod>2020-11-22T19:24:50+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sleep/</loc>
+    <lastmod>2020-10-29T16:10:09+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sleep/</loc>
+    <lastmod>2020-10-29T16:10:09+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/upgrade/</loc>
+    <lastmod>2020-10-20T16:11:11+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/new-job/</loc>
+    <lastmod>2020-02-08T20:11:51+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hoarding/</loc>
+    <lastmod>2020-01-11T20:12:36+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/beginnings/</loc>
     <lastmod>2019-12-28T16:55:46+08:00</lastmod>

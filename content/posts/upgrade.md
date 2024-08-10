@@ -28,7 +28,7 @@ featured: false
 
 I love gadgets, and I’ll be the first to admit that I love Apple and its products. I have: an iPhone X; the AirPods with a wireless charging case, and I’m typing this from a MacBook Pro. For a while, I was contemplating buying an iPad, or an Apple Watch.
 
-I got neither. Instead, as with a lot of things, I took too long to decide and lost interest in getting them. [1](javascript:void(0))
+I got neither. Instead, as with a lot of things, I took too long to decide and lost interest in getting them.
 
 > Fun little side story: In 2006, when I was but an impressionable freshman, I came up with a pitch in 15 minutes for an ‘MacPhone’. This is pre-iPhone, and you can see a speech outline I drafted. Everything about it, from the features to the price point, makes me laugh now.
 > 
@@ -45,7 +45,9 @@ To that end, I have a framework for when I upgrade my devices:
 - Are there workarounds to pull the device back from the brink?
 - Is there is a feature on the upgrade I absolutely can’t not have?
 
-In March 2017, when my iPhone 6 fell with me into the water while I was kayaking and died an instant death, I used a loaner Android unit until the iPhone X got released. And even then! I waited a whole month and a half to actually get the device, if my receipt trails are to be believed, since I only got it on December 21 of that same year. [2](javascript:void(0))
+In March 2017, when my iPhone 6 fell with me into the water while I was kayaking and died an instant death, I used a loaner Android unit until the iPhone X got released. 
+
+And even then! I waited a whole month and a half to actually get the device, if my receipt trails are to be believed, since I only got it on December 21 of that same year. 
 
 ## Why I’m thinking of upgrading
 

@@ -27,9 +27,9 @@ featured: false
 
 I’m in the process of setting my 2021 OKRs for work right now. As a starting point, my mentor had requested for me to think about my strengths and how to tie it all together.
 
-**Me:** Okay, I’m going to need some time to think about my strengths.
-
-**Also me:** Do you want weaknesses too? I can give them to you right now, if you want.
+> **Me:** Okay, I’m going to need some time to think about my strengths.
+> **Also me:** Do you want weaknesses too? I can give them to you right now, if you want.
+>
 
 ## An experiment in gathering feedback
 

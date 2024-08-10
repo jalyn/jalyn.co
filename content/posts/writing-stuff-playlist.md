@@ -25,7 +25,7 @@ UseHugoToc: false
 featured: false
 ---
 
-This is a music post, because I’m still [taking life slow](https://jalyn.co/slowing-down/). I call this my ‘writing stuff’ playlist, in which I do everything but.
+I call this my ‘writing stuff’ playlist, in which I do everything but.
 
 1. Run – Daughter
 2. Tip of my Tongue – The Civil Wars
@@ -38,4 +38,4 @@ This is a music post, because I’m still [taking life slow](https://jalyn.co/sl
 9. Challengers – The New Pornographers
 10. My Backwards Walk – Frightened Rabbit
 
-There’s another version of this playlist that’s basically just all of [Little Mix’s discography](/content/posts/little-mix.md), Broadway recordings, and The Barden Bellas, so there’s that.
+There’s another version of this playlist that’s basically just all of [Little Mix’s discography](/little-mix), Broadway recordings, and The Barden Bellas, so there’s that.

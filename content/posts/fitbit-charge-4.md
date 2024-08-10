@@ -25,7 +25,7 @@ UseHugoToc: false
 featured: false
 ---
 
-Two months ago, I talked about [my terrible sleep habits](https://jalyn.co/on-sleeping-or-i-am-really-bad-at-sleep/), and how using an app on the phone to track my sleep wasn’t the best solution for me at the time.
+Two months ago, I talked about [my terrible sleep habits](/sleep), and how using an app on the phone to track my sleep wasn’t the best solution for me at the time.
 
 Since then, I’ve gotten my [FitBit Charge 4](https://www.fitbit.com/sg/charge4), and have been using it for a little over a month. I got the Storm Blue Classic Band — to be more accurate, my friend [Siew](https://www.siew.online/) who placed the order for me got me that variant (I told her to surprise me) — but any of the other choices would have fit my dark and neutral wardrobe anyway.
 

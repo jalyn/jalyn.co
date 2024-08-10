@@ -3,7 +3,7 @@ title: 'Articulate speaking'
 url: /speech
 date: 2021-09-05T16:10:09+08:00
 # weight: 1
-tags: [""]
+tags: ["speaking"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false

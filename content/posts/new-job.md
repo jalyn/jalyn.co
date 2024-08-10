@@ -1,7 +1,7 @@
 ---
 title: The Non-Definitive Guide To Starting A New Job
 url: /new-job
-date: 2024-08-10T20:11:51+08:00
+date: 2020-02-08T20:11:51+08:00
 # weight: 1
 tags: ["corporate life"]
 author: "Me"

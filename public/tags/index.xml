@@ -18,6 +18,16 @@
     </item>
     
     <item>
+      <title>Devices</title>
+      <link>http://localhost:1313/tags/devices/</link>
+      <pubDate>Sat, 15 Jun 2024 19:18:16 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/devices/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
       <title>Chess</title>
       <link>http://localhost:1313/tags/chess/</link>
       <pubDate>Sun, 07 Apr 2024 17:21:47 +0800</pubDate>
@@ -238,21 +248,21 @@
     </item>
     
     <item>
-      <title>Devices</title>
-      <link>http://localhost:1313/tags/devices/</link>
-      <pubDate>Thu, 07 Jan 2021 19:18:16 +0800</pubDate>
-      
-      <guid>http://localhost:1313/tags/devices/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
       <title>Software</title>
       <link>http://localhost:1313/tags/software/</link>
       <pubDate>Sun, 22 Nov 2020 19:24:50 +0800</pubDate>
       
       <guid>http://localhost:1313/tags/software/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Sleep</title>
+      <link>http://localhost:1313/tags/sleep/</link>
+      <pubDate>Thu, 29 Oct 2020 16:10:09 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/sleep/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>

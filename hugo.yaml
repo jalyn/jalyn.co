@@ -5,7 +5,6 @@ theme: PaperModX
 
 metaDataFormat: "yaml"
 
-
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false

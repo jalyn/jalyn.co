@@ -3,7 +3,7 @@ title: On Photo Storage & Google's Take-Backsies
 url: /photo-storage
 date: 2020-11-22T19:24:50+08:00
 # weight: 1
-tags: ["software"]
+tags: ["storage"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false
@@ -27,7 +27,7 @@ featured: false
 
 “Noooooo,” I typed dramatically to my chats after taking a screenshot of this [storage change from Google](https://blog.google/products/photos/storage-changes/). To recap: From June 2021, high quality photos uploaded to Google Photos will count towards the storage limit, instead of the current unlimited uploading.
 
-I’ve talked a little before [my digital clutter](https://jalyn.co/digital-hoarding/) in general, and glossed over how my cloud storage is set up. I’ve had Dropbox for years before I let it lapse this year, and was planning on getting a Google One subscription. That is, until I realized that photo storage was going to be a non-issue with Google Photos, and held off getting a plan.
+I’ve talked a little before [my digital clutter](/digital-hoarding) in general, and glossed over how my cloud storage is set up. I’ve had Dropbox for years before I let it lapse this year, and was planning on getting a Google One subscription. That is, until I realized that photo storage was going to be a non-issue with Google Photos, and held off getting a plan.
 
 Until now.
 
