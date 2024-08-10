@@ -6,11 +6,11 @@
     <description>Recent content in Devices on Jalyn Cai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Jun 2024 19:18:16 +0800</lastBuildDate><atom:link href="https://jalyn.co/tags/devices/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jun 2024 19:18:16 +0800</lastBuildDate><atom:link href="https://jalyn.co/tags/devices/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Argh, Apple [How to get unstuck on the iOS update during setup]</title>
+      <title>Argh, Apple (and how to get unstuck on the iOS update during setup)</title>
       <link>https://jalyn.co/ios-unstuck/</link>
-      <pubDate>Sat, 22 Jun 2024 19:18:16 +0800</pubDate>
+      <pubDate>Sat, 15 Jun 2024 19:18:16 +0800</pubDate>
       
       <guid>https://jalyn.co/ios-unstuck/</guid>
       <description>My dad’s phone was an iPhone 11 that he’s had for several years now, and one day, with no warning, it stopped charging.
@@ -21,21 +21,15 @@ After a week or so of waiting (which was about 6 days longer than I had anticipa
 <p>My stop-gap solution was to hand him my wireless charger, which worked for a bit technically, but wasn’t suited for his work flow.</p>
 <p>That’s okay; it was nearly Father’s Day so my sister and I got the iPhone SE for him.</p>
 <p>After a week or so of waiting (which was about 6 days longer than I had anticipated; something to unpack here about my apparent high standards for delivery timelines), it arrived.</p>
-<h3 id="the-ordeal">The ordeal</h3>
+<h2 id="the-ordeal">The ordeal</h2>
 <p>I thought it would be simple with the data transfer — he doesn’t have too many apps or personal data on his phone, and I only needed to preserve the connection to his work VPN, and chat history on the handful of chat apps he has that aren’t cloud-based.</p>
 <p>(Yeah, looking at you, Whatsapp.)</p>
 <p>I thought it would be simple and that it would only take a few minutes, because that’s how Apple has conditioned us to behave, right?</p>
 <p>Instead, after pairing the phone and hitting ‘next’ on the steps, it got stuck on the iOS download and update screen.</p>
 <p>I thought: this must be a mistake, so I restarted the process, did the pairing again, clicked ‘next’ again.</p>
 <p><em>Sigh.</em></p>
-<p><a href="https://www.google.com/search?q=iphone&#43;new&#43;phone&#43;setup&#43;software&#43;update&#43;2&#43;days&#43;site:discussions.apple.com"
-   
-   
-     target="_blank" rel="noopener"
-   >
-  A cursory search found this issue starting back from at least 2020
-</a>; at one point it told me it would take 5 days for it to finish downloading and transferring.</p>
-<h3 id="the-solution">The solution</h3>
+<p><a href="https://www.google.com/search?q=iphone&#43;new&#43;phone&#43;setup&#43;software&#43;update&#43;2&#43;days&#43;site:discussions.apple.com"   target="_blank" rel="noopener" >A cursory search found this issue starting back from at least 2020</a>; at one point it told me it would take 5 days for it to finish downloading and transferring.</p>
+<h2 id="the-solution">The solution</h2>
 <ol>
 <li>Set up the phone as if it’s a new phone, and do not choose to import your settings and data from your old phone — no worries, you can do the transfer after these steps</li>
 <li>With the brand new phone, navigate to Settings &gt; General &gt; Software Update</li>
@@ -44,6 +38,90 @@ After a week or so of waiting (which was about 6 days longer than I had anticipa
 <li>Ignore the confusing taxonomy and select the ‘Erase All Content and Settings’ option</li>
 <li>Voilà. <em>Now</em> you can go through the phone data transfer and not run into the 5-day-wait problem</li>
 </ol>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>One&#43; month with the FitBit Charge 4</title>
+      <link>https://jalyn.co/fitbit-charge-4/</link>
+      <pubDate>Wed, 23 Dec 2020 19:23:39 +0800</pubDate>
+      
+      <guid>https://jalyn.co/fitbit-charge-4/</guid>
+      <description>Two months ago, I talked about my terrible sleep habits, and how using an app on the phone to track my sleep wasn’t the best solution for me at the time.
+Since then, I’ve gotten my FitBit Charge 4, and have been using it for a little over a month. I got the Storm Blue Classic Band — to be more accurate, my friend Siew who placed the order for me got me that variant (I told her to surprise me) — but any of the other choices would have fit my dark and neutral wardrobe anyway.</description>
+      <content:encoded><![CDATA[<p>Two months ago, I talked about <a href="https://jalyn.co/on-sleeping-or-i-am-really-bad-at-sleep/"   target="_blank" rel="noopener" >my terrible sleep habits</a>, and how using an app on the phone to track my sleep wasn’t the best solution for me at the time.</p>
+<p>Since then, I’ve gotten my <a href="https://www.fitbit.com/sg/charge4"   target="_blank" rel="noopener" >FitBit Charge 4</a>, and have been using it for a little over a month. I got the Storm Blue Classic Band — to be more accurate, my friend <a href="https://www.siew.online/"   target="_blank" rel="noopener" >Siew</a> who placed the order for me got me that variant (I told her to surprise me) — but any of the other choices would have fit my dark and neutral wardrobe anyway.</p>
+<p>This would be my first smart wearable, besides the one week I tried with a company-owned Apple Watch a few years ago. As far as wearing watches go, I’d consistently worn one until I was 17. Then, as phones got more ubiquitous, I ditched my watch.</p>
+<p>By that count, that was almost half a lifetime ago.</p>
+<p>Is it weird that I have something on my wrist again? Not really. It doesn’t bother me as much, but I have definitely forgotten I was wearing the Charge, and somehow slammed my wrist against a window frame after opening the window. But that is more of a ‘me’ thing, and not so much a ‘wearable’ thing.</p>
+<h2 id="some-things-i-really-like">Some things I really like:</h2>
+<p><strong>Consistently wanting to hit my goal:</strong> Seeing my step count gives me the visual reminder that I need to hit my goal. It’s currently “just” 5,000 steps a day, and I’m working on extending that bit by bit. In fact, I usually try to get that before 9:30 AM aka the time I start work in front of my laptop, and it’s absolutely a new habit with wearing this device.</p>
+<p>Previously, with just the tracking from the odometer on my phone, it’s out of sight and out of mind for me on some days when I was clocking in just a few hundred steps.</p>
+<p>Also, it’s definitely good for me that it tracks steps while I’m running in place.</p>
+<p><strong>Tracking parameters I wasn’t before:</strong> I get to see my heart rate, which is cool because when I walk out with my mask on, it reminds me of my poor, asthmatic self when it goes +40 my resting heart beat rate.</p>
+<p>The Charge also tracks my <a href="https://blog.fitbit.com/active-zone-minutes/"   target="_blank" rel="noopener" >active zone minutes</a>, which should in theory help me improve my cardio health.</p>
+<p><strong>Battery life is pretty good:</strong> I’m still figuring out the optimal time to charge, but I’ve been doing it in the morning right after my workout + aforementioned jogging session while I shower. You can see it in the picture in this post actually, and it is surprisingly consistently at 87% when I start charging it. I haven’t noticed how long it takes to charge exactly, but I would pick it up half an hour to an hour after, and it would be fully charged until the cycle continues the next day.</p>
+<p><strong>Gradually shifting my wake up time earlier:</strong> The Charge has the vibrating alarm that happens in a half-hour window for my wake up time, which works by tracking when it would be the least disruptive to your sleep cycle.</p>
+<p>A month ago, I started off waking up at 8 AM, with the alarm window between 7:30 – 8 AM. Now, I’m waking up between 6:30 AM and 7 AM, and I want to see if I can shift that even earlier.</p>
+<h2 id="and-some-things-i-wish-could-be-improved">And some things I wish could be improved:</h2>
+<p><strong>Sleep monitoring could use more stats:</strong> In addition to the sleep alarm, the device and app also come with <a href="https://jalyn.co/wp-content/uploads/fitbit-sleep.png"   target="_blank" rel="noopener" >sleep monitoring stats</a>. I get to see how long I slept, how much time I spent in each category of REM, Light and Deep sleep (with a 30-day average, and a benchmark against women my age), a sleep score (I’m only getting 10% Goods, and Fairs the rest of the time), estimated oxygen variation which is supposed to detect breathing issues, and… that’s it.</p>
+<p>Fitbit Premium is needed to unlock two more stats: my sleeping heart rate, and a restlessness score. I’m not sure that is worth ten bucks a month, to be honest. I’d also like to see other meaningful stats, like time taken to fall asleep.</p>
+<p><strong>Trapped dirt:</strong> Could be another ‘me’ thing, because my room does get really dusty. But between the detachable straps and the watch face, I have to wipe it daily to get the layer of dust off.</p>
+<p><strong>Responsiveness of touch screen:</strong> Compared to the Apple Watch – even the earlier Series that I was testing with – it seems a lot more delayed in reaction time, and the screen wake via a hand raise works 80% of the time.</p>
+<p>It’s not a huge deal though, because I don’t actually use it as a phone accessory (I’ve turned notifications off because I don’t want it buzzing all the time when I already have vibration off even on my phone) so I don’t need to swipe through the screens all that often. Still a little annoying though.</p>
+<p><strong>Contactless payment:</strong> I can’t use it. My bank isn’t on it. End of story.</p>
+<p>There are some other features on the watch and app that I don’t really use, like meditation/mindfulness (I already have one too many app for it, which are Headspace and Insight Timer), period tracking (thank you, Clue), food logging (been on My Fitness Pal for far too long), and I don’t have a fancy weighing scale to automatically sync my weight.</p>
+<p>In all, though, I still think this was one of my best purchases of 2020.</p>
+<p>Which isn’t <em>a lot</em>, because I didn’t buy too many things.</p>
+<p>Being able to track sleep and getting that consistency to hit my steps are huge deals though! We’ll see if I will upgrade to a Sense or Versa in a few years, but I can say that I’ll continue to wear this for as long as it lasts.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>When is it time to upgrade a device?</title>
+      <link>https://jalyn.co/upgrade/</link>
+      <pubDate>Tue, 20 Oct 2020 16:11:11 +0800</pubDate>
+      
+      <guid>https://jalyn.co/upgrade/</guid>
+      <description>I love gadgets, and I’ll be the first to admit that I love Apple and its products. I have: an iPhone X; the AirPods with a wireless charging case, and I’m typing this from a MacBook Pro. For a while, I was contemplating buying an iPad, or an Apple Watch.
+I got neither. Instead, as with a lot of things, I took too long to decide and lost interest in getting them.</description>
+      <content:encoded><![CDATA[<p>I love gadgets, and I’ll be the first to admit that I love Apple and its products. I have: an iPhone X; the AirPods with a wireless charging case, and I’m typing this from a MacBook Pro. For a while, I was contemplating buying an iPad, or an Apple Watch.</p>
+<p>I got neither. Instead, as with a lot of things, I took too long to decide and lost interest in getting them. <a href="javascript:void%280%29"  >1</a></p>
+<blockquote>
+<p>Fun little side story: In 2006, when I was but an impressionable freshman, I came up with a pitch in 15 minutes for an ‘MacPhone’. This is pre-iPhone, and you can see a speech outline I drafted. Everything about it, from the features to the price point, makes me laugh now.</p>
+</blockquote>
+<p>More than being an Apple fan, though, I also generally love technology and the gadgets it demands. Considering that my day job almost entirely relies on my skills and expertise in designing apps and experiences on these devices, keeping up ahead of the curve is almost mandatory.</p>
+<h2 id="the-upgrading-dilemma">The upgrading dilemma</h2>
+<p>Then there is the minimalist and fiscally-conscious part of me.</p>
+<p>To that end, I have a framework for when I upgrade my devices:</p>
+<ul>
+<li>Is the device is on the verge of death?</li>
+<li>Are there workarounds to pull the device back from the brink?</li>
+<li>Is there is a feature on the upgrade I absolutely can’t not have?</li>
+</ul>
+<p>In March 2017, when my iPhone 6 fell with me into the water while I was kayaking and died an instant death, I used a loaner Android unit until the iPhone X got released. And even then! I waited a whole month and a half to actually get the device, if my receipt trails are to be believed, since I only got it on December 21 of that same year. <a href="javascript:void%280%29"  >2</a></p>
+<h2 id="why-im-thinking-of-upgrading">Why I’m thinking of upgrading</h2>
+<p>Recently, my iPhone X has been giving me plenty of usage problems — It goes from 100% to 10% in about 20 minutes when all I’m doing is listening to a podcast, or have the Libby app open. It also overheats, sometimes for no reason at all.</p>
+<p>The most worrying incident happened about two weeks ago, when it died almost instantly as I unplugged it from its cable. When I eventually – harrowingly – got it to switch on again, a service notice tells me that the phone “experienced an unexpected shutdown because the battery was unable to deliver the necessary peak power”.</p>
+<p>I’m not sure what it meant technically, but it also assured me it would not happen again.</p>
+<p>So, my interest was piqued when Apple announced the new lineup of the phones.</p>
+<blockquote>
+<p>Another story! When the iPhone 8 and iPhone X was released, I was part of the team at work who had to be in the office at 3 in the morning to receive the specs and images from Apple, when we then updated our page – typically the page with the most traffic all year round. Fun times.</p>
+</blockquote>
+<p>But here’s the brief rundown: My initial reaction was one of overwhelm, at the similar sounding model names.</p>
+<p>Then I’m just underwhelmed.</p>
+<h2 id="and-thats-why-im-not-upgrading">And… that’s why I’m not upgrading</h2>
+<p>To make things easier for myself, let’s go back to my framework of upgrading my device.</p>
+<p><strong>Is the device is on the verge of death?</strong></p>
+<p>Yes, very much so. I can’t keep relying on my external power bank, especially if I’m just going out for a quick grocery run or an actual walk, so this is mission critical for me.</p>
+<p><strong>Are there workarounds to pull the device back from the brink?</strong></p>
+<p>Two, actually: I can get a new battery replacement for $99, or I can get a smart battery case for $199. Compared to $1,299 for the base iPhone 12 model, those seem like a steal.</p>
+<p><strong>Is there is a feature on the upgrade I absolutely can’t not have?</strong></p>
+<p>Some of the biggest updates on the new iPhones are a little exciting, I won’t pretend they aren’t — Higher quality photos and videos are always appreciated; I like the sound of 5G speeds, but I’m hooked up to my wifi anyway while working from home; and more efficient charging so I can find new ways to fuck up my new battery, probably. (I kid.)</p>
+<p>At the end of the day, though, my iPhone X still serves all my needs. I’m content with the speed that I can use my apps to read, listen to music and podcasts, and play my games. I’m still largely a content consumer than a content creator, much less one who needs the latest and greatest photo and video taking abilities — and even then, I would assume I’ll need more specific tools for those at a more advanced stage, and that the iPhone X still has the capacity for that at my basic entry level!</p>
+<p>Yeah. I guess I’ll hold on for a few more cycles.</p>
+<hr>
+<p>(There’s also a metaphor here, about my own mental battery and my own surge capacity being so messed up. Can someone replace <em>my</em> battery? Anyone?)</p>
 ]]></content:encoded>
     </item>
     

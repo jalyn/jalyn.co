@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Work on Jalyn Cai</title>
-    <link>https://jalyn.co/tags/work/</link>
+    <link>http://localhost:1313/tags/work/</link>
     <description>Recent content in Work on Jalyn Cai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Jul 2022 20:29:47 +0800</lastBuildDate><atom:link href="https://jalyn.co/tags/work/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jul 2022 20:29:47 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Timezone shifting</title>
-      <link>https://jalyn.co/timezones/</link>
+      <link>http://localhost:1313/timezones/</link>
       <pubDate>Mon, 04 Jul 2022 20:29:47 +0800</pubDate>
       
-      <guid>https://jalyn.co/timezones/</guid>
+      <guid>http://localhost:1313/timezones/</guid>
       <description>Look at me, a whole month ago, breaking down and analyzing my “new” routine at work, without realizing that all of that was going to get slightly upended when I got staffed on a project based out of the UK.
 Needless to say, I did not do very well with the whole work-life balance or integration part of things. Working with the team that is 7 hours behind me meant that theoretically, I should be starting my day way later, but I was consistently pulling 14+ hours during the past month, and readers… It was no fun.</description>
       <content:encoded><![CDATA[<p>Look at me, a whole month ago, breaking down and analyzing my “new” routine at work, without realizing that all of that was going to get slightly upended when I got staffed on a project based out of the UK.</p>
@@ -27,10 +27,10 @@ Needless to say, I did not do very well with the whole work-life balance or inte
     
     <item>
       <title>Becoming less of a work bot</title>
-      <link>https://jalyn.co/work-bot/</link>
+      <link>http://localhost:1313/work-bot/</link>
       <pubDate>Sat, 11 Jun 2022 20:13:41 +0800</pubDate>
       
-      <guid>https://jalyn.co/work-bot/</guid>
+      <guid>http://localhost:1313/work-bot/</guid>
       <description>If you looked up the definition of sheepish, you’ll probably find my face right there. Mostly due to the fact that I have been neglecting this journaling habit, which was something I held quite proudly of for last year.
 2021: never missing a week!
 2022: does ‘a week’ mean anything, actually? what is this archaic concept of time we hold ourselves to? why have we shackled ourselves—-
