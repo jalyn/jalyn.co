@@ -72,10 +72,15 @@
     line-clamp: 2;
 }
 
-.read-more {
+a.read-more {
     color: var(--secondary);
     display: inline-block;
-}
+    text-decoration: none; /* Optional: removes underline */
+  }
+  
+  a.read-more:hover {
+    color: var(--link-hover-color);
+  }
 
 .entry-footer,
 .entry-footer span > a {

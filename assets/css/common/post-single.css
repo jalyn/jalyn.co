@@ -75,7 +75,6 @@
 }
 
 .post-content a {
-    font-weight: 500;
     color: var(--primary);
     box-shadow: var(--link-underline-shadow);
     transition: var(--link-transition);

@@ -2,6 +2,7 @@
 title: 'Digital gardening'
 url: /digital-garden
 date: 2024-08-09T22:48:16+08:00
+# lastmod: 2024-08-11T10:30:00-07:00
 # weight: 1
 tags: ["writing"]
 author: "Me"

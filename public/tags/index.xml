@@ -168,6 +168,16 @@
     </item>
     
     <item>
+      <title>Speaking</title>
+      <link>http://localhost:1313/tags/speaking/</link>
+      <pubDate>Sun, 05 Sep 2021 16:10:09 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/speaking/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
       <title>Productivity</title>
       <link>http://localhost:1313/tags/productivity/</link>
       <pubDate>Sun, 29 Aug 2021 16:11:11 +0800</pubDate>
@@ -248,11 +258,11 @@
     </item>
     
     <item>
-      <title>Software</title>
-      <link>http://localhost:1313/tags/software/</link>
+      <title>Storage</title>
+      <link>http://localhost:1313/tags/storage/</link>
       <pubDate>Sun, 22 Nov 2020 19:24:50 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/software/</guid>
+      <guid>http://localhost:1313/tags/storage/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>

@@ -133,3 +133,5 @@ markup:
   goldmark:
     extensions:
       table: true
+
+
