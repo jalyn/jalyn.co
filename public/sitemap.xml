@@ -215,6 +215,10 @@
     <loc>http://localhost:1313/beginnings/</loc>
     <lastmod>2019-12-28T16:55:46+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/now/</loc>
   </url>
 </urlset>
