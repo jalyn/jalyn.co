@@ -11,7 +11,9 @@ buildFuture: false
 buildExpired: false
 pygmentsUseClasses: true
 
-googleAnalytics: UA-123-45
+services:
+  googleAnalytics:
+    ID: G-6Q80MERMXN
 
 minify:
     disableXML: true

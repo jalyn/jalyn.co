@@ -519,6 +519,63 @@ I’ve been listening to a lot of podcasts on the Pushkin network, like Cautiona
     </item>
     
     <item>
+      <title>What&#39;s in a name?</title>
+      <link>http://localhost:1313/design-title/</link>
+      <pubDate>Sun, 27 Mar 2022 13:00:28 +0800</pubDate>
+      
+      <guid>http://localhost:1313/design-title/</guid>
+      <description>Should I be looking for a job with a specific title?
+Are there roles I should avoid?
+And what do I do when the job description says I have to do everything?
+This topic actually comes up quite a lot with people who have booked sessions with me on ADPList, and entering the job market in the first few years of their career in this field.
+The point of confusion seems to be around labelling, which is ironic given the work we would do with content, information architecture, and taxonomy.</description>
+      <content:encoded><![CDATA[<p>Should I be looking for a job with a specific title?</p>
+<p>Are there roles I should avoid?</p>
+<p>And what do I do when the job description says I have to do everything?</p>
+<hr>
+<p>This topic actually comes up quite a lot with people who have booked sessions with me on ADPList, and entering the job market in the first few years of their career in this field.</p>
+<p>The point of confusion seems to be around labelling, which is ironic given the work we would do with content, information architecture, and taxonomy.</p>
+<h2 id="the-case-against-uiux">The case against &ldquo;UI/UX&rdquo;</h2>
+<p>I’ve called myself, at one point through my journey from mid-weight to principal designer, these titles: Experience Designer, UX Designer, Product Designer, Interaction Designer, Service Designer, Information Architect, CX Consultant…</p>
+<p>But there is something I would never call myself, and that is: a UX/UI designer.</p>
+<p>(And, spoiler: it isn’t because I don’t do UI!)</p>
+<p>There are two different arguments here:</p>
+<h3 id="1-user-interface-design-is-a-sub-set-of-skills-that-make-up-user-experience-design">1) User interface design is a sub-set of skills that make up user experience design</h3>
+<p>You won&rsquo;t call someone a &ldquo;Menu Developer/Cook Chef&rdquo; in the same breath, would you? Calling a designer a &ldquo;UI/UX Designer&rdquo; is similar to that comparison, as you cannot separate the interface from the experience, nor the experience from how it works when it looks a certain way.</p>
+<p>There is an inherent connection between both skills: the design and interactivity of the interface is a key aspect to the general user experience.</p>
+<p>Without the visual and interactive elements of the design, it becomes much more difficult to sell the problem-solving perspective of the structure and experience.</p>
+<p>There is that old analogy about UX being the blueprint of a house, while the UI is the exterior and interior design of the property. Without the other, one cannot call itself a complete house.</p>
+<h3 id="2-visual-design-skills-are-very-different-in-application-to-interaction-design-skills">2) Visual design skills are very different in application to interaction design skills</h3>
+<p>This distinction goes back to the histories of both careers &ndash; from library sciences that grew into information architecture and the structuring of content through human-computer interaction, and GUI design that came as an evolution of computers, then the internet.</p>
+<p>Not to mention the graphic designers who paved the way across different media!</p>
+<p>Both sets of skills are integral to the success of the product that you’re building, and the value you’re bringing across to the cross-functional team you’re in.</p>
+<p>(On a side note, and possibly for another article: I have also often seen designers boxing themselves in “the way the brain is wired”, i.e. a visual designer is seen as a more creative individual, while a UX designer is more structured and analytical.</p>
+<p>Sometimes, it is very egregious to read definitions in job descriptions, and even in articles laying out the differences in skills and scope of UX and UI &ndash; I&rsquo;ve hypothesized they&rsquo;re written by UX-leaning folks &ndash; that basically boil down to, &ldquo;a UX designer is a critical thinker and a problem solver&rdquo;, and a UI designer, uh, &ldquo;can choose typography and colors&rdquo;.)</p>
+<hr>
+<h3 id="the-result-blurred-lines">The result? Blurred lines.</h3>
+<p>The lines blur with each given individual designer, their shape and their stack. One designer can be comfortable hands-on with all the tasks, but they also need to learn how to prioritize: first based on user and business value, then based on what is needed at the point of time. Circling around a content model might not make as big an impact as a working prototype for a set of stakeholders, but might be the motherlode for another.</p>
+<p>As a design leader, understanding the scope of what needs to be delivered often starts with identifying the team’s strengths, what they can deliver in a reasonable time, and balancing the deep specialization each designer can bring holistically.</p>
+<p>Companies often want that fabled unicorn who can do it all, but I’m reminded of a quote:</p>
+<blockquote>
+<p>You can do anything, but you can’t do everything.</p>
+</blockquote>
+<p>Not at the same time, anyway!</p>
+<p>At the end of the day, great experiences are delivered when you have a good mix of both types of skills.</p>
+<p>Even if you’re a designer who can straddle across the skills and deliverables (and on a good day, I feel like I can), you still need checks and balances to make sure that the outcomes are balanced.</p>
+<p>That means collaborating with your product manager to understand the metrics in which the deliverable will be measured on, or discussing with the engineer who’s feeling a deep sense of despair as you demo the impossible interaction from Figma.</p>
+<p>(Just kidding — please don’t do that! We can talk more about desirability, feasibility and viability at another time, though.)</p>
+<h2 id="making-an-impact">Making an impact</h2>
+<p>Beyond the actual business metrics, and beyond titles, what we do as practitioners impacts to a great degree what people experience in their lives. It doesn’t start and end with &ldquo;I made this app look really nice,&rdquo; or even “translating business requirements from my product owner&quot;.</p>
+<p>Worse still: “My stakeholder wants to do this so I guess we’ll do this”.</p>
+<p>Instead, there’s a lot for us to be intentional about: the language we use, the people we include, and the (hopefully positive) impact we make on their lives.</p>
+<p>Then there are questions like, how do we make sure that accessibility is a foundation and not just an afterthought, a checklist of items only for it to get a passing rate, or a plugin on Figma to make sure colors are contrasted enough? How do we make sure that we are not unintentionally excluding people by calling them “edge-cases”?</p>
+<p>And even beyond the fabled “user” — what about our own employees? What about the newcomer who’s joining the team, and wants to hit the ground running but still with ample support? Or the hiring partner who needs to understand exactly what skills to screen for when they find someone? (Ah, full circle on this piece.)</p>
+<hr>
+<p>Design lives beyond roles and nomenclature. Leading by design and curiosity, and the North Star of creating meaningful impact is the intersection I believe we can make the most of our skills and time on, and honestly? That goes beyond the title I call myself.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
       <title>#IAmRemarkable</title>
       <link>http://localhost:1313/iamremarkable/</link>
       <pubDate>Tue, 22 Mar 2022 14:49:09 +0800</pubDate>
@@ -556,8 +613,10 @@ Why I attended this More than just for personal growth though, I definitely want
       <pubDate>Sat, 01 Jan 2022 15:57:49 +0800</pubDate>
       
       <guid>http://localhost:1313/2021-year-in-review/</guid>
-      <description>I like having a chill and quiet last day of the year, and I was ready to spend the whole of this last day of the year writing this. Instead, my laptop wouldn’t start up when I woke up yesterday morning — seemed emblematic of 2021’s vibes — and I spent half the day going to a couple of repair shops, receiving the bad news about a corroded motherboard, balking at the price for repair, trying to make the call on whether I should just buy a new MacBook Air/Pro and let this 2017 laptop’s value after amortization be higher than I anticipated…</description>
-      <content:encoded><![CDATA[<p>I like having a chill and quiet last day of the year, and I was ready to spend the whole of this last day of the year writing this. Instead, my laptop wouldn’t start up when I woke up yesterday morning — seemed emblematic of 2021’s vibes — and I spent half the day going to a couple of repair shops, receiving the bad news about a corroded motherboard, balking at the price for repair, trying to make the call on whether I should just buy a new MacBook Air/Pro and let this 2017 laptop’s value after amortization be higher than I anticipated…</p>
+      <description>I like having a chill and quiet last day of the year, and I was ready to spend the whole of this last day of the year writing this, just as I had done last year.
+Instead, my laptop wouldn’t start up when I woke up yesterday morning — seemed emblematic of 2021’s vibes — and I spent half the day going to a couple of repair shops, receiving the bad news about a corroded motherboard, balking at the price for repair, trying to make the call on whether I should just buy a new MacBook Air/Pro and let this 2017 laptop’s value after amortization be higher than I anticipated…</description>
+      <content:encoded><![CDATA[<p>I like having a chill and quiet last day of the year, and I was ready to spend the whole of this last day of the year writing this, just as I had done <a href="/2020-year-in-review"  >last year</a>.</p>
+<p>Instead, my laptop wouldn’t start up when I woke up yesterday morning — seemed emblematic of 2021’s vibes — and I spent half the day going to a couple of repair shops, receiving the bad news about a corroded motherboard, balking at the price for repair, trying to make the call on whether I should just buy a new MacBook Air/Pro and let this 2017 laptop’s value after amortization be higher than I anticipated…</p>
 <p>Eventually I settled on spending the repair money, because I feel like I’ll be able to stretch the lifespan out a little more and get a better value over time. Plus, I’ll be able to comfortably wait for the <a href="https://www.macrumors.com/guide/2022-macbook-air/"   target="_blank" rel="noopener" >M2 MacBook Air</a> when it comes out too.</p>
 <p>But yes. That’s 2021 in a nutshell, I think: something happens and I react, and I push all previously-laid plans aside. Including having to write this post in the new year instead!</p>
 <h2 id="what-went-well">What went well:</h2>
@@ -794,10 +853,10 @@ I try to put guardrails on my life, with habits like meal prepping, or working o
     
     <item>
       <title>Happy 30th, World Wide Web!</title>
-      <link>http://localhost:1313/www/</link>
+      <link>http://localhost:1313/world-wide-web/</link>
       <pubDate>Sun, 08 Aug 2021 16:13:50 +0800</pubDate>
       
-      <guid>http://localhost:1313/www/</guid>
+      <guid>http://localhost:1313/world-wide-web/</guid>
       <description>Age 6 (maybe 7?) I get my first email address. My journey to start understanding this WWW thing begins properly.
 Age 11 My computer/internet usage time is limited by two factors: Sharing a single desktop computer with my sister, and school/homework. Still, I find time to use it.
 I research for a presentation all about dolphins, complete with videos and .wav sounds that I download from different webpages. Pretty sure it’s an awesome presentation.</description>

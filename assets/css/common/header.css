@@ -72,7 +72,7 @@ body:not(.dark) #sun {
 }
 
 #menu a {
-    font-size: 16px;
+    font-size: var(--step-0);
     font-weight: 400;
     color: var(--secondary);
     display: inline-block;
@@ -115,7 +115,7 @@ body:not(.dark) #sun {
 
 .lang-switch a {
     margin: auto 3px;
-    font-size: 16px;
+    font-size: var(--step-0);
     font-weight: 500;
 }
 

@@ -25,7 +25,9 @@ UseHugoToc: false
 featured: false
 ---
 
-I like having a chill and quiet last day of the year, and I was ready to spend the whole of this last day of the year writing this. Instead, my laptop wouldn’t start up when I woke up yesterday morning — seemed emblematic of 2021’s vibes — and I spent half the day going to a couple of repair shops, receiving the bad news about a corroded motherboard, balking at the price for repair, trying to make the call on whether I should just buy a new MacBook Air/Pro and let this 2017 laptop’s value after amortization be higher than I anticipated…
+I like having a chill and quiet last day of the year, and I was ready to spend the whole of this last day of the year writing this, just as I had done [last year](/2020-year-in-review). 
+
+Instead, my laptop wouldn’t start up when I woke up yesterday morning — seemed emblematic of 2021’s vibes — and I spent half the day going to a couple of repair shops, receiving the bad news about a corroded motherboard, balking at the price for repair, trying to make the call on whether I should just buy a new MacBook Air/Pro and let this 2017 laptop’s value after amortization be higher than I anticipated…
 
 Eventually I settled on spending the repair money, because I feel like I’ll be able to stretch the lifespan out a little more and get a better value over time. Plus, I’ll be able to comfortably wait for the [M2 MacBook Air](https://www.macrumors.com/guide/2022-macbook-air/) when it comes out too.
 
