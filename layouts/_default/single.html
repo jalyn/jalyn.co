@@ -48,9 +48,6 @@
   {{ $currSlug := .File.BaseFileName }}
   {{ $backlinks := slice }}
   
-  <p>Debug: Current page RelPermalink: {{ $currRellink }}</p>
-  <p>Debug: Current page slug: {{ $currSlug }}</p>
-  
   {{ range .Site.Pages }}
       {{ if ne .RelPermalink $currRellink }}
           {{ $content := .Content }}
@@ -59,16 +56,16 @@
           {{ $foundSlug := findRE (printf `href=".*%s.*"` $currSlug) $content }}
           {{ if or $foundExact $foundRelative $foundSlug }}
               {{ $backlinks = $backlinks | append . }}
-              <p>Debug: Backlink found in {{ .RelPermalink }}</p>
-              <p>Debug: Link type: {{ if $foundExact }}Exact{{ else if $foundRelative }}Relative{{ else }}Slug{{ end }}</p>
           {{ end }}
       {{ end }}
   {{ end }}
-  
-  <p>Debug: Total backlinks found: {{ len $backlinks }}</p>
-  
+    
   {{ if $backlinks }}
+  
+  
+ 
   <div class="backlink">
+    <hr>
     <h4>Linked mentions</h4>
     <div class="linked-mentions">
       {{ range $backlinks }}
@@ -79,8 +76,7 @@
       {{ end }}
     </div>
   </div>
-  {{ else }}
-    <p>No backlinks found.</p>
+
   {{ end }}
 
   <footer class="post-footer">

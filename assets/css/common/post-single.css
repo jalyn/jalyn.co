@@ -465,7 +465,6 @@ h6:hover .anchor {
 .paginav {
     margin-top: var(--content-gap);
     display: flex;
-    line-height: 30px;
     border-radius: var(--radius);
 }
 
@@ -668,6 +667,15 @@ h6:hover .anchor {
 /* Backlinks */
 .backlink {
     margin-top: calc(var(--gap) * 4);
+}
+
+.backlink hr {
+    margin: 40px auto;    
+    height: 1px;
+    width: 30%;
+    background: var(--tertiary-bg);
+    border-top: 0;
+    border-bottom: 0;
 }
 
 .linked-mentions {
