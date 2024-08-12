@@ -208,11 +208,21 @@
     </item>
     
     <item>
-      <title>Meta</title>
-      <link>https://jalyn.co/tags/meta/</link>
+      <title>Habits</title>
+      <link>https://jalyn.co/tags/habits/</link>
       <pubDate>Sun, 22 Aug 2021 16:12:18 +0800</pubDate>
       
-      <guid>https://jalyn.co/tags/meta/</guid>
+      <guid>https://jalyn.co/tags/habits/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://jalyn.co/tags/tech/</link>
+      <pubDate>Sun, 08 Aug 2021 16:13:50 +0800</pubDate>
+      
+      <guid>https://jalyn.co/tags/tech/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
@@ -233,16 +243,6 @@
       <pubDate>Sat, 12 Jun 2021 16:20:30 +0800</pubDate>
       
       <guid>https://jalyn.co/tags/society/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Habits</title>
-      <link>https://jalyn.co/tags/habits/</link>
-      <pubDate>Sun, 11 Apr 2021 16:24:46 +0800</pubDate>
-      
-      <guid>https://jalyn.co/tags/habits/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
@@ -273,6 +273,16 @@
       <pubDate>Thu, 29 Oct 2020 16:10:09 +0800</pubDate>
       
       <guid>https://jalyn.co/tags/sleep/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Meta</title>
+      <link>https://jalyn.co/tags/meta/</link>
+      <pubDate>Sat, 28 Dec 2019 16:55:46 +0800</pubDate>
+      
+      <guid>https://jalyn.co/tags/meta/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
