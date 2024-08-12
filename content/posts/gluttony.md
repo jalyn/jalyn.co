@@ -3,7 +3,7 @@ title: 'The seven sins (and why my top-ranked is gluttony)'
 url: /gluttony
 date: 2021-08-22T16:12:18+08:00
 # weight: 1
-tags: ["meta"]
+tags: ["habits"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false

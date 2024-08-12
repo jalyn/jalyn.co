@@ -3,7 +3,7 @@ title: 'Happy 30th, World Wide Web!'
 url: /world-wide-web
 date: 2021-08-08T16:13:50+08:00
 # weight: 1
-tags: ["meta"]
+tags: ["tech"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false
