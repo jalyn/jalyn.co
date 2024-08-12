@@ -28,7 +28,7 @@ featured: true
 
 
 
-I write: on my journal every night, chronicling my frustrations at myself and working through the mess in my head.
+I write: in my journal every night, chronicling my frustrations at myself and working through the mess in my head.
 
 I write: in my notebook that I carry with me, scribbles of snippets from podcasts and books and articles. 
 

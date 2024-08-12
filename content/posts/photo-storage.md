@@ -3,7 +3,7 @@ title: On Photo Storage & Google's Take-Backsies
 url: /photo-storage
 date: 2020-11-22T19:24:50+08:00
 # weight: 1
-tags: ["storage"]
+tags: ["tech"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false

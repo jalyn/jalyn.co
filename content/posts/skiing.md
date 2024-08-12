@@ -3,7 +3,7 @@ title: 'On skiing and trying things for the first time'
 url: /skiing
 date: 2024-01-31T19:42:00+08:00
 # weight: 1
-tags: ["skiing", "hobbies"]
+tags: ["hobbies"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false

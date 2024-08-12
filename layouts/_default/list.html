@@ -1,57 +1,61 @@
 {{- define "main" }}
-  {{ if .IsHome }}
-    {{- if (and site.Params.profileMode.enabled .IsHome) }}
-      {{- partial "index_profile.html" . }}
-    {{- else }} {{/* if not profileMode */}}
-      {{- if not .IsHome | and .Title }}
-        <div class="page-header">
-          {{- partial "breadcrumbs.html" . }}
-          <h1>
-            {{/* see: https://gohugo.io/variables/taxonomy/#taxonomy-terms-page-variables */}}
-            {{- if eq .Kind "term" -}}{{- .Data.Singular }}: {{ end -}}
-            {{ .Title -}}
-          </h1>
-          {{- if .Description }}
-            <div class="post-description">
-              {{ .Description | markdownify }}
-            </div>
-          {{- end }}
-          {{- partial "inline_links.html" . -}}
+  {{ if not .IsHome | and .Title }}
+    <div class="page-header">
+      {{- partial "breadcrumbs.html" . }}
+      <h1>
+        {{- if eq .Kind "term" -}}{{- .Data.Singular }}: {{ end -}}
+        {{ .Title -}}
+      </h1>
+      {{- if .Description }}
+        <div class="post-description">
+          {{ .Description | markdownify }}
         </div>
       {{- end }}
-      
-      {{- if .Content }}
-        <div class="post-content">
-          {{- if not (.Param "disableAnchoredHeadings") }}
-            {{- partial "anchored_headings.html" .Content -}}
-          {{- else }}{{ .Content }}{{ end }}
-        </div>
-      {{- end }}
-      
-      {{ $featured := where .Site.RegularPages "Params.featured" true }}
-      {{ if $featured }}
-        {{/* [Writing]{.eyebrow} */}}
-        <div class="featured-entry">
-          {{ $featuredPosts := where .Site.RegularPages "Params.featured" true }}
-          {{ $postToShow := cond (gt (len $featuredPosts) 0) (index $featuredPosts 0) (index (where .Site.RegularPages "Type" "posts") 0) }}
-          <span class="entry-date">{{- $postToShow.Date.Format "2006-01-02" }}</span>
-          <h2><a href="{{ $postToShow.Permalink }}">{{ $postToShow.Title }}</a></h2>
-          <div class="entry-content">
-            {{ $postToShow.Summary }}
-          </div>
-          <a href="{{ $postToShow.Permalink }}" class="read-more">Read more →</a>
-        </div>
-      {{ end }}
-    {{- end }}
+      {{- partial "inline_links.html" . -}}
+    </div>
+  {{- end }}
+  
+  {{- if .Content }}
+    <div class="post-content">
+      {{- if not (.Param "disableAnchoredHeadings") }}
+        {{- partial "anchored_headings.html" .Content -}}
+      {{- else }}{{ .Content }}{{ end }}
+    </div>
+  {{- end }}
+  
+  {{ $featured := where .Site.RegularPages "Params.featured" true }}
+  {{ if $featured }}
+    {{/* [Writing]{.eyebrow} */}}
+    <div class="featured-entry">
+      {{ $featuredPosts := where .Site.RegularPages "Params.featured" true }}
+      {{ $postToShow := cond (gt (len $featuredPosts) 0) (index $featuredPosts 0) (index (where .Site.RegularPages "Type" "posts") 0) }}
+      <span class="entry-date">{{- $postToShow.Date.Format "2006-01-02" }}</span>
+      <h2><a href="{{ $postToShow.Permalink }}">{{ $postToShow.Title }}</a></h2>
+      <div class="entry-content">
+        {{ $postToShow.Summary }}
+      </div>
+      <a href="{{ $postToShow.Permalink }}" class="read-more">Read more →</a>
+    </div>
   {{ end }}
+
+  {{- if .Site.Taxonomies.tags }}
+    <div class="all-tags">
+      <h5><a href="/tags">Topics</a></h5>
+      <ul class="terms-tags">
+        {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+          <li>
+            <a href="{{ "tags/" | relURL }}{{ $name | urlize }}">{{ $name }}</a>
+          </li> 
+        {{ end }}
+      </ul>
+    </div>
+  {{- end }}
   
   {{- $pages := .Pages }}
   {{- if .IsHome }}
-    {{/* get all regular pages instead of pages in a section */}}
     {{- $pages = where site.RegularPages "Section" "in" site.Params.mainSections }}
   {{- end }}
   {{- $pages = where $pages "Params.hidden" "!=" true }}
-  {{/* related issue: https://github.com/gohugoio/hugo/issues/9003 */}}
   {{ $paginator := "" }}
   {{ if (.Param "paginate") }}
     {{- $paginator = .Paginate $pages (.Param "paginate") }}
@@ -59,28 +63,29 @@
     {{- $paginator = .Paginate $pages }}
   {{ end }}
   
-  {{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
-    {{- partial "home_info.html" . }}
+  {{- if gt (len $paginator.Pages) 0 }}
+    <div class="all-writing-header">
+      <h5>Writing</h5>
+    </div>
   {{- end }}
   
-  {{- $term := .Data.Term }}
   {{- range $index, $page := $paginator.Pages }}
     {{- $class := "post-entry" }}
-    {{- $user_preferred := or site.Params.disableSpecial1stPost site.Params.homeInfoParams }}
-    {{- if (and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) (not $user_preferred)) }}
+    {{- if (and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0)) }}
       {{- $class = "first-entry" }}
-    {{- else if $term }}
+    {{- else if .Data.Term }}
       {{- $class = "post-entry tag-entry" }}
     {{- end }}
-    <div class="entry-container"><div class="entry-header">
-      <div class="entry-info">
-        <span class="entry-date">{{- .Date.Format "2006-01-02" }}</span>
-        <span id="title" class="entry-title">
-          <a href="{{ .Permalink }}"><span class="title-text">{{ .Title }}</span></a>
-        </span>
+    <div class="entry-container">
+      <div class="entry-header">
+        <div class="entry-info">
+          <span class="entry-date">{{- .Date.Format "2006-01-02" }}</span>
+          <span id="title" class="entry-title">
+            <a href="{{ .Permalink }}"><span class="title-text">{{ .Title }}</span></a>
+          </span>
+        </div>
       </div>
     </div>
-  </div>
   {{- end }}
   
   {{- if gt $paginator.TotalPages 1 }}

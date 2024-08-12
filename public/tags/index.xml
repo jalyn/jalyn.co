@@ -28,16 +28,6 @@
     </item>
     
     <item>
-      <title>Chess</title>
-      <link>http://localhost:1313/tags/chess/</link>
-      <pubDate>Sun, 07 Apr 2024 17:21:47 +0800</pubDate>
-      
-      <guid>http://localhost:1313/tags/chess/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
       <title>Hobbies</title>
       <link>http://localhost:1313/tags/hobbies/</link>
       <pubDate>Sun, 07 Apr 2024 17:21:47 +0800</pubDate>
@@ -53,16 +43,6 @@
       <pubDate>Sun, 07 Apr 2024 17:21:47 +0800</pubDate>
       
       <guid>http://localhost:1313/tags/learnings/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Skiing</title>
-      <link>http://localhost:1313/tags/skiing/</link>
-      <pubDate>Wed, 31 Jan 2024 19:42:00 +0800</pubDate>
-      
-      <guid>http://localhost:1313/tags/skiing/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
@@ -158,16 +138,6 @@
     </item>
     
     <item>
-      <title>Poker</title>
-      <link>http://localhost:1313/tags/poker/</link>
-      <pubDate>Sun, 26 Sep 2021 16:04:11 +0800</pubDate>
-      
-      <guid>http://localhost:1313/tags/poker/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
       <title>Values</title>
       <link>http://localhost:1313/tags/values/</link>
       <pubDate>Sat, 18 Sep 2021 16:05:39 +0800</pubDate>
@@ -208,11 +178,21 @@
     </item>
     
     <item>
-      <title>Meta</title>
-      <link>http://localhost:1313/tags/meta/</link>
+      <title>Habits</title>
+      <link>http://localhost:1313/tags/habits/</link>
       <pubDate>Sun, 22 Aug 2021 16:12:18 +0800</pubDate>
       
-      <guid>http://localhost:1313/tags/meta/</guid>
+      <guid>http://localhost:1313/tags/habits/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>http://localhost:1313/tags/tech/</link>
+      <pubDate>Sun, 08 Aug 2021 16:13:50 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/tech/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
@@ -238,31 +218,11 @@
     </item>
     
     <item>
-      <title>Habits</title>
-      <link>http://localhost:1313/tags/habits/</link>
-      <pubDate>Sun, 11 Apr 2021 16:24:46 +0800</pubDate>
-      
-      <guid>http://localhost:1313/tags/habits/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
       <title>Reading</title>
       <link>http://localhost:1313/tags/reading/</link>
       <pubDate>Sun, 17 Jan 2021 16:30:59 +0800</pubDate>
       
       <guid>http://localhost:1313/tags/reading/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Storage</title>
-      <link>http://localhost:1313/tags/storage/</link>
-      <pubDate>Sun, 22 Nov 2020 19:24:50 +0800</pubDate>
-      
-      <guid>http://localhost:1313/tags/storage/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>

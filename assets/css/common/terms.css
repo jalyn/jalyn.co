@@ -1,0 +1,44 @@
+.terms-tags {
+    padding-inline-start: 0px;
+    margin: 0;
+}
+
+.terms-tags ul {
+    list-style-type: none;
+    padding: 0; /* Ensure padding is removed */
+    margin: 0;  /* Ensure margin is removed */
+}
+
+.terms-tags li {
+    display: inline-block; /* Ensure the list items are displayed inline */
+}
+
+.terms-tags li:not(:last-child)::after {
+    display: inline-block;
+    margin-right: var(--medium-gap);
+    margin-bottom: var(--small-gap);
+    font-weight: 400;
+    margin-left: var(--medium-gap); /* Add space between the tag and the separator */
+    content: " / ";
+    color: var(--tertiary); /* Set the color of the separator */
+}
+
+.terms-tags a {
+    text-decoration: none;
+    color: inherit;
+    border-bottom: 1px solid var(--tertiary);
+    transition: color 0.3s, border-bottom-color 0.3s;
+}
+
+
+.terms-tags a:hover {
+    color: var(--link-hover-color);
+    border-bottom-color: var(--link-hover-color);
+}
+
+.terms-tags a:active {
+    background: var(--tertiary-bg);
+    transform: scale(0.96);
+}
+
+

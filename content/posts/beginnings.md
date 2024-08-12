@@ -3,7 +3,7 @@ title: 'Beginnings'
 url: /beginnings
 date: 2019-12-28T16:55:46+08:00
 # weight: 1
-tags: ["meta"]
+tags: ["writing"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false

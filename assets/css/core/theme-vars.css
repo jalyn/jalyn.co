@@ -1,6 +1,8 @@
 :root {
     --gap: 24px;
     --content-gap: 24px;
+    --component-gap: 64px;
+    --medium-gap: 8px;
     --small-gap: 4px;
     --nav-width: 720px;
     --main-width: 720px;

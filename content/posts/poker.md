@@ -3,7 +3,7 @@ title: 'Life & poker'
 url: 
 date: 2021-09-26T16:04:11+08:00
 # weight: 1
-tags: ["poker", "learnings"]
+tags: ["hobbies", "learnings"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false

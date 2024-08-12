@@ -1,0 +1,32 @@
+{{- define "main" }}
+
+<!-- Breadcrumb -->
+
+
+{{- if .Title }}
+<header class="page-header">
+        <a href="{{ "tags" | absURL }}">↩ All topics</a> 
+    <h1>{{ .Title }}</h1> {{ len .Pages }} entries in this topic
+    {{- if .Description }}
+    <div class="post-description">
+        {{ .Description }}
+    </div>
+    {{- end }}
+</header>
+{{- end }}
+
+<div class="entry-container">
+    {{ range .Pages }}
+    <div class="entry-header">
+        <div class="entry-info">
+            <span class="entry-date">{{ .Date.Format "2006-01-02" }}</span>
+            <span id="title" class="entry-title">
+                <a href="{{ .Permalink }}"><span class="title-text">{{ .Title }}</span></a>
+            </span>
+        </div>
+    </div>
+    {{ end }}
+</div>
+
+{{- end }}{{/* end main */ -}}
+
