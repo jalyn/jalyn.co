@@ -1,0 +1,4 @@
+{{- $pages := . -}}
+{{- $sortedPages := sort $pages "Params.lastmod" "desc" -}}
+{{- $sortedPages = sort $sortedPages "Date" "desc" -}}
+{{- $sortedPages -}}

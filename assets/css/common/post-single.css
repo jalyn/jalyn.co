@@ -41,7 +41,7 @@
     margin: 24px 0 16px;
 }
 .post-content h3 {
-    margin: 64px 0 8px;
+    margin: 48px 0 8px;
 }
 
 .post-content h1 {
@@ -264,6 +264,7 @@ h6:hover .anchor {
 
 .post-content blockquote {
     margin: 20px 0;
+    margin-bottom: 40px;
     padding: 0 14px;
     border-inline-start: 3px solid var(--tertiary-bg);
     opacity: 0.8;
