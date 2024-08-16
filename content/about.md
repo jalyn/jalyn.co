@@ -55,16 +55,19 @@ This website started out as a blog, but I'm giving the digital garden a spin. I 
 - Personal finance (and… you know, this I’ve got a little handle on it right now!)
 - Experiments I run on myself, on the above topics
 
-## Other things that fascinate me
+### Other things that fascinate me
 
 - Travel, just like every other person out there that I know
 - Equality and intersectionality are themes close to my heart
 - I enjoy playing music, and learned to play the ukulele during the pandemic. So far I’ve only posted [one video of me playing a cover](https://web.archive.org/web/20240415025312/https://www.instagram.com/p/CB8dS2UHwDx/), but hopefully I’ll work up the courage to post more videos!
+- Coffee and matcha are new interests since 2023 -- Caffeine doesn't quite hit my brain the way it's supposed to, but it has been fun experimenting with doses
 - Stage productions — I’ve been known to center whole trips to cultural epicenters around shows I can watch
 - If time travel is a thing that will get invented, I hope my future self tells me about it
 
 ## About the site
-I use Hugo to generate content, with GitHub hosting the repo and GitHub Pages pointing to my domain for publishing. 
+I use [Hugo](https://gohugo.io/) to generate the site structure, with [GitHub](https://github.com/jalyn/jalyn.co) hosting the repo and GitHub Pages pointing to my domain for publishing. [PaperModX](https://github.com/reorx/hugo-PaperModX) is my theme of choice for now, for my learning journey into Go, Hugo and Git. 
+
+Typography wise, it's simple with [Inter](https://fonts.google.com/specimen/Inter) for both headings and body copy. I use [Utopia's fluid type scale](https://utopia.fyi/type/calculator/?c=320,14,1.125,1240,16,1.2,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12), which is really helpful in figuring out percentages based on your browser size. 
 
 I've moved from a Wordpress and shared domain hosting setup since 2019 (and since 2004, as far as tech stacks go) and I've been very happy so far on this self-hosted setup, and to not pay that yearly hosting subscription.  
 
@@ -72,9 +75,8 @@ I've moved from a Wordpress and shared domain hosting setup since 2019 (and sinc
 
 If you’re in 🇸🇬 Singapore — hey! I love meeting new people and exchanging ideas and discussions, so if you’d like that over a coffee or another beverage of choice, let's work something out!
 
-**Email:** [Say hello](mailto:jalyncai@gmail.com), if you prefer something where character limits are not a thing. 
+**Email:** Say [hello@jalyncai.com](mailto:jalyncai@gmail.com), if you prefer something where character limits are not a thing
 
 **Instagram:** Slide in [@jalynish](https://www.instagram.com/jalynish)! I limit myself to 30 minutes a day on social media, so expect some delays
 
 **Book a time:** Set up something on [my calendar](https://calendar.app.google/8TwR5GiXagiS8tws7) for a chat
-
