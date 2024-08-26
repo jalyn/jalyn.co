@@ -6,17 +6,59 @@
     <description>Recent content in Posts on Jalyn Cai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Aug 2024 11:53:40 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Aug 2024 09:54:50 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adding an iPad to my personal workflow</title>
+      <link>http://localhost:1313/ipad/</link>
+      <pubDate>Mon, 26 Aug 2024 09:54:50 +0800</pubDate>
+      
+      <guid>http://localhost:1313/ipad/</guid>
+      <description>I’ve recently acquired an old, barely-responsive iPad in my arsenal.
+It’s a 5th generation unit, and something my mother has used for at least 18 hours every day, since 2017.
+Truth be told, I’m surprised that it isn’t in a worse condition, as it was used for intensive video playing for 18 hours, every single day:
+There is noticeable burn in the screen, right in the middle The backlight is yellow and flickering The response time isn’t what you’ll call speedy The battery is at 70% of its capacity Those are my observations from a week’s usage, and it’s far from its hey day.</description>
+      <content:encoded><![CDATA[<p>I’ve recently acquired an old, barely-responsive iPad in my arsenal.</p>
+<p>It’s a 5th generation unit, and something my mother has used for at least 18 hours every day, since 2017.</p>
+<p>Truth be told, I’m surprised that it isn’t in a worse condition, as it was used for intensive video playing for 18 hours, every single day:</p>
+<ul>
+<li>There is noticeable burn in the screen, right in the middle</li>
+<li>The backlight is yellow and flickering</li>
+<li>The response time isn’t what you’ll call speedy</li>
+<li>The battery is at 70% of its capacity</li>
+</ul>
+<p>Those are my observations from a week’s usage, and it’s far from its hey day.</p>
+<p>But it <em>works,</em> and I’m having fun, experimenting how it fits in my workflow.</p>
+<h2 id="as-a-consumption-device">As a consumption device</h2>
+<p>This is undoubtedly the lowest-hanging use case, and the one with the least friction.</p>
+<p>Cutting down screen time on my phone has been a recent focus, with culprits like Reddit monopolizing much of my time and attention. Even with the app deleted on the phone!</p>
+<p>I offloaded the streaming apps from my phone, and while I’ll continue to use my Kindle for reading, it looks like I can read PDF books easier on the bigger, zoomable screen.</p>
+<h2 id="as-a-capture-device">As a capture device</h2>
+<p>My general knowledge management system revolves around… a pen, and an internet connection. It’s something I am actively experimenting with, outside the iPad conundrum.</p>
+<p><em>But</em>, until I figure that out, Notion remains my primary tool for long-form capture, and Telegram’s ability to send short messages to myself for quick capture notes.</p>
+<p>Which brings me back to connectivity as a main driver of my capture system: this iPad is WiFi-only.</p>
+<p>If I’m at home, it wouldn’t be the first thing I reach for when it comes to notes, and if I’m outside, it is less of a hassle to capture it on my phone, than if I were to tether a connection from it to the bigger device.</p>
+<p>So, that’s a no-go for my typical note-taking.</p>
+<p>But there is an edge here: scribblings and drawings.</p>
+<p>Right now, I use a random notebook from Muji capturing ideas and diagrams. I haven’t figured out the offline-to-online syncing of these ideas, other than sinking in a lot of money for a reMarkable for that purpose.</p>
+<p>But, I’ll be spending more time seeing if this new addition to the flow works.</p>
+<h2 id="as-a-writing-device">As a writing device</h2>
+<p>I was pretty delighted to realize that my keyboard connects to the iPad, even if it takes about a second for the lag to catch up.</p>
+<p>Half of this article was typed half the iPad, while I’m hanging out at a cafe.</p>
+<p>I’ll admit, the first question I posed to myself was: when will it ever be more convenient to go out with a keyboard and an iPad, versus going out with my (also new) MacBook Air?</p>
+<p>It could be the novelty speaking, but writing on the iPad might give me an edge of focus.</p>
+<p>Again, something I’ll have to experiment with a little more.</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Non-negotiable habits</title>
       <link>http://localhost:1313/non-negotiables/</link>
       <pubDate>Mon, 19 Aug 2024 11:53:40 +0800</pubDate>
       
       <guid>http://localhost:1313/non-negotiables/</guid>
-      <description>Non-negotiable habits There are things in life that people do automatically, like motor reflexes with blinking and swallowing, or actions like locking the door and — unfortunately — checking the phone for notifications.
+      <description>There are things in life that people do automatically, like motor reflexes with blinking and swallowing, or actions like locking the door and — unfortunately — checking the phone for notifications.
 Similar to values that you do not compromise on, your actions stack towards habits that form the cornerstones of your life. These actions set the tone for how you feel and provides the momentum for other positive habits you’re trying to build.</description>
-      <content:encoded><![CDATA[<h1 id="non-negotiable-habits">Non-negotiable habits</h1>
-<p>There are things in life that people <em>do</em> automatically, like motor reflexes with blinking and swallowing, or actions like locking the door and — unfortunately — checking the phone for notifications.</p>
+      <content:encoded><![CDATA[<p>There are things in life that people <em>do</em> automatically, like motor reflexes with blinking and swallowing, or actions like locking the door and — unfortunately — checking the phone for notifications.</p>
 <p>Similar to <a href="https://www.rd.com/article/non-negotiables/"   target="_blank" rel="noopener" >values that you do not compromise on</a>, your actions stack towards habits that form the cornerstones of your life. These actions set the tone for how you feel and provides the momentum for other positive habits you’re trying to build.</p>
 <hr>
 <p>With a few years of experiments on my belt, here are my non-negotiable habits as of August 2024.</p>
@@ -24,7 +66,7 @@ Similar to values that you do not compromise on, your actions stack towards habi
 <p>When the alarm on the phone goes off, I make the ten-step hike from my bed to the table and switch it off.</p>
 <p>I start a new entry in my daily log on Notion; take a pause through the haziness of sleep, and write one thing that I am grateful for, in the title of the entry.</p>
 <p>Logging it on Notion serves as a time stamp for my wake-up times, which is always useful for trend-spotting each month.</p>
-<p>I try to log down my dream(s) in the body of the note. They disappear like wisps, sometimes.</p>
+<p>I try to log down my dream(s) in the body of the note. <a href="/waking"  >They disappear like wisps, sometimes.</a></p>
 <h3 id="tracking-my-time-nutrition-and-expenses">Tracking: My time, nutrition, and expenses</h3>
 <p>Even though we now know that the quote <a href="https://nesslabs.com/what-gets-measured-gets-managed"   target="_blank" rel="noopener" >“what gets measured gets managed”</a> is a misnomer at best, and an opposite interpretation at worst, it is still helpful for me.</p>
 <p>First, it gives me the outputs for my behaviour.</p>
@@ -34,7 +76,7 @@ Similar to values that you do not compromise on, your actions stack towards habi
 <p>Secondly, and more importantly, the act of doing the thing makes me want to be more conscientious and deliberate. This has been a huge mind shift in the way I approach these building blocks of life.</p>
 <p>(Though there is something to be said about the scarcity mindset I have observed in me sometimes. Something to experiment more on!)</p>
 <h3 id="work-outs-at-least-three-times-a-week">Work outs, at least three times a week</h3>
-<p>My workout routine has me completing four workouts a week, so three times is keeping it safe on weeks where I feel like my back can’t handle more than, or if I fall sick/injured.</p>
+<p>My workout routine has me completing four workouts a week, so three times is keeping it safe on weeks where I feel like <a href="/spondy"  >my back can’t handle more than</a>, or if I fall sick/injured.</p>
 <p>On typical weeks when I’m not traveling, I pick myself up first thing in the morning to do them. It sets my energy levels higher through the day when I do, but there are slight differences in power and endurance when I do them later on in the day.</p>
 <p>As an addition, at a minimum I’m aiming for <em>activity</em> every day. It’s a morning walk these days, on days I don’t go to the gym.</p>
 <h3 id="meditating-at-least-10-minutes-a-day">Meditating, at least 10 minutes a day</h3>

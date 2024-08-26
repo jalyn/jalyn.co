@@ -3,7 +3,7 @@ title: Meditating (and how I kind of suck at it, but that's the whole point)
 url: /meditating
 date: 2022-05-16T14:43:15+08:00
 # weight: 1
-tags: ["meditating"]
+tags: ["mindset", "habits"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false

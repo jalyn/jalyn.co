@@ -3,7 +3,7 @@ title: Why and how I track every minute of my life
 url: /tracking-time
 date: 2021-08-29T16:11:11+08:00
 # weight: 1
-tags: ["productivity", "time tracking"]
+tags: ["productivity", "habits"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false

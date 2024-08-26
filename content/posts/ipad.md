@@ -4,7 +4,7 @@ url: /ipad
 date: 2024-08-26T09:54:50+08:00
 # lastmod: 2024-08-11T10:30:00-07:00
 # weight: 1
-tags: ["hardware"]
+tags: ["devices"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false

@@ -3,7 +3,7 @@ title: '(and at once i knew i was not magnificent)'
 url: /writing-stuff-playlist
 date: 2021-03-07T16:26:33+08:00
 # weight: 1
-tags: ["music"]
+tags: ["music", "hobbies", "writing"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false

@@ -56,17 +56,14 @@ It’s probably one of the least productive aspects of my life; not setting up p
 
 For me, beyond breaking in my shoes, these are some other things that are like that:
 
-**My writing progress**
+## My writing progress
+In that I don’t really *have* one. I usually sit down and start typing, which goes against everything about writing that I’ve learned (structure, an objective, a routine etc). So I just sit down, usually every Saturday or Sunday, and stare at my Notion table of all the topics I’ve brainstormed in the past, but haven’t really fleshed out.
 
-In that I don’t really *have* one. I usually sit down and start typing, which goes against everything about writing that I’ve learned (structure, an objective, etc). So I just sit down, usually every Saturday or Sunday, and stare at my Notion table of all the topics I’ve brainstormed in the past, but haven’t really fleshed out.
-
-**Food prep**
-
+## Food prep
 I try to eat moderately healthy most of the time, but I definitely do better and more consistently if I’m sticking to a routine. Ingredient prepping on Sundays help, but the space in the fridge is (very) limited, so sometimes it feels like I’m wasting a lot of time doing it on an ad-hoc basis every day, and then I just… don’t do it.
 
-**Investing monthly**
-
-This one is a little tricky. As far as I know, there’s no automated way of doing it so I can do it out-of-sight-out-of-mind, so what usually happens is that at the end of the month, I have to
+## Investing monthly
+This one is a little tricky. As far as I know, there’s no automated way of doing it so I can do it out-of-sight-out-of-mind, so what usually happens is that at the end of the month, I have to:
 
 1. transfer money from my bank to my broker account
 2. convert SGD to USD
@@ -78,4 +75,4 @@ There are things that break down here, like forgetting it in the first place, or
 
 If I start poking at more parts of my life, I can probably find more things (like lazing in bed for up to an hour at a time and conveniently skipping working out because oops no time left, or falling behind on my reading challenge and having to play catch-up all the time, or in the work context where I consistently have to create new elements for wireframes instead of having set components that I can use all the time).
 
-Instead, I’m just going to relax for the rest of this Sunday because the next few weeks at work is going to be tough before my week-long break.
+There is something to be framed around the modularity of a life well-spent.

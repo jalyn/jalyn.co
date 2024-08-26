@@ -6,7 +6,50 @@
     <description>Recent content on Jalyn Cai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Aug 2024 11:53:40 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Aug 2024 09:54:50 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adding an iPad to my personal workflow</title>
+      <link>http://localhost:1313/ipad/</link>
+      <pubDate>Mon, 26 Aug 2024 09:54:50 +0800</pubDate>
+      
+      <guid>http://localhost:1313/ipad/</guid>
+      <description>I’ve recently acquired an old, barely-responsive iPad in my arsenal.
+It’s a 5th generation unit, and something my mother has used for at least 18 hours every day, since 2017.
+Truth be told, I’m surprised that it isn’t in a worse condition, as it was used for intensive video playing for 18 hours, every single day:
+There is noticeable burn in the screen, right in the middle The backlight is yellow and flickering The response time isn’t what you’ll call speedy The battery is at 70% of its capacity Those are my observations from a week’s usage, and it’s far from its hey day.</description>
+      <content:encoded><![CDATA[<p>I’ve recently acquired an old, barely-responsive iPad in my arsenal.</p>
+<p>It’s a 5th generation unit, and something my mother has used for at least 18 hours every day, since 2017.</p>
+<p>Truth be told, I’m surprised that it isn’t in a worse condition, as it was used for intensive video playing for 18 hours, every single day:</p>
+<ul>
+<li>There is noticeable burn in the screen, right in the middle</li>
+<li>The backlight is yellow and flickering</li>
+<li>The response time isn’t what you’ll call speedy</li>
+<li>The battery is at 70% of its capacity</li>
+</ul>
+<p>Those are my observations from a week’s usage, and it’s far from its hey day.</p>
+<p>But it <em>works,</em> and I’m having fun, experimenting how it fits in my workflow.</p>
+<h2 id="as-a-consumption-device">As a consumption device</h2>
+<p>This is undoubtedly the lowest-hanging use case, and the one with the least friction.</p>
+<p>Cutting down screen time on my phone has been a recent focus, with culprits like Reddit monopolizing much of my time and attention. Even with the app deleted on the phone!</p>
+<p>I offloaded the streaming apps from my phone, and while I’ll continue to use my Kindle for reading, it looks like I can read PDF books easier on the bigger, zoomable screen.</p>
+<h2 id="as-a-capture-device">As a capture device</h2>
+<p>My general knowledge management system revolves around… a pen, and an internet connection. It’s something I am actively experimenting with, outside the iPad conundrum.</p>
+<p><em>But</em>, until I figure that out, Notion remains my primary tool for long-form capture, and Telegram’s ability to send short messages to myself for quick capture notes.</p>
+<p>Which brings me back to connectivity as a main driver of my capture system: this iPad is WiFi-only.</p>
+<p>If I’m at home, it wouldn’t be the first thing I reach for when it comes to notes, and if I’m outside, it is less of a hassle to capture it on my phone, than if I were to tether a connection from it to the bigger device.</p>
+<p>So, that’s a no-go for my typical note-taking.</p>
+<p>But there is an edge here: scribblings and drawings.</p>
+<p>Right now, I use a random notebook from Muji capturing ideas and diagrams. I haven’t figured out the offline-to-online syncing of these ideas, other than sinking in a lot of money for a reMarkable for that purpose.</p>
+<p>But, I’ll be spending more time seeing if this new addition to the flow works.</p>
+<h2 id="as-a-writing-device">As a writing device</h2>
+<p>I was pretty delighted to realize that my keyboard connects to the iPad, even if it takes about a second for the lag to catch up.</p>
+<p>Half of this article was typed half the iPad, while I’m hanging out at a cafe.</p>
+<p>I’ll admit, the first question I posed to myself was: when will it ever be more convenient to go out with a keyboard and an iPad, versus going out with my (also new) MacBook Air?</p>
+<p>It could be the novelty speaking, but writing on the iPad might give me an edge of focus.</p>
+<p>Again, something I’ll have to experiment with a little more.</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Non-negotiable habits</title>
       <link>http://localhost:1313/non-negotiables/</link>
@@ -1127,12 +1170,12 @@ I bought it in July 2019 — actually the last thing I bought on ASOS, now that 
 <p>It made me think about all the other things that I do, like I’m Sisyphus, over and over again futilely. I thought if it was like that apocryphal quote attributed to Einstein about the definition of insanity, and doing things over and over and expecting different results, but decided it wasn’t since I know what the result would be, so Sisyphus it is.</p>
 <p>It’s probably one of the least productive aspects of my life; not setting up proper frameworks so that I’m manually doing things for the first time all the time. Or it’s the lack of automation that gets me.</p>
 <p>For me, beyond breaking in my shoes, these are some other things that are like that:</p>
-<p><strong>My writing progress</strong></p>
-<p>In that I don’t really <em>have</em> one. I usually sit down and start typing, which goes against everything about writing that I’ve learned (structure, an objective, etc). So I just sit down, usually every Saturday or Sunday, and stare at my Notion table of all the topics I’ve brainstormed in the past, but haven’t really fleshed out.</p>
-<p><strong>Food prep</strong></p>
+<h2 id="my-writing-progress">My writing progress</h2>
+<p>In that I don’t really <em>have</em> one. I usually sit down and start typing, which goes against everything about writing that I’ve learned (structure, an objective, a routine etc). So I just sit down, usually every Saturday or Sunday, and stare at my Notion table of all the topics I’ve brainstormed in the past, but haven’t really fleshed out.</p>
+<h2 id="food-prep">Food prep</h2>
 <p>I try to eat moderately healthy most of the time, but I definitely do better and more consistently if I’m sticking to a routine. Ingredient prepping on Sundays help, but the space in the fridge is (very) limited, so sometimes it feels like I’m wasting a lot of time doing it on an ad-hoc basis every day, and then I just… don’t do it.</p>
-<p><strong>Investing monthly</strong></p>
-<p>This one is a little tricky. As far as I know, there’s no automated way of doing it so I can do it out-of-sight-out-of-mind, so what usually happens is that at the end of the month, I have to</p>
+<h2 id="investing-monthly">Investing monthly</h2>
+<p>This one is a little tricky. As far as I know, there’s no automated way of doing it so I can do it out-of-sight-out-of-mind, so what usually happens is that at the end of the month, I have to:</p>
 <ol>
 <li>transfer money from my bank to my broker account</li>
 <li>convert SGD to USD</li>
@@ -1141,7 +1184,7 @@ I bought it in July 2019 — actually the last thing I bought on ASOS, now that 
 <p>There are things that break down here, like forgetting it in the first place, or looking like the monkey puppet at how high it has climbed despite the world being, well. Gesturing generally at the world’s direction.</p>
 <hr>
 <p>If I start poking at more parts of my life, I can probably find more things (like lazing in bed for up to an hour at a time and conveniently skipping working out because oops no time left, or falling behind on my reading challenge and having to play catch-up all the time, or in the work context where I consistently have to create new elements for wireframes instead of having set components that I can use all the time).</p>
-<p>Instead, I’m just going to relax for the rest of this Sunday because the next few weeks at work is going to be tough before my week-long break.</p>
+<p>There is something to be framed around the modularity of a life well-spent.</p>
 ]]></content:encoded>
     </item>
     

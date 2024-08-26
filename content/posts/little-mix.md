@@ -3,7 +3,7 @@ title: 'a little (Little Mix) mix'
 url: /little-mix
 date: 2022-05-16T14:43:15+08:00
 # weight: 1
-tags: ["music"]
+tags: ["hobbies", "music"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false

@@ -3,7 +3,7 @@ title: 'Stoicism, and what we can control'
 url: /stoic
 date: 2021-02-07T16:27:43+08:00
 # weight: 1
-tags: ["stoicism"]
+tags: ["mindset"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false
