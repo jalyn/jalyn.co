@@ -23,7 +23,7 @@ ShowPostNavLinks: true
 ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
-featured: true
+featured: false
 ---
 
 There are things in life that people *do* automatically, like motor reflexes with blinking and swallowing, or actions like locking the door and — unfortunately — checking the phone for notifications. 
