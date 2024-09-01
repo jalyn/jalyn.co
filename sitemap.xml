@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jalyn.co/</loc>
+    <lastmod>2024-09-02T07:34:51+08:00</lastmod>
+  </url><url>
+    <loc>https://jalyn.co/posts/</loc>
+    <lastmod>2024-09-02T07:34:51+08:00</lastmod>
+  </url><url>
+    <loc>https://jalyn.co/tags/sleep/</loc>
+    <lastmod>2024-09-02T07:34:51+08:00</lastmod>
+  </url><url>
+    <loc>https://jalyn.co/tags/</loc>
+    <lastmod>2024-09-02T07:34:51+08:00</lastmod>
+  </url><url>
+    <loc>https://jalyn.co/winddown.md</loc>
+    <lastmod>2024-09-02T07:34:51+08:00</lastmod>
+  </url><url>
     <loc>https://jalyn.co/ipad/</loc>
     <lastmod>2024-08-26T09:54:50+08:00</lastmod>
   </url><url>
     <loc>https://jalyn.co/tags/devices/</loc>
-    <lastmod>2024-08-26T09:54:50+08:00</lastmod>
-  </url><url>
-    <loc>https://jalyn.co/</loc>
-    <lastmod>2024-08-26T09:54:50+08:00</lastmod>
-  </url><url>
-    <loc>https://jalyn.co/posts/</loc>
-    <lastmod>2024-08-26T09:54:50+08:00</lastmod>
-  </url><url>
-    <loc>https://jalyn.co/tags/</loc>
     <lastmod>2024-08-26T09:54:50+08:00</lastmod>
   </url><url>
     <loc>https://jalyn.co/tags/habits/</loc>
@@ -158,9 +164,6 @@
     <loc>https://jalyn.co/waking/</loc>
     <lastmod>2021-05-16T16:23:41+08:00</lastmod>
   </url><url>
-    <loc>https://jalyn.co/shoes/</loc>
-    <lastmod>2021-04-11T16:24:46+08:00</lastmod>
-  </url><url>
     <loc>https://jalyn.co/writing-stuff-playlist/</loc>
     <lastmod>2021-03-07T16:26:33+08:00</lastmod>
   </url><url>
@@ -184,9 +187,6 @@
   </url><url>
     <loc>https://jalyn.co/photo-storage/</loc>
     <lastmod>2020-11-22T19:24:50+08:00</lastmod>
-  </url><url>
-    <loc>https://jalyn.co/tags/sleep/</loc>
-    <lastmod>2020-10-29T16:10:09+08:00</lastmod>
   </url><url>
     <loc>https://jalyn.co/sleep/</loc>
     <lastmod>2020-10-29T16:10:09+08:00</lastmod>
