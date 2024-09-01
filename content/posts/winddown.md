@@ -1,6 +1,6 @@
 ---
 title: 'Trying a new wind-down routine'
-url: /winddown.md
+url: /winddown
 date: 2024-09-02T07:34:51+08:00
 # lastmod: 2024-08-11T10:30:00-07:00
 # weight: 1
