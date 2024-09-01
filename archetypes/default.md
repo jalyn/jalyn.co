@@ -6,13 +6,11 @@ date: {{ .Date }}
 # weight: 1
 tags: [""]
 author: "Me"
-# author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-# description: "Desc Text."
 disableHLJS: true # to disable highlightjs
 disableShare: false
 hideSummary: true
@@ -23,5 +21,5 @@ ShowPostNavLinks: true
 ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
-featured: false
+featured: true
 ---

@@ -23,7 +23,7 @@ ShowPostNavLinks: true
 ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
-featured: true
+featured: false
 ---
 
 
