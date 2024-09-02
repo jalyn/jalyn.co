@@ -687,10 +687,10 @@ h6:hover .anchor {
   }
 
   .mention-item {
-    border: 1px solid var(--tertiary-bg);
+    /* border: 1px solid var(--tertiary-bg);
     border-radius: var(--radius);
     padding: calc(var(--content-gap) * 0.8);
-    padding-top: 32px;
+    padding-top: 32px; */
   }
 
   .linked-mentions a .mention-item h5 {
