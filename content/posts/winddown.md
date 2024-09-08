@@ -21,7 +21,7 @@ ShowPostNavLinks: true
 ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
-featured: true
+featured: false
 ---
 
 The last time I talked about [my sleep was in 2020](/sleep), where I laid out how terrible my night routine was, amidst other things. 
