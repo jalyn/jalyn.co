@@ -28,7 +28,7 @@ There’s just something about streaks.
 
 The dopamine hitting as I see the numbers go higher, the satisfaction of knowing I kept a small promise to myself. 
 
-Then there are the *actual* benefits of these streaks, which are the habits that are now ingrained in my life, like (/non-negotiables)[the mental clarity with mediation, the documentation of my days and life while journaling, the cultivating of a more resilient and happier mindset with a gratitude practice, and then some].
+Then there are the *actual* benefits of these streaks, which are the habits that are now ingrained in my life, [like the mental clarity with mediation, the documentation of my days and life while journaling, the cultivating of a more resilient and happier mindset with a gratitude practice, and then some](/non-negotiables).
 
 
 ***
