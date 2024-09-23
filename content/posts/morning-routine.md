@@ -21,7 +21,7 @@ ShowPostNavLinks: true
 ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
-featured: true
+featured: false
 ---
 
 I used to be *that* person. You know, the one who would wake up at 8:47 if I had to be out of the house by 9, patting myself on the back for not wasting any time.
