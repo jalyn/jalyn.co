@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jalyn.co/</loc>
+    <lastmod>2024-09-23T20:22:34+08:00</lastmod>
+  </url><url>
+    <loc>https://jalyn.co/posts/</loc>
+    <lastmod>2024-09-23T20:22:34+08:00</lastmod>
+  </url><url>
+    <loc>https://jalyn.co/posts/travel/</loc>
+    <lastmod>2024-09-23T20:22:34+08:00</lastmod>
+  </url><url>
     <loc>https://jalyn.co/tags/habits/</loc>
     <lastmod>2024-09-15T20:14:58+08:00</lastmod>
   </url><url>
-    <loc>https://jalyn.co/</loc>
-    <lastmod>2024-09-15T20:14:58+08:00</lastmod>
-  </url><url>
     <loc>https://jalyn.co/morning-routines/</loc>
-    <lastmod>2024-09-15T20:14:58+08:00</lastmod>
-  </url><url>
-    <loc>https://jalyn.co/posts/</loc>
     <lastmod>2024-09-15T20:14:58+08:00</lastmod>
   </url><url>
     <loc>https://jalyn.co/tags/productivity/</loc>
