@@ -21,7 +21,7 @@ ShowPostNavLinks: true
 ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
-featured: true
+featured: false
 ---
 
 We’re told that travel is for escaping. Exploration. Finding ourselves. Change.
