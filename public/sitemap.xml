@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/change/</loc>
+    <lastmod>2024-10-13T20:49:34+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-29T21:44:01+08:00</lastmod>
+    <lastmod>2024-10-13T20:49:34+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/mindset/</loc>
-    <lastmod>2024-09-29T21:44:01+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/motion/</loc>
-    <lastmod>2024-09-29T21:44:01+08:00</lastmod>
+    <lastmod>2024-10-13T20:49:34+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-09-29T21:44:01+08:00</lastmod>
+    <lastmod>2024-10-13T20:49:34+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-10-13T20:49:34+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/writing/</loc>
+    <lastmod>2024-10-13T20:49:34+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/motion/</loc>
     <lastmod>2024-09-29T21:44:01+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/travel/</loc>
@@ -51,9 +57,6 @@
     <lastmod>2024-08-19T11:53:40+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/digital-garden/</loc>
-    <lastmod>2024-08-09T22:48:16+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/writing/</loc>
     <lastmod>2024-08-09T22:48:16+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ios-unstuck/</loc>

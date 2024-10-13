@@ -21,7 +21,7 @@ ShowPostNavLinks: true
 ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: false
-featured: true
+featured: false
 ---
 
 It’s easy to get caught up with *doing things*. 
